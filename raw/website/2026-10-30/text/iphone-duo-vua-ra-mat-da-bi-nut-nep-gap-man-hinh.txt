@@ -1,0 +1,223 @@
+﻿URL: https://giahuemobile.com/iphone-duo-vua-ra-mat-da-bi-nut-nep-gap-man-hinh/
+TYPE: post
+TITLE: IPhone Duo Vừa Ra Mắt Đã Bị Nứt Nếp Gấp Màn Hình: Nguyên Nhân Do Đâu?
+META: iPhone Duo vừa mở bán đã ghi nhận sự cố nứt màn hình nếp gấp. Tìm hiểu nguyên nhân nghi vấn từ bản lề, phản hồi của Apple và cách xử lý an toàn.
+CANONICAL: https://giahuemobile.com/iphone-duo-vua-ra-mat-da-bi-nut-nep-gap-man-hinh/
+ROBOTS: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+PUBLISHED: 2026-10-26T11:31:24+07:00 | MODIFIED: 2026-10-26T11:53:19+07:00
+H1: iPhone Duo Vừa Ra Mắt Đã Bị Nứt Nếp Gấp Màn Hình: Nguyên Nhân Do Đâu?
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+H2: 1. Màn Hình iPhone Duo Vừa Ra Mắt Đã Gặp Sự Cố Nứt Nếp Gấp Như Thế Nào?
+H2: 2. Diễn Biến Thực Tế Các Trường Hợp iPhone Duo Bị Nứt Màn Hình
+  H3: 2.1. Một chiếc iPhone Duo nứt màn hình sau khoảng 6 giờ sử dụng
+  H3: 2.2. Một số máy gặp lỗi ngay trong quá trình thiết lập ban đầu
+  H3: 2.3. Vì sao một vết nứt nhỏ có thể khiến màn hình xuất hiện sọc trắng?
+H2: 3. Nguyên Nhân iPhone Duo Bị Nứt Màn Hình Nếp Gấp Có Phải Do Bản Lề?
+  H3: 3.1. Cấu trúc màn hình gập và áp lực tại nếp gấp
+  H3: 3.2. iFixit phát hiện điều gì khi tháo máy iPhone Duo?
+  H3: 3.3. Phân tích mới ngày 26/10: Một chi tiết bản lề có thể là điểm yếu
+H2: 4. Apple Đã Phản Hồi Thế Nào Về Sự Cố Nứt Màn Hình iPhone Duo?
+  H3: 4.1. Một số trường hợp đã được Apple Store đổi máy
+  H3: 4.2. Apple đã xác nhận đây là lỗi thiết kế hay lỗi sản xuất chưa?
+  H3: 4.3. iPhone Duo bị nứt màn hình có được bảo hành không?
+H2: 5. Sự Cố Nứt Nếp Gấp Có Phải Là Vấn Đề Chung Của Điện Thoại Màn Hình Gập?
+H2: 6. Kết Luận: Có Nên Lo Ngại Về Độ Bền Màn Hình iPhone Duo?
+INTERNAL_LINKS (0): 
+WORDS: 2852 | IMAGES: 5 | FAQ: no
+=== BODY ===
+iPhone Duo, mẫu iPhone màn hình gập đầu tiên của Apple, đã ghi nhận một số trường hợp nứt màn hình trong dọc nếp gấp chỉ sau vài giờ sử dụng, dù sản phẩm mới chính thức mở bán ngày 23/10/2026. Các hình ảnh được người dùng chia sẻ cho thấy vết nứt tập trung gần trục bản lề, một số máy xuất hiện thêm sọc sáng trắng và vùng hiển thị bất thường. Đáng chú ý, có khách hàng được Apple Store hỗ trợ đổi thiết bị mới, nhưng nguyên nhân chính xác và phạm vi ảnh hưởng vẫn chưa được Apple xác nhận.
+
+Sự việc nhanh chóng thu hút sự quan tâm của cộng đồng công nghệ bởi iPhone Duo là thế hệ điện thoại gập đầu tiên của Apple, sử dụng màn hình OLED dẻo 7,6 inch cùng cơ cấu bản lề phức tạp. Những phản ánh ban đầu đặt ra câu hỏi về khả năng phân bố lực tại nếp gấp, độ bền thực tế của màn hình và cách Apple xử lý khi thiết bị gặp lỗi trong thời gian đầu sử dụng.
+
+(Nguồn: Apple Newsroom, 23/10/2026 ; The Verge, 24/10/2026 )
+
+Mục lục
+
+ Toggle 
+
+- 1. Màn Hình iPhone Duo Vừa Ra Mắt Đã Gặp Sự Cố Nứt Nếp Gấp Như Thế Nào? 
+- 2. Diễn Biến Thực Tế Các Trường Hợp iPhone Duo Bị Nứt Màn Hình 
+- 2.1. Một chiếc iPhone Duo nứt màn hình sau khoảng 6 giờ sử dụng 
+- 2.2. Một số máy gặp lỗi ngay trong quá trình thiết lập ban đầu 
+- 2.3. Vì sao một vết nứt nhỏ có thể khiến màn hình xuất hiện sọc trắng? 
+ 
+- 3. Nguyên Nhân iPhone Duo Bị Nứt Màn Hình Nếp Gấp Có Phải Do Bản Lề? 
+- 3.1. Cấu trúc màn hình gập và áp lực tại nếp gấp 
+- 3.2. iFixit phát hiện điều gì khi tháo máy iPhone Duo? 
+- 3.3. Phân tích mới ngày 26/10: Một chi tiết bản lề có thể là điểm yếu 
+ 
+- 4. Apple Đã Phản Hồi Thế Nào Về Sự Cố Nứt Màn Hình iPhone Duo? 
+- 4.1. Một số trường hợp đã được Apple Store đổi máy 
+- 4.2. Apple đã xác nhận đây là lỗi thiết kế hay lỗi sản xuất chưa? 
+- 4.3. iPhone Duo bị nứt màn hình có được bảo hành không? 
+ 
+- 5. Sự Cố Nứt Nếp Gấp Có Phải Là Vấn Đề Chung Của Điện Thoại Màn Hình Gập? 
+- 6. Kết Luận: Có Nên Lo Ngại Về Độ Bền Màn Hình iPhone Duo? 
+
+## 1. Màn Hình iPhone Duo Vừa Ra Mắt Đã Gặp Sự Cố Nứt Nếp Gấp Như Thế Nào?
+
+ man-hinh-iphone-duo-vua-ra-mat-bi-nut-nep-gap 
+
+Ngay sau khi iPhone Duo đến tay những người mua đầu tiên, một số chủ sở hữu đã chia sẻ hình ảnh màn hình bên trong xuất hiện vết nứt chạy dọc khu vực nếp gấp. Điểm đáng chú ý là các trường hợp được công bố có biểu hiện tương đồng, dù thời gian sử dụng của thiết bị còn rất ngắn.
+
+Theo 9to5Mac, đến ngày 25/10/2026, trang công nghệ này đã ghi nhận khoảng 10 trường hợp riêng biệt được chia sẻ trên mạng xã hội và diễn đàn Reddit. Những máy gặp sự cố thường xuất hiện các dấu hiệu:
+
+- Nứt dọc nếp gấp: Đường nứt hình thành gần trục bản lề, nơi màn hình phải uốn cong mỗi khi đóng mở. 
+
+- Xuất hiện sọc sáng trắng: Một số thiết bị có dải điểm ảnh sáng bất thường chạy ngang màn hình, giao với khu vực nếp gấp. 
+
+- Hư hỏng sau thời gian ngắn: Có trường hợp phát hiện lỗi chỉ sau vài giờ hoặc ngay trong quá trình thiết lập điện thoại. 
+
+- Không ghi nhận va đập rõ ràng: Một số người dùng cho biết máy không bị rơi, móp khung hay chịu tác động mạnh trước khi màn hình gặp sự cố. 
+
+Điều đáng quan tâm không chỉ nằm ở thời gian sử dụng ngắn mà còn ở vị trí hư hỏng tương đồng giữa các thiết bị. Tuy nhiên, khoảng 10 trường hợp được báo chí ghi nhận không đồng nghĩa có thể xác định tỷ lệ lỗi trên toàn bộ sản phẩm đã bán ra.
+
+(Nguồn: 9to5Mac – Some iPhone Duo Displays Are Cracking, Seemingly All in the Same Way, 25/10/2026 )
+
+## 2. Diễn Biến Thực Tế Các Trường Hợp iPhone Duo Bị Nứt Màn Hình
+
+ Diễn biến thực tế các trường hợp iPhone Duo bị nứt màn hình tại nếp gấp 
+
+### 2.1. Một chiếc iPhone Duo nứt màn hình sau khoảng 6 giờ sử dụng
+
+Một trong những trường hợp được chú ý nhiều nhất xuất hiện tại Australia. Theo The Verge, chủ thiết bị cho biết chiếc iPhone Duo mới mua đã bị nứt màn hình sau khoảng 6 giờ sử dụng và chưa đến 20 lần mở máy.
+
+Sự cố xảy ra khi người này mở điện thoại để giới thiệu với bạn bè. Trong lúc thao tác, chủ máy cảm thấy có điểm bất thường bên dưới màn hình, gần bản lề, sau đó nghe thấy tiếng nứt và phát hiện màn hình bên trong bị hư hỏng dọc đường gập.
+
+Người dùng khẳng định không nhận thấy dấu hiệu va đập bên ngoài hoặc vật cứng mắc kẹt giữa hai nửa màn hình. Sau khi mang thiết bị đến Apple Store, khách hàng được hỗ trợ đổi sang máy mới.
+
+Đây là trường hợp được người dùng thuật lại và truyền thông dẫn chứng, chưa phải kết quả giám định độc lập xác định nguyên nhân hư hỏng.
+
+(Nguồn: The Verge – The First Broken iPhone Duos Are Here, 24/10/2026 )
+
+### 2.2. Một số máy gặp lỗi ngay trong quá trình thiết lập ban đầu
+
+Không chỉ trường hợp tại Australia, 9to5Mac còn tổng hợp các phản ánh tương tự từ những chủ sở hữu khác.
+
+Một số người cho biết màn hình đã xuất hiện vết nứt khi họ chưa hoàn tất quá trình cài đặt thiết bị. Trong khi đó, có trường hợp cảm nhận bản lề trở nên cứng bất thường trước khi nghe thấy tiếng động và phát hiện màn hình hỏng.
+
+Những thông tin này cho thấy sự cố không nhất thiết chỉ xuất hiện sau quá trình sử dụng lâu dài. Dù vậy, vẫn cần kiểm tra từng thiết bị để phân biệt lỗi cơ khí, lỗi sản xuất hoặc tác động phát sinh trong quá trình sử dụng.
+
+(Nguồn: 9to5Mac, 25/10/2026 )
+
+### 2.3. Vì sao một vết nứt nhỏ có thể khiến màn hình xuất hiện sọc trắng?
+
+Màn hình OLED dẻo gồm nhiều lớp vật liệu mỏng, trong đó có lớp hiển thị, các đường kết nối điện và những lớp hỗ trợ cho khả năng uốn cong.
+
+Khi một vùng của tấm nền chịu áp lực bất thường, các lớp bên trong hoặc đường dẫn tín hiệu có thể bị tổn thương. Nếu hư hỏng ảnh hưởng đến đường điều khiển một hàng hoặc cột điểm ảnh, lỗi hiển thị có thể kéo dài thành một dải sáng thay vì chỉ giới hạn ở vị trí nứt.
+
+Điều này giải thích vì sao trên một số iPhone Duo, vết nứt nằm gần nếp gấp nhưng dải điểm ảnh sáng trắng lại xuất hiện theo hướng ngang màn hình.
+
+Theo phân tích của iFixit, một hư hỏng điện rất nhỏ tại khu vực kết nối có thể ảnh hưởng đến cả hàng hoặc cột điểm ảnh. Vì thế, diện tích sọc hiển thị không nhất thiết tương ứng với kích thước vùng tổn thương vật lý ban đầu.
+
+(Nguồn: iFixit – iPhone Duo Teardown, 25/10/2026 )
+
+## 3. Nguyên Nhân iPhone Duo Bị Nứt Màn Hình Nếp Gấp Có Phải Do Bản Lề?
+
+ Kiểm tra bản lề iPhone Duo khi màn hình bị nứt tại nếp gấp 
+
+ Cơ cấu bản lề là một trong những nguyên nhân đang được nghi ngờ, nhưng hiện chưa có kết luận chính thức từ Apple. Các phân tích tháo máy cho thấy một số chi tiết cơ khí nằm gần vị trí xuất hiện vết nứt có thể tạo ra áp lực tập trung lên màn hình nếu chuyển động không đúng thiết kế.
+
+### 3.1. Cấu trúc màn hình gập và áp lực tại nếp gấp
+
+Khác với màn hình phẳng thông thường, màn hình trong của iPhone Duo phải liên tục thay đổi hình dạng khi thiết bị đóng mở.
+
+Apple sử dụng cơ cấu bản lề gồm nhiều khớp nối, bánh răng đồng bộ và bộ phận nâng đỡ nhằm kiểm soát bán kính uốn cong của tấm nền.
+
+Khi gập, màn hình được đưa vào một khoảng không có dạng giọt nước, giúp giảm mức độ uốn gắt tại một điểm. Các lớp vật liệu siêu mỏng cũng cần có khả năng dịch chuyển tương đối với nhau để hạn chế lực kéo và lực nén.
+
+Về nguyên lý, nếu các bộ phận nâng đỡ hoạt động không đồng bộ, áp lực có thể tập trung tại một vùng nhỏ thay vì phân bố đều dọc nếp gấp. Điều này làm tăng nguy cơ hư hỏng vật liệu hoặc mạch hiển thị.
+
+Tuy nhiên, đây là cách giải thích về cơ chế kỹ thuật có thể xảy ra, không phải bằng chứng xác nhận tất cả iPhone Duo bị nứt đều do bản lề.
+
+(Nguồn: Apple – Giới thiệu iPhone Duo, 15/10/2026 ; iFixit, 25/10/2026 )
+
+### 3.2. iFixit phát hiện điều gì khi tháo máy iPhone Duo?
+
+Trong bài phân tích công bố ngày 25/10/2026, iFixit đã tháo rời iPhone Duo, nghiên cứu hình ảnh chụp cắt lớp và đối chiếu mô hình bản lề với vị trí hư hỏng được người dùng chia sẻ.
+
+Kết quả cho thấy các vết nứt tập trung gần khu vực chuyển tiếp giữa khoảng trống dành cho cáp kết nối và bộ phận đỡ trung tâm của bản lề.
+
+iFixit đưa ra giả thuyết rằng nếu một thanh đỡ trung tâm không hạ xuống đủ khi máy gập, phần màn hình đang uốn cong có thể tiếp xúc với thanh này và chịu
+
+### 3.3. Phân tích mới ngày 26/10: Một chi tiết bản lề có thể là điểm yếu
+
+Theo The Verge ngày 26/10/2026, YouTuber CuriousHagi đã tiến hành thử nghiệm độ bền và tháo máy để tìm hiểu hiện tượng nứt màn hình.
+
+Trong quá trình kiểm tra, người này phát hiện một khớp liên kết ở vùng giữa bản lề có cấu tạo mỏng hơn các khớp nằm phía trên và phía dưới. Chi tiết này bị gãy tại một vị trí có rãnh nhỏ, đồng thời xuất hiện dấu vết tiếp xúc giữa bản lề và tấm đỡ màn hình.
+
+Kết quả thử nghiệm cung cấp thêm một giả thuyết: một chi tiết liên kết cơ khí bị hư hỏng hoặc kẹt có thể khiến lực tác động lên màn hình tăng bất thường trong lúc đóng mở.
+
+Tuy vậy, việc tái hiện lỗi trên thiết bị thử nghiệm chưa chứng minh đây là nguyên nhân chung của tất cả những trường hợp người dùng đã phản ánh.
+
+(Nguồn: The Verge – A YouTuber Dissected an iPhone Duo and Thinks He Found the Cause of Crackgate, 26/10/2026 )
+
+## 4. Apple Đã Phản Hồi Thế Nào Về Sự Cố Nứt Màn Hình iPhone Duo?
+
+ Người dùng xem phản hồi của Apple về sự cố nứt màn hình iPhone Duo 
+
+Tính đến ngày 26/10/2026, chưa ghi nhận thông báo chính thức từ Apple xác định nguyên nhân hoặc công bố chương trình đổi mới đồng loạt dành riêng cho các trường hợp iPhone Duo bị nứt màn hình tại nếp gấp.
+
+Tuy nhiên, một số khách hàng đã được Apple Store hỗ trợ đổi thiết bị sau khi mang máy đến kiểm tra.
+
+### 4.1. Một số trường hợp đã được Apple Store đổi máy
+
+Trường hợp tại Australia được The Verge ghi nhận cho thấy khách hàng đã nhận được thiết bị thay thế sau khi mang chiếc iPhone Duo bị nứt màn hình đến Apple Store.
+
+Theo 9to5Mac, nhiều chủ máy gặp tình trạng tương tự cũng được hỗ trợ đổi trực tiếp. Trong khi đó, một số khách hàng mua thiết bị qua nhà mạng gặp khó khăn hơn do đơn vị bán hàng không có sẵn máy thay thế.
+
+Những trường hợp này cho thấy đã có hoạt động hỗ trợ khách hàng tại các điểm bán, nhưng chưa đủ cơ sở để coi đó là chính sách đổi mới tự động dành cho mọi thiết bị bị nứt màn hình.
+
+(Nguồn: The Verge, 24/10/2026 ; 9to5Mac, 25/10/2026 )
+
+### 4.2. Apple đã xác nhận đây là lỗi thiết kế hay lỗi sản xuất chưa?
+
+Chưa.
+
+Hiện các giả thuyết về bản lề, thanh đỡ trung tâm và hiện tượng tập trung lực mới xuất phát từ phân tích của những đơn vị kỹ thuật độc lập.
+
+Chưa có thông tin chính thức xác nhận lỗi thuộc một lô sản xuất cụ thể, xảy ra trên toàn bộ sản phẩm hay xuất phát từ cùng một nguyên nhân.
+
+Vì vậy, cần tránh kết luận rằng iPhone Duo mắc lỗi thiết kế hàng loạt chỉ dựa trên một số trường hợp được chia sẻ trên mạng xã hội.
+
+### 4.3. iPhone Duo bị nứt màn hình có được bảo hành không?
+
+Khả năng bảo hành hoặc đổi máy phụ thuộc vào kết quả kiểm tra và các điều kiện áp dụng cho từng thiết bị.
+
+Nếu điện thoại mới mua xuất hiện vết nứt bất thường mà không có dấu hiệu tác động từ bên ngoài, người dùng nên liên hệ Apple hoặc trung tâm dịch vụ được ủy quyền để yêu cầu đánh giá nguyên nhân.
+
+Không nên tự ý tháo máy hoặc can thiệp bản lề trước khi thực hiện thủ tục bảo hành, bởi điều này có thể khiến quá trình xác định tình trạng ban đầu trở nên phức tạp hơn.
+
+## 5. Sự Cố Nứt Nếp Gấp Có Phải Là Vấn Đề Chung Của Điện Thoại Màn Hình Gập?
+
+ So sánh nếp gấp trên các điện thoại màn hình gập và trường hợp bị nứt 
+
+Màn hình gập có cấu trúc phức tạp hơn màn hình phẳng do phải kết hợp vật liệu hiển thị linh hoạt với cơ cấu bản lề chuyển động.
+
+Trong quá trình sử dụng, khu vực nếp gấp phải chịu các chu kỳ uốn cong lặp lại. Độ bền thực tế phụ thuộc vào nhiều yếu tố như bán kính uốn, khả năng phân bố lực, vật liệu lớp phủ, cơ cấu nâng đỡ và độ chính xác khi lắp ráp.
+
+Các thế hệ điện thoại gập đã có nhiều cải tiến nhằm giảm nếp gấp và hạn chế áp lực lên màn hình. Tuy nhiên, không có nghĩa những cấu trúc này hoàn toàn loại bỏ được rủi ro hư hỏng cơ học.
+
+Trường hợp iPhone Duo cho thấy một vấn đề đáng chú ý: nếu các bộ phận của bản lề hoạt động không đúng vị trí, một điểm tiếp xúc nhỏ cũng có thể ảnh hưởng đến vùng màn hình lớn hơn nhiều.
+
+Mặt khác, không thể sử dụng một số trường hợp hư hỏng sớm để kết luận toàn bộ công nghệ màn hình gập thiếu độ bền. Cần có thêm kết quả phân tích kỹ thuật và dữ liệu sử dụng thực tế trong thời gian dài.
+
+(Nguồn: iFixit, 25/10/2026 )
+
+## 6. Kết Luận: Có Nên Lo Ngại Về Độ Bền Màn Hình iPhone Duo?
+
+Việc iPhone Duo xuất hiện những trường hợp nứt màn hình nếp gấp chỉ sau vài giờ sử dụng là thông tin đáng quan tâm, đặc biệt khi một số thiết bị có biểu hiện hư hỏng tương đồng.
+
+Tuy nhiên, những dữ liệu được công bố đến ngày 26/10/2026 chưa đủ để kết luận đây là lỗi phổ biến hoặc ảnh hưởng đến toàn bộ sản phẩm. Các phân tích từ iFixit và những thử nghiệm tháo máy độc lập cho thấy bản lề có thể đóng vai trò quan trọng, nhưng nguyên nhân chính xác vẫn cần thêm bằng chứng.
+
+Đối với người đang sử dụng iPhone Duo, điều quan trọng là chú ý những thay đổi bất thường tại nếp gấp, không cố tác động lực khi bản lề bị kẹt và ưu tiên kiểm tra bảo hành nếu thiết bị có dấu hiệu hư hỏng.
+
+Gia Huệ Mobile sẽ tiếp tục cập nhật thông tin kỹ thuật và kết luận chính thức từ Apple khi có dữ liệu mới, nhằm giúp người dùng hiểu đúng về cấu trúc màn hình gập và lựa chọn phương án xử lý phù hợp.
+
+Cập nhật: 26/10/2026. Nội dung tổng hợp từ Apple Newsroom, The Verge, 9to5Mac và iFixit. Các giả thuyết về nguyên nhân hư hỏng được phân biệt với những thông tin đã được xác nhận.

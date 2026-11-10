@@ -1,0 +1,44 @@
+﻿URL: https://giahuemobile.com/chinh-sach-giao-hang/
+TYPE: page
+TITLE: Chính Sách Giao Hàng – Gia Huệ Mobile
+META: Lưu ý: Thời gian giao nhận thực tế có thể kéo dài hơn dự kiến do các yếu tố khách quan như thời tiết, thiên tai, dịch bệnh hoặc sự cố vận hành từ đơn vị
+CANONICAL: https://giahuemobile.com/chinh-sach-giao-hang/
+ROBOTS: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+PUBLISHED: 2026-03-27T09:09:12+07:00 | MODIFIED: 2026-07-20T10:43:56+07:00
+H1: 
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+  H3: 1. Phương thức giao nhận thiết bị
+  H3: 2. Thời gian giao nhận dự kiến
+  H3: 3. Quy định về đồng kiểm (Xem hàng khi nhận)
+INTERNAL_LINKS (0): 
+WORDS: 260 | IMAGES: 0 | FAQ: no
+=== BODY ===
+### 1. Phương thức giao nhận thiết bị
+
+ Để phục vụ khách hàng ở xa có nhu cầu sửa chữa hoặc mua linh kiện, website Gia Huệ Mobile phối hợp sử dụng các phương thức: 
+
+- 
+
+- Vận chuyển bằng nhân viên của cửa hàng (áp dụng cho khu vực nội thành trong phạm vi hỗ trợ). 
+
+- Thuê các đơn vị chuyển phát bên thứ ba (Giao Hàng Tiết Kiệm, Viettel Post, Nhất Tín…) để giao nhận máy tận nơi trên toàn quốc. 
+
+### 2. Thời gian giao nhận dự kiến
+
+- 
+
+- Khu vực nội thành: Thông thường từ 1 đến 2 ngày làm việc. 
+
+- Khu vực ngoại tỉnh/Toàn quốc: Thông thường từ 3 đến 5 ngày làm việc (không tính Chủ nhật và các ngày lễ). 
+
+Lưu ý: Thời gian giao nhận thực tế có thể kéo dài hơn dự kiến do các yếu tố khách quan như thời tiết, thiên tai, dịch bệnh hoặc sự cố vận hành từ đơn vị chuyển phát. 
+
+### 3. Quy định về đồng kiểm (Xem hàng khi nhận)
+
+Khi nhận lại thiết bị đã sửa chữa hoặc linh kiện được giao tới, khách hàng được quyền mở gói hàng để kiểm tra về mặt ngoại quan (đúng mẫu mã, không bị nứt vỡ do vận chuyển) trước khi thanh toán cho nhân viên giao hàng. Trường hợp phát hiện hư hỏng do vận chuyển, khách hàng có quyền từ chối nhận và liên hệ ngay với hotline của Gia Huệ Mobile để được hỗ trợ xử lý kịp thời.

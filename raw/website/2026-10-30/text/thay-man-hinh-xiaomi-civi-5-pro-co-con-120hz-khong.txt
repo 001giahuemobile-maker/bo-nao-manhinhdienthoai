@@ -1,0 +1,281 @@
+﻿URL: https://giahuemobile.com/thay-man-hinh-xiaomi-civi-5-pro-co-con-120hz-khong/
+TYPE: post
+TITLE: Thay Màn Hình Xiaomi Civi 5 Pro Có Còn 120Hz Không
+META: Thay màn hình Xiaomi Civi 5 Pro có còn 120Hz không? Giải đáp ngay khả năng giữ 120Hz sau khi thay màn, cách kiểm tra và lưu ý để màn mới hiển thị mượt như ban đầu.
+CANONICAL: https://giahuemobile.com/thay-man-hinh-xiaomi-civi-5-pro-co-con-120hz-khong/
+ROBOTS: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+PUBLISHED: 2026-10-06T10:43:56+07:00 | MODIFIED: 2026-10-06T11:07:12+07:00
+H1: Thay Màn Hình Xiaomi Civi 5 Pro Có Còn 120Hz Không
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+H2: 1. 120Hz trên Xiaomi Civi 5 Pro hoạt động như thế nào?
+  H3: Màn hình Civi 5 Pro hỗ trợ tần số quét tối đa 120Hz
+  H3: Tần số quét có thay đổi trong quá trình sử dụng không?
+  H3: 120Hz khác gì với tốc độ lấy mẫu cảm ứng?
+H2: 2. Thay màn hình có ảnh hưởng đến tần số quét 120Hz không?
+  H3: Màn hình thay thế cần hỗ trợ đúng 120Hz
+  H3: Vì sao có trường hợp thay màn xong chỉ còn 60Hz?
+  H3: Màn 120Hz khác màn 60Hz như thế nào khi sử dụng?
+H2: 3. Vì sao Xiaomi Civi 5 Pro sau khi thay màn có thể không lên 120Hz?
+  H3: Máy đang đặt ở chế độ tần số quét thấp
+  H3: Chế độ tiết kiệm pin hoặc nhiệt độ máy đang ảnh hưởng đến độ mượt
+  H3: Màn hình thay thế không hỗ trợ đầy đủ 120Hz
+H2: 4. Cách kiểm tra Xiaomi Civi 5 Pro có đang chạy 120Hz hay không
+  H3: Kiểm tra tần số quét trong phần cài đặt
+  H3: Bật hiển thị tốc độ làm mới trong tùy chọn nhà phát triển
+  H3: Kiểm tra thêm bằng UFO Test
+H2: 5. Thay màn Xiaomi Civi 5 Pro có làm mất độ mượt khi chơi game không?
+  H3: 120Hz ảnh hưởng thế nào khi chơi game?
+  H3: Vì sao cùng là 120Hz nhưng cảm giác chơi game có thể khác nhau?
+  H3: Cách kiểm tra độ mượt sau khi thay màn
+H2: 6. Làm gì khi Xiaomi Civi 5 Pro thay màn nhưng không lên 120Hz?
+  H3: Kiểm tra lại cài đặt tần số quét
+  H3: Tắt tiết kiệm pin và kiểm tra khi máy ở nhiệt độ bình thường
+  H3: Nếu vẫn chỉ 60Hz, nên kiểm tra lại cụm màn hình thay thế
+  H3: Kiểm tra màn Xiaomi Civi 5 Pro tại Gia Huệ Mobile
+INTERNAL_LINKS (4): https://giahuemobile.com/thay-man-hinh-xiaomi-civi-5-pro-co-con-120hz-khong/ https://giahuemobile.com/danh-muc-san-pham/sua-dien-thoai-xiaomi/thay-man-hinh-xiaomi/ https://giahuemobile.com/san-pham/thay-man-hinh-xiaomi-civi-5-pro/ https://giahuemobile.com
+WORDS: 3247 | IMAGES: 6 | FAQ: no
+=== BODY ===
+Thay Màn Hình Xiaomi Civi 5 Pro Có Còn 120Hz Không? Có. Máy vẫn có thể sử dụng tần số quét tối đa 120Hz nếu cụm màn hình mới hỗ trợ đúng thông số và tương thích tốt với thiết bị.
+
+Việc thay màn không tự làm mất 120Hz. Tuy nhiên, trải nghiệm thực tế còn phụ thuộc vào chất lượng màn hình thay thế, cài đặt tần số quét, chế độ tiết kiệm pin và nhiệt độ máy khi sử dụng.
+
+Nếu màn hình thay thế không hỗ trợ đầy đủ 120Hz hoặc khả năng tương thích kém, máy có thể chỉ hoạt động ở tần số thấp hơn hoặc cho cảm giác vuốt không mượt như màn hình ban đầu. Sau khi thay, nên kiểm tra trực tiếp trong phần cài đặt và thử độ mượt thực tế để xác nhận 120Hz hoạt động bình thường.
+
+Mục lục
+
+ Toggle 
+
+- 1. 120Hz trên Xiaomi Civi 5 Pro hoạt động như thế nào? 
+- Màn hình Civi 5 Pro hỗ trợ tần số quét tối đa 120Hz 
+- Tần số quét có thay đổi trong quá trình sử dụng không? 
+- 120Hz khác gì với tốc độ lấy mẫu cảm ứng? 
+ 
+- 2. Thay màn hình có ảnh hưởng đến tần số quét 120Hz không? 
+- Màn hình thay thế cần hỗ trợ đúng 120Hz 
+- Vì sao có trường hợp thay màn xong chỉ còn 60Hz? 
+- Màn 120Hz khác màn 60Hz như thế nào khi sử dụng? 
+ 
+- 3. Vì sao Xiaomi Civi 5 Pro sau khi thay màn có thể không lên 120Hz? 
+- Máy đang đặt ở chế độ tần số quét thấp 
+- Chế độ tiết kiệm pin hoặc nhiệt độ máy đang ảnh hưởng đến độ mượt 
+- Màn hình thay thế không hỗ trợ đầy đủ 120Hz 
+ 
+- 4. Cách kiểm tra Xiaomi Civi 5 Pro có đang chạy 120Hz hay không 
+- Kiểm tra tần số quét trong phần cài đặt 
+- Bật hiển thị tốc độ làm mới trong tùy chọn nhà phát triển 
+- Kiểm tra thêm bằng UFO Test 
+ 
+- 5. Thay màn Xiaomi Civi 5 Pro có làm mất độ mượt khi chơi game không? 
+- 120Hz ảnh hưởng thế nào khi chơi game? 
+- Vì sao cùng là 120Hz nhưng cảm giác chơi game có thể khác nhau? 
+- Cách kiểm tra độ mượt sau khi thay màn 
+ 
+- 6. Làm gì khi Xiaomi Civi 5 Pro thay màn nhưng không lên 120Hz? 
+- Kiểm tra lại cài đặt tần số quét 
+- Tắt tiết kiệm pin và kiểm tra khi máy ở nhiệt độ bình thường 
+- Nếu vẫn chỉ 60Hz, nên kiểm tra lại cụm màn hình thay thế 
+- Kiểm tra màn Xiaomi Civi 5 Pro tại Gia Huệ Mobile 
+
+## 1. 120Hz trên Xiaomi Civi 5 Pro hoạt động như thế nào?
+
+ Kiểm tra chế độ tần số quét 120Hz trên Xiaomi Civi 5 Pro 
+
+ Xiaomi Civi 5 Pro hỗ trợ tần số quét tối đa 120Hz , giúp thao tác cuộn trang, chuyển ứng dụng và các chuyển động trên màn hình mượt hơn so với 60Hz. Tuy nhiên, máy không phải lúc nào cũng duy trì cố định ở 120Hz mà có thể tự thay đổi tùy theo cài đặt, nội dung và ứng dụng đang sử dụng.
+
+### Màn hình Civi 5 Pro hỗ trợ tần số quét tối đa 120Hz
+
+Ở mức 120Hz, màn hình có thể làm mới hình ảnh tối đa 120 lần mỗi giây. Nhờ đó, khi cuộn trang nhanh hoặc chuyển qua lại giữa các ứng dụng, hình ảnh trông liền mạch và ít khựng hơn so với 60Hz.
+
+Đây cũng là thông số cần kiểm tra khi thay màn hình Xiaomi Civi 5 Pro có hỗ trợ 120Hz không, vì màn hình thay thế phải hỗ trợ đúng tần số quét của máy mới có thể duy trì trải nghiệm sử dụng tương tự ban đầu.
+
+### Tần số quét có thay đổi trong quá trình sử dụng không?
+
+Có. Tần số quét thực tế có thể thay đổi tùy theo chế độ màn hình, ứng dụng và nội dung đang hiển thị. Khi cuộn trang hoặc thao tác trên giao diện, máy có thể sử dụng tần số quét cao để hình ảnh mượt hơn.
+
+Ngược lại, với nội dung ít chuyển động hoặc trong một số ứng dụng, hệ thống có thể hạ tần số quét để tiết kiệm điện năng. Vì vậy, việc máy không duy trì 120Hz liên tục không đồng nghĩa màn hình đang gặp lỗi.
+
+### 120Hz khác gì với tốc độ lấy mẫu cảm ứng?
+
+Đây là hai thông số khác nhau và thường bị nhầm lẫn:
+
+- Tần số quét 120Hz: Cho biết màn hình làm mới hình ảnh bao nhiêu lần mỗi giây, ảnh hưởng chủ yếu đến độ mượt khi cuộn trang, vuốt hoặc chuyển cảnh. 
+
+- Tốc độ lấy mẫu cảm ứng (Touch Sampling Rate): Cho biết màn hình ghi nhận thao tác chạm với tần suất như thế nào, ảnh hưởng đến cảm giác phản hồi khi vuốt, gõ bàn phím hoặc chơi game. 
+
+Vì vậy, màn hình hỗ trợ 120Hz vẫn có thể cho cảm giác chạm khác màn hình ban đầu nếu lớp cảm ứng hoặc khả năng tương thích của màn hình thay thế không tốt.
+
+## 2. Thay màn hình có ảnh hưởng đến tần số quét 120Hz không?
+
+ Kiểm tra màn hình thay thế Xiaomi Civi 5 Pro có hỗ trợ 120Hz trước khi lắp 
+
+Có thể ảnh hưởng nếu màn hình thay thế không hỗ trợ đúng 120Hz hoặc không tương thích tốt với Xiaomi Civi 5 Pro. Nếu sử dụng màn hình phù hợp, máy vẫn có thể duy trì tần số quét cao và độ mượt tương tự màn hình ban đầu.
+
+### Màn hình thay thế cần hỗ trợ đúng 120Hz
+
+Không phải màn hình thay thế nào cũng có cùng thông số. Để máy tiếp tục hỗ trợ tần số quét tối đa 120Hz, cụm màn mới cần hỗ trợ đúng mức tần số quét này và tương thích tốt với máy.
+
+Vì vậy, khi khách hỏi thay màn Xiaomi Civi 5 Pro có 120Hz không, không chỉ cần kiểm tra màn có hiển thị và cảm ứng bình thường mà còn phải kiểm tra khả năng hoạt động ở 120Hz sau khi lắp.
+
+### Vì sao có trường hợp thay màn xong chỉ còn 60Hz?
+
+Trường hợp máy chỉ chạy ở 60Hz sau khi thay màn có thể liên quan đến màn hình thay thế không hỗ trợ đầy đủ 120Hz hoặc khả năng tương thích chưa tốt.
+
+Ngoài ra, cần kiểm tra lại cài đặt tần số quét, chế độ tiết kiệm pin và điều kiện hoạt động của máy trước khi kết luận màn hình có vấn đề. Vì vậy, không nên chỉ dựa vào cảm giác vuốt để đánh giá chất lượng màn hình sau khi thay.
+
+### Màn 120Hz khác màn 60Hz như thế nào khi sử dụng?
+
+Sự khác biệt dễ nhận thấy nhất nằm ở độ mượt khi thao tác:
+
+- Màn hình 120Hz: Cuộn trang, chuyển ứng dụng và vuốt giao diện cho cảm giác mượt, liền mạch hơn. 
+
+- Màn hình 60Hz: Các thao tác vẫn bình thường nhưng khi cuộn hoặc vuốt nhanh, bạn có thể cảm nhận chuyển động kém mượt hơn. 
+
+Tuy nhiên, độ mượt thực tế còn phụ thuộc vào ứng dụng, hiệu năng máy và nội dung đang hiển thị. Vì vậy, màn hình hỗ trợ 120Hz không có nghĩa mọi tác vụ đều luôn chạy ở mức 120Hz.
+
+Với các dòng máy màn hình cong tràn viền hoặc có tần số quét cao, việc lựa chọn dịch vụ thay màn hình Xiaomi phù hợp với thông số kỹ thuật của máy sẽ giúp màn hình thay thế có khả năng tương thích tốt hơn, đồng thời hạn chế ảnh hưởng đến tần số quét và độ nhạy cảm ứng sau khi sửa chữa.
+
+## 3. Vì sao Xiaomi Civi 5 Pro sau khi thay màn có thể không lên 120Hz?
+
+ Kiểm tra chế độ tiết kiệm pin khi Xiaomi Civi 5 Pro sau thay màn chưa lên 120Hz 
+
+Nếu sau khi thay màn Xiaomi Civi 5 Pro mà máy không còn mượt như trước, chưa nên vội kết luận màn hình bị lỗi. Tình trạng này có thể liên quan đến cài đặt hệ thống, chế độ tiết kiệm pin hoặc khả năng tương thích của cụm màn hình vừa thay.
+
+### Máy đang đặt ở chế độ tần số quét thấp
+
+Trước tiên, bạn nên kiểm tra mục Tần số quét trong phần Cài đặt màn hình. Nếu máy đang ở chế độ tiêu chuẩn hoặc ưu tiên tiết kiệm pin, tần số quét thực tế có thể thấp hơn 120Hz.
+
+Nếu vậy, chỉ cần chọn lại chế độ tần số quét cao rồi kiểm tra độ mượt khi cuộn trang và chuyển đổi giữa các ứng dụng.
+
+### Chế độ tiết kiệm pin hoặc nhiệt độ máy đang ảnh hưởng đến độ mượt
+
+Khi bật chế độ tiết kiệm pin, hệ thống có thể giới hạn một số hoạt động để giảm mức tiêu thụ điện, trong đó có thể ảnh hưởng đến tần số quét trong một số trường hợp.
+
+Ngoài ra, nếu máy đang nóng do chơi game, sạc hoặc chạy tác vụ nặng, hệ thống cũng có thể tự điều chỉnh hiệu năng. Vì vậy, nên để máy trở về nhiệt độ bình thường rồi kiểm tra lại trước khi đánh giá màn hình.
+
+### Màn hình thay thế không hỗ trợ đầy đủ 120Hz
+
+Nếu đã kiểm tra cài đặt và điều kiện sử dụng nhưng máy vẫn chỉ hoạt động ở tần số thấp, bạn nên kiểm tra lại cụm màn hình vừa thay. Một số màn hình thay thế có thể không hỗ trợ đầy đủ 120Hz hoặc chưa tương thích tốt với máy.
+
+Vì vậy, khi kiểm tra thay màn hình Xiaomi Civi 5 Pro có còn 120Hz không, không nên chỉ xem màn hình hiển thị và cảm ứng bình thường mà cần kiểm tra thêm tần số quét sau khi lắp. Bạn có thể tham khảo dịch vụ thay màn hình Xiaomi Civi 5 Pro tại Gia Huệ Mobile , có kiểm tra khả năng hoạt động 120Hz trước khi hoàn tất lắp đặt.
+
+## 4. Cách kiểm tra Xiaomi Civi 5 Pro có đang chạy 120Hz hay không
+
+ Kiểm tra tần số quét 120Hz Xiaomi Civi 5 Pro bằng công cụ trên trình duyệt 
+
+Sau khi thay màn, bạn có thể kiểm tra 120Hz trực tiếp trên máy thay vì chỉ dựa vào cảm giác vuốt. Có thể kiểm tra trong Cài đặt tần số quét, bật chỉ số làm mới trong Tùy chọn nhà phát triển và thử thêm bằng công cụ kiểm tra trên trình duyệt.
+
+### Kiểm tra tần số quét trong phần cài đặt
+
+Trước tiên, thao tác theo các bước:
+
+- Vào Cài đặt > Hiển thị và độ sáng . 
+
+- Tìm mục Tốc độ làm mới hoặc Tần số quét. 
+
+- Kiểm tra máy đang sử dụng mức 120Hz hay mức thấp hơn. 
+
+Nếu máy đang ở 60Hz, hãy chuyển sang 120Hz nếu có tùy chọn này, sau đó thử cuộn trang hoặc vuốt giao diện để kiểm tra độ mượt.
+
+### Bật hiển thị tốc độ làm mới trong tùy chọn nhà phát triển
+
+Muốn theo dõi tần số quét trực tiếp trên màn hình, bạn có thể bật tính năng hiển thị tốc độ làm mới:
+
+- Vào Cài đặt > Giới thiệu điện thoại . 
+
+- Chạm liên tục nhiều lần vào Phiên bản OS cho đến khi máy thông báo đã mở Tùy chọn nhà phát triển . 
+
+- Quay lại Cài đặt > Cài đặt bổ sung > Tùy chọn nhà phát triển . 
+
+- Tìm và bật mục Hiển thị tốc độ làm mới (Show refresh rate). 
+
+Khi sử dụng máy, nếu chỉ số hiển thị lên 120Hz, điều đó cho thấy hệ thống đang cho phép màn hình hoạt động ở mức tần số quét cao. Tuy nhiên, chỉ số này không đủ để xác định màn hình là zin hay đánh giá toàn bộ chất lượng của cụm màn hình thay thế.
+
+### Kiểm tra thêm bằng UFO Test
+
+Bạn có thể mở trình duyệt Chrome và truy cập TestUFO để kiểm tra tần số quét trong môi trường web.
+
+Trước khi kiểm tra, nên đóng bớt ứng dụng và các tab không cần thiết, sau đó chờ khoảng 30 giây để kết quả ổn định hơn. Nếu công cụ ghi nhận mức khoảng 120Hz trong điều kiện phù hợp, đây là thêm một cơ sở để kiểm tra khả năng hoạt động ở tần số quét cao.
+
+Tuy nhiên, UFO Test chủ yếu kiểm tra tần số quét và độ mượt khi hiển thị trên trình duyệt, không thể dùng riêng để xác định màn hình là zin hoặc có chất lượng tương đương màn hình ban đầu.
+
+## 5. Thay màn Xiaomi Civi 5 Pro có làm mất độ mượt khi chơi game không?
+
+ Kiểm tra độ mượt và cảm ứng Xiaomi Civi 5 Pro khi chơi game sau thay màn 
+
+Không nhất thiết. Nếu màn hình thay thế hỗ trợ đúng 120Hz, cảm ứng ổn định và tương thích tốt với máy, trải nghiệm chơi game vẫn có thể giữ được độ mượt gần với màn hình ban đầu.
+
+Tuy nhiên, 120Hz của màn hình và FPS (số khung hình trên giây) của game là hai thông số khác nhau. Game có thể chạy ở 90 FPS hoặc 120 FPS hay không còn phụ thuộc vào từng trò chơi, hiệu năng máy, nhiệt độ và cài đặt đồ họa.
+
+### 120Hz ảnh hưởng thế nào khi chơi game?
+
+Với những game hỗ trợ tốc độ khung hình cao, màn hình 120Hz có thể giúp chuyển động khi lia góc nhìn, cuộn bản đồ hoặc điều khiển nhân vật trông mượt hơn.
+
+So với 60Hz, hình ảnh thường cho cảm giác liền mạch hơn. Tuy nhiên, độ chính xác khi thao tác còn phụ thuộc vào khả năng phản hồi cảm ứng, FPS thực tế của game và độ ổn định của máy trong quá trình chơi.
+
+### Vì sao cùng là 120Hz nhưng cảm giác chơi game có thể khác nhau?
+
+Hai màn hình cùng hỗ trợ 120Hz vẫn có thể cho cảm giác sử dụng khác nhau. Nguyên nhân có thể nằm ở độ nhạy cảm ứng, chất lượng tấm nền và khả năng tương thích với máy.
+
+Nếu màn hình thay thế phản hồi cảm ứng chậm hoặc không ổn định, người dùng có thể cảm thấy thao tác vuốt, giữ hoặc gõ bàn phím ảo kém nhạy hơn trước, dù máy vẫn hiển thị 120Hz trong phần cài đặt.
+
+### Cách kiểm tra độ mượt sau khi thay màn
+
+Sau khi thay màn, bạn nên mở một tựa game thường chơi và kiểm tra trong điều kiện sử dụng quen thuộc.
+
+Có thể thử lia góc nhìn nhanh, vuốt liên tục, bấm nhiều phím cảm ứng và theo dõi FPS nếu game hoặc Game Turbo hỗ trợ hiển thị. Nếu hình ảnh mượt, cảm ứng phản hồi tốt và không có hiện tượng chạm chậm hoặc bỏ chạm, màn hình có thể đang hoạt động ổn định.
+
+Khi kiểm tra thay màn hình Xiaomi Civi 5 Pro có hỗ trợ 120Hz không, không nên chỉ dựa vào một con số trong cài đặt mà nên kết hợp cả độ mượt hình ảnh và khả năng phản hồi cảm ứng thực tế.
+
+## 6. Làm gì khi Xiaomi Civi 5 Pro thay màn nhưng không lên 120Hz?
+
+ Kiểm tra lại màn hình thay thế Xiaomi Civi 5 Pro khi máy vẫn không lên 120Hz 
+
+Nếu sau khi thay màn, Xiaomi Civi 5 Pro chỉ chạy ở 60Hz hoặc cảm giác vuốt không mượt như trước, bạn nên kiểm tra lần lượt từ cài đặt hệ thống đến cụm màn hình thay thế. Không nên vội kết luận màn hình bị lỗi khi chưa loại trừ các nguyên nhân liên quan đến cài đặt và hệ thống.
+
+### Kiểm tra lại cài đặt tần số quét
+
+Vào Cài đặt > Hiển thị và độ sáng > Tốc độ làm mới và kiểm tra xem máy có đang ở chế độ 120Hz hay không.
+
+Nếu máy đang ở mức thấp hơn, hãy chọn lại tần số quét cao rồi thử cuộn trang, chuyển đổi giữa các ứng dụng hoặc kiểm tra chỉ số refresh rate trong Tùy chọn nhà phát triển.
+
+### Tắt tiết kiệm pin và kiểm tra khi máy ở nhiệt độ bình thường
+
+Chế độ tiết kiệm pin hoặc tình trạng máy quá nóng có thể ảnh hưởng đến hiệu năng và tần số quét trong một số trường hợp. Bạn nên:
+
+- Tắt Tiết kiệm pin và Tiết kiệm pin siêu cấp nếu đang bật. 
+
+- Ngừng sạc và để máy nguội nếu thiết bị đang nóng. 
+
+- Khởi động lại máy rồi kiểm tra lại tần số quét 120Hz. 
+
+Các bước này giúp loại trừ những nguyên nhân tạm thời trước khi kiểm tra cụm màn hình thay thế.
+
+### Nếu vẫn chỉ 60Hz, nên kiểm tra lại cụm màn hình thay thế
+
+Nếu đã kiểm tra cài đặt, tắt tiết kiệm pin và thử khi máy ở nhiệt độ bình thường nhưng màn hình vẫn không lên 120Hz, bạn nên mang máy quay lại nơi sửa chữa để kiểm tra.
+
+Kỹ thuật viên cần xác định cụm màn hình vừa thay có hỗ trợ đúng 120Hz và tương thích tốt với Xiaomi Civi 5 Pro hay không. Nếu màn hình không đáp ứng đúng thông số, có thể cần đổi sang loại màn hình phù hợp hơn.
+
+Đây cũng là cách kiểm tra thực tế khi khách thắc mắc Xiaomi Civi 5 Pro thay màn có mất 120Hz không.
+
+### Kiểm tra màn Xiaomi Civi 5 Pro tại Gia Huệ Mobile
+
+Tại Gia Huệ Mobile , màn hình được kiểm tra thực tế trước và sau khi lắp để khách có thể theo dõi khả năng hiển thị, cảm ứng và tần số quét của máy.
+
+Trước khi nhận máy, khách có thể kiểm tra trực tiếp chế độ 120Hz, thao tác cuộn vuốt và độ ổn định của cảm ứng. Gia Huệ Mobile báo giá trước khi sửa, không phát sinh chi phí ngoài báo giá và hỗ trợ khách kiểm tra máy ngay tại cửa hàng.
+
+- Cơ sở 1: 177 Vũ Tông Phan, Phường Khương Trung, Quận Thanh Xuân, Hà Nội (mặt đường ven sông Tô Lịch, gần Ngã Tư Sở, có chỗ đỗ ô tô) . Hotline/Zalo: 0962.528.528 
+
+- Cơ sở 2: 22 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội. Hotline/Zalo: 0986.980.802 
+
+- Website: giahuemobile.com 
+
+- Thời gian làm việc: 08:00 – 19:30 hàng ngày, phục vụ xuyên trưa cả Thứ 7 và Chủ Nhật. 
+
+Nếu Xiaomi Civi 5 Pro của bạn sau khi thay màn chưa lên đúng 120Hz hoặc cảm giác vuốt không còn mượt như trước, có thể mang máy qua Gia Huệ Mobile để được kiểm tra thực tế và tư vấn phương án phù hợp.

@@ -1,0 +1,20 @@
+﻿URL: https://giahuemobile.com/hello-world/
+TYPE: post
+TITLE: Hello World! – Gia Huệ Mobile
+META: Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
+CANONICAL: https://giahuemobile.com/hello-world/
+ROBOTS: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+PUBLISHED: 2025-08-15T09:01:24+07:00 | MODIFIED: 2025-08-15T09:01:24+07:00
+H1: Hello world!
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+
+INTERNAL_LINKS (0): 
+WORDS: 15 | IMAGES: 0 | FAQ: no
+=== BODY ===
+Welcome to WordPress. This is your first post. Edit or delete it, then start writing!

@@ -1,0 +1,290 @@
+﻿URL: https://giahuemobile.com/thay-man-hinh-vivo-x100-xong-van-tay-co-bi-mat-khong/
+TYPE: post
+TITLE: Thay Màn Hình Vivo X100 Xong Vân Tay Có Bị Mất Không?
+META: Thay Màn Hình Vivo X100 Xong Vân Tay Có Bị Mất Không? Tìm hiểu nguyên nhân gây lỗi, cách kiểm tra và lưu ý khi thay màn để đảm bảo vân tay hoạt động ổn định.
+CANONICAL: https://giahuemobile.com/thay-man-hinh-vivo-x100-xong-van-tay-co-bi-mat-khong/
+ROBOTS: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+PUBLISHED: 2026-10-28T11:08:29+07:00 | MODIFIED: 2026-10-28T11:08:37+07:00
+H1: Thay Màn Hình Vivo X100 Xong Vân Tay Có Bị Mất Không?
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+H2: 1. Màn hình thay thế Vivo X100 có ảnh hưởng đến vân tay không?
+  H3: 1.1. Màn hình zin tương thích có giữ được chức năng vân tay không?
+  H3: 1.2. Màn hình linh kiện Vivo X100 có loại nào không hỗ trợ vân tay?
+  H3: 1.3. Cần kiểm tra gì để chọn màn hình tương thích với cảm biến vân tay Vivo X100?
+H2: 2. Nguyên nhân Vivo X100 không nhận vân tay sau khi thay màn hình
+  H3: 2.1. Màn hình thay thế không tương thích với cảm biến vân tay
+  H3: 2.2. Cảm biến hoặc kết nối bị ảnh hưởng trong quá trình tháo lắp
+  H3: 2.3. Miếng dán màn hình làm giảm khả năng nhận vân tay
+  H3: 2.4. Dữ liệu vân tay hoặc phần mềm cần được thiết lập lại
+H2: 3. Dấu hiệu Vivo X100 bị lỗi vân tay sau khi thay màn hình
+  H3: 3.1. Không đăng ký được vân tay mới hoặc máy không nhận thao tác quét
+  H3: 3.2. Vân tay nhận chậm hoặc thường xuyên báo không khớp
+  H3: 3.3. Vân tay hoạt động không ổn định sau khi dán kính cường lực
+H2: 4. Cách khắc phục Vivo X100 không nhận vân tay sau khi thay màn hình
+  H3: 4.1. Vệ sinh vùng cảm biến và thử lại bằng ngón tay sạch, khô
+  H3: 4.2. Kiểm tra miếng dán màn hình có ảnh hưởng đến vân tay không
+  H3: 4.3. Khởi động lại máy và đăng ký lại vân tay
+  H3: 4.4. Mang máy đi kiểm tra nếu vân tay vẫn không hoạt động
+H2: 5. Cách kiểm tra vân tay Vivo X100 sau khi thay màn hình
+  H3: 5.1. Thử đăng ký vân tay mới và mở khóa màn hình
+  H3: 5.2. Thử mở khóa nhiều lần để kiểm tra độ ổn định
+  H3: 5.3. Kiểm tra thêm cảm ứng, hiển thị và độ hoàn thiện của màn hình
+H2: 6. Thay màn hình Vivo X100 giữ chức năng vân tay tại Gia Huệ Mobile
+  H3: 6.1. Kiểm tra cảm biến vân tay trước khi thay màn hình
+  H3: 6.2. Tư vấn màn hình tương thích và báo chi phí trước khi sửa
+  H3: 6.3. Kiểm tra lại vân tay và các chức năng sau khi lắp màn hình
+H2: 7. Câu hỏi thường gặp và địa chỉ kiểm tra vân tay Vivo X100 sau khi thay màn hình
+  H3: 7.1. Thay màn hình Vivo X100 có cần đăng ký lại vân tay không?
+  H3: 7.2. Vivo X100 thay màn hình xong vân tay nhận chậm phải làm sao?
+  H3: 7.3. Dán kính cường lực có làm Vivo X100 khó nhận vân tay không?
+  H3: 7.4. Ép kính Vivo X100 có ảnh hưởng đến cảm biến vân tay không?
+  H3: 7.5. Kiểm tra và thay màn hình Vivo X100 tại Gia Huệ Mobile
+INTERNAL_LINKS (4): https://giahuemobile.com/thay-man-hinh-vivo-x100-xong-van-tay-co-bi-mat-khong/ https://giahuemobile.com/san-pham/thay-man-hinh-vivo-x100/ https://giahuemobile.com/danh-muc-san-pham/sua-dien-thoai-vivo/thay-man-hinh-vivo/ https://giahuemobile.com
+WORDS: 3305 | IMAGES: 4 | FAQ: yes
+=== BODY ===
+Thay màn hình Vivo X100 xong vân tay có bị mất không ? Không, vân tay vẫn có thể hoạt động bình thường sau khi thay màn hình Vivo X100 nếu màn hình mới tương thích với cảm biến và quá trình lắp ráp đúng kỹ thuật. Việc thay màn hình không đồng nghĩa với việc máy sẽ mất chức năng vân tay.
+
+Vivo X100 sử dụng cảm biến vân tay quang học dưới màn hình. Khả năng nhận diện sau khi thay phụ thuộc vào loại màn hình, tình trạng cảm biến và độ chính xác khi lắp ráp.
+
+Nếu thay màn hình Vivo X100 xong vân tay không hoạt động, nhận diện chậm hoặc thường xuyên báo không khớp, bạn nên kiểm tra độ tương thích của màn hình, vị trí cảm biến và khu vực quét vân tay. Miếng dán quá dày hoặc không phù hợp cũng có thể ảnh hưởng đến khả năng nhận diện. Kỹ thuật viên cần kiểm tra thêm các kết nối liên quan và xác định nguyên nhân trước khi kết luận cảm biến bị hỏng.
+
+Mục lục
+
+ Toggle 
+
+- 1. Màn hình thay thế Vivo X100 có ảnh hưởng đến vân tay không? 
+- 1.1. Màn hình zin tương thích có giữ được chức năng vân tay không? 
+- 1.2. Màn hình linh kiện Vivo X100 có loại nào không hỗ trợ vân tay? 
+- 1.3. Cần kiểm tra gì để chọn màn hình tương thích với cảm biến vân tay Vivo X100? 
+ 
+- 2. Nguyên nhân Vivo X100 không nhận vân tay sau khi thay màn hình 
+- 2.1. Màn hình thay thế không tương thích với cảm biến vân tay 
+- 2.2. Cảm biến hoặc kết nối bị ảnh hưởng trong quá trình tháo lắp 
+- 2.3. Miếng dán màn hình làm giảm khả năng nhận vân tay 
+- 2.4. Dữ liệu vân tay hoặc phần mềm cần được thiết lập lại 
+ 
+- 3. Dấu hiệu Vivo X100 bị lỗi vân tay sau khi thay màn hình 
+- 3.1. Không đăng ký được vân tay mới hoặc máy không nhận thao tác quét 
+- 3.2. Vân tay nhận chậm hoặc thường xuyên báo không khớp 
+- 3.3. Vân tay hoạt động không ổn định sau khi dán kính cường lực 
+ 
+- 4. Cách khắc phục Vivo X100 không nhận vân tay sau khi thay màn hình 
+- 4.1. Vệ sinh vùng cảm biến và thử lại bằng ngón tay sạch, khô 
+- 4.2. Kiểm tra miếng dán màn hình có ảnh hưởng đến vân tay không 
+- 4.3. Khởi động lại máy và đăng ký lại vân tay 
+- 4.4. Mang máy đi kiểm tra nếu vân tay vẫn không hoạt động 
+ 
+- 5. Cách kiểm tra vân tay Vivo X100 sau khi thay màn hình 
+- 5.1. Thử đăng ký vân tay mới và mở khóa màn hình 
+- 5.2. Thử mở khóa nhiều lần để kiểm tra độ ổn định 
+- 5.3. Kiểm tra thêm cảm ứng, hiển thị và độ hoàn thiện của màn hình 
+ 
+- 6. Thay màn hình Vivo X100 giữ chức năng vân tay tại Gia Huệ Mobile 
+- 6.1. Kiểm tra cảm biến vân tay trước khi thay màn hình 
+- 6.2. Tư vấn màn hình tương thích và báo chi phí trước khi sửa 
+- 6.3. Kiểm tra lại vân tay và các chức năng sau khi lắp màn hình 
+ 
+- 7. Câu hỏi thường gặp và địa chỉ kiểm tra vân tay Vivo X100 sau khi thay màn hình 
+- 7.1. Thay màn hình Vivo X100 có cần đăng ký lại vân tay không? 
+- 7.2. Vivo X100 thay màn hình xong vân tay nhận chậm phải làm sao? 
+- 7.3. Dán kính cường lực có làm Vivo X100 khó nhận vân tay không? 
+- 7.4. Ép kính Vivo X100 có ảnh hưởng đến cảm biến vân tay không? 
+- 7.5. Kiểm tra và thay màn hình Vivo X100 tại Gia Huệ Mobile 
+
+## 1. Màn hình thay thế Vivo X100 có ảnh hưởng đến vân tay không?
+
+ Kiểm tra màn hình thay thế Vivo X100 có tương thích với cảm biến vân tay hay không 
+
+ Vivo X100 thay màn hình có ảnh hưởng vân tay không? Có thể, nhưng không phải cứ thay màn là mất vân tay. Khả năng nhận diện sau sửa chữa phụ thuộc vào độ tương thích của màn hình, tình trạng cảm biến và cách lắp ráp.
+
+### 1.1. Màn hình zin tương thích có giữ được chức năng vân tay không?
+
+Có thể. Nếu cảm biến còn tốt và màn hình thay thế tương thích với Vivo X100, máy thường vẫn đăng ký và mở khóa bằng vân tay bình thường.
+
+Vivo X100 dùng cảm biến vân tay quang học dưới màn hình, nên linh kiện thay thế cần phù hợp với thiết kế này. Không nên chỉ dựa vào tên gọi “màn zin”; cần kiểm tra hiển thị, cảm ứng và vân tay trực tiếp trên máy.
+
+### 1.2. Màn hình linh kiện Vivo X100 có loại nào không hỗ trợ vân tay?
+
+Có thể có. Một số màn hình linh kiện vẫn hiển thị và cảm ứng bình thường nhưng không tương thích tốt với cảm biến vân tay, khiến máy khó đăng ký dấu vân tay mới, nhận chậm hoặc hoạt động chập chờn.
+
+Tuy nhiên, các lỗi này cũng có thể do cảm biến, kết nối, vị trí lắp ráp hoặc miếng dán màn hình. Vì vậy, nên kiểm tra thực tế thay vì chỉ dựa vào giá và khả năng hiển thị.
+
+### 1.3. Cần kiểm tra gì để chọn màn hình tương thích với cảm biến vân tay Vivo X100?
+
+Nên gá thử màn hình trước khi dán hoàn thiện và kiểm tra:
+
+- Hiển thị ổn định, không sọc, chớp nháy hoặc bất thường về màu sắc. 
+
+- Cảm ứng hoạt động trên toàn bộ màn hình. 
+
+- Máy đăng ký được vân tay mới nếu chức năng trước sửa vẫn bình thường. 
+
+- Thử khóa, mở máy nhiều lần để kiểm tra khả năng nhận diện. 
+
+- Vùng cảm biến sạch, không bị bụi hoặc vật liệu lắp ráp ảnh hưởng. 
+
+Mã cáp, mã QR và hình thức bên ngoài chỉ mang tính tham khảo, chưa đủ để xác nhận màn hình zin. Nên kết hợp thông tin nguồn gốc linh kiện với kết quả kiểm tra trực tiếp trên máy.
+
+## 2. Nguyên nhân Vivo X100 không nhận vân tay sau khi thay màn hình
+
+ Vivo X100 không nhận vân tay sau thay màn do miếng dán màn hình ảnh hưởng 
+
+Nếu thay màn hình Vivo X100 xong vân tay không hoạt động, nguyên nhân có thể do màn hình không tương thích, cảm biến hoặc kết nối bị ảnh hưởng, miếng dán màn hình hay phần mềm. Cần kiểm tra từng yếu tố trước khi kết luận cảm biến bị hỏng.
+
+### 2.1. Màn hình thay thế không tương thích với cảm biến vân tay
+
+Một số màn hình hiển thị và cảm ứng bình thường nhưng không hỗ trợ tốt cảm biến vân tay dưới màn hình. Máy có thể không đăng ký được vân tay mới, nhận chậm hoặc phải chạm nhiều lần mới mở khóa.
+
+### 2.2. Cảm biến hoặc kết nối bị ảnh hưởng trong quá trình tháo lắp
+
+Quá trình thay màn có thể làm lỏng kết nối, khiến cảm biến lệch vị trí hoặc bị ảnh hưởng do bụi, keo và thao tác lắp ráp. Nếu vân tay mất ngay sau khi sửa, nên kiểm tra lại các bộ phận liên quan trước khi tính đến việc thay cảm biến.
+
+### 2.3. Miếng dán màn hình làm giảm khả năng nhận vân tay
+
+Kính cường lực quá dày, kính chống nhìn trộm hoặc lớp keo không đều có thể khiến vân tay nhận kém. Nếu lỗi xuất hiện sau khi dán kính, hãy tháo miếng dán và thử lại trên màn hình.
+
+### 2.4. Dữ liệu vân tay hoặc phần mềm cần được thiết lập lại
+
+Bạn có thể khởi động lại máy, xóa dữ liệu vân tay cũ và đăng ký lại để kiểm tra. Nếu vẫn không được, kỹ thuật viên cần kiểm tra thêm bằng công cụ phù hợp và hiệu chỉnh khi thiết bị yêu cầu. Không phải mọi trường hợp thay màn đều cần hiệu chuẩn vân tay.
+
+## 3. Dấu hiệu Vivo X100 bị lỗi vân tay sau khi thay màn hình
+
+Sau khi thay màn hình Vivo X100 bị lỗi cảm biến vân tay, máy có thể không đăng ký được vân tay mới, nhận diện chậm hoặc hoạt động chập chờn. Những dấu hiệu này cần được kiểm tra để xác định nguyên nhân.
+
+### 3.1. Không đăng ký được vân tay mới hoặc máy không nhận thao tác quét
+
+Bạn không thể thêm vân tay trong phần cài đặt, quá trình quét không tiến triển hoặc máy liên tục yêu cầu thử lại. Dù vùng quét vẫn hiển thị nhưng máy không phản hồi, cũng chưa thể kết luận cảm biến đã hỏng.
+
+### 3.2. Vân tay nhận chậm hoặc thường xuyên báo không khớp
+
+Máy phải chạm nhiều lần, giữ ngón tay lâu hơn hoặc liên tục báo không khớp dù dùng đúng ngón tay đã đăng ký. Nếu lỗi xuất hiện ngay sau khi thay màn, nên kiểm tra độ tương thích của màn hình, vùng quét và các kết nối liên quan.
+
+### 3.3. Vân tay hoạt động không ổn định sau khi dán kính cường lực
+
+Nếu vân tay nhận tốt trước khi dán kính nhưng hoạt động kém sau đó, nguyên nhân có thể do kính quá dày, loại kính không phù hợp hoặc lớp keo không đều. Hãy tháo miếng dán, vệ sinh bề mặt màn hình và thử lại trước khi kết luận cảm biến bị lỗi.
+
+## 4. Cách khắc phục Vivo X100 không nhận vân tay sau khi thay màn hình
+
+ Đăng ký lại vân tay Vivo X100 sau khi thay màn hình 
+
+Nếu thay màn hình Vivo X100 xong vân tay không hoạt động, hãy kiểm tra miếng dán, vệ sinh vùng quét và thử đăng ký lại vân tay. Nếu vẫn không khắc phục được, nên kiểm tra màn hình và cảm biến.
+
+### 4.1. Vệ sinh vùng cảm biến và thử lại bằng ngón tay sạch, khô
+
+Dùng khăn mềm sạch lau vùng quét, đảm bảo ngón tay khô ráo rồi thử lại. Tránh ấn quá mạnh hoặc dùng hóa chất không phù hợp để vệ sinh màn hình.
+
+### 4.2. Kiểm tra miếng dán màn hình có ảnh hưởng đến vân tay không
+
+Nếu vân tay nhận kém sau khi dán kính cường lực, hãy tháo miếng dán và thử lại. Nếu cảm biến hoạt động tốt hơn, nên chọn loại kính tương thích với cảm biến vân tay dưới màn hình.
+
+### 4.3. Khởi động lại máy và đăng ký lại vân tay
+
+Nếu cảm biến vẫn nhận nhưng hoạt động không ổn định, hãy thử khởi động lại điện thoại và đăng ký lại dấu vân tay theo các bước:
+
+- Vào phần Cài đặt vân tay trên máy. 
+
+- Xóa dấu vân tay đang gặp lỗi. 
+
+- Khởi động lại điện thoại. 
+
+- Thêm lại dấu vân tay và chạm ở nhiều góc khác nhau của đầu ngón tay theo hướng dẫn trên màn hình. 
+
+- Khóa máy và thử mở lại nhiều lần để kiểm tra độ ổn định. 
+
+Nếu không thể đăng ký được vân tay mới ngay từ đầu, không nên tiếp tục xóa cài đặt hoặc khôi phục máy khi chưa xác định nguyên nhân.
+
+### 4.4. Mang máy đi kiểm tra nếu vân tay vẫn không hoạt động
+
+Nếu đã thử các bước trên nhưng vân tay vẫn không hoạt động, hãy mang máy trở lại nơi thay màn hình. Kỹ thuật viên cần kiểm tra độ tương thích của màn hình, vị trí và kết nối cảm biến, vùng quét cũng như phần mềm liên quan.
+
+Chỉ nên kết luận lỗi do màn hình hay cảm biến sau khi đã kiểm tra các yếu tố này.
+
+## 5. Cách kiểm tra vân tay Vivo X100 sau khi thay màn hình
+
+Sau khi thay màn hình, bạn nên kiểm tra vân tay, cảm ứng và hiển thị trước khi nhận máy để biết thay màn hình Vivo X100 xong vân tay có bị mất không và các chức năng có hoạt động ổn định hay không.
+
+### 5.1. Thử đăng ký vân tay mới và mở khóa màn hình
+
+Vào cài đặt vân tay, thử thêm dấu vân tay mới rồi khóa màn hình và mở khóa vài lần. Máy cần nhận thao tác đều, không liên tục yêu cầu thử lại hoặc buộc bạn ấn mạnh.
+
+### 5.2. Thử mở khóa nhiều lần để kiểm tra độ ổn định
+
+Thử khóa và mở máy liên tiếp khoảng 5–10 lần, đồng thời thay đổi nhẹ góc đặt ngón tay. Nếu máy nhận diện ổn định, không thường xuyên báo sai thì chức năng vân tay cơ bản đang hoạt động tốt.
+
+Không cần đăng nhập ứng dụng ngân hàng, ví điện tử hay VNeID để kiểm tra tại cửa hàng; thử đăng ký và mở khóa màn hình là đủ để đánh giá chức năng cơ bản.
+
+### 5.3. Kiểm tra thêm cảm ứng, hiển thị và độ hoàn thiện của màn hình
+
+Trước khi nhận máy, hãy kiểm tra thêm:
+
+- Cảm ứng: Vuốt, chạm khắp màn hình, chú ý các mép và vùng đặt vân tay. 
+
+- Hiển thị: Mở nền trắng, xám và các màu đơn sắc để kiểm tra sọc, điểm chết, ám màu hoặc vùng sáng tối bất thường. 
+
+- Độ hoàn thiện: Quan sát mép kính, kiểm tra màn hình có bị cộm, hở hoặc dư keo hay không. 
+
+Nếu vân tay, cảm ứng và hiển thị hoạt động ổn định, bạn có thể yên tâm sử dụng máy. Để hạn chế lỗi sau sửa chữa, hãy ưu tiên dịch vụ thay màn hình Vivo X100 tương thích, có bước kiểm tra vân tay và các chức năng trước khi dán keo hoàn thiện.
+
+## 6. Thay màn hình Vivo X100 giữ chức năng vân tay tại Gia Huệ Mobile
+
+ Thay màn hình Vivo X100 giữ chức năng vân tay tại Gia Huệ Mobile 
+
+Tại Gia Huệ Mobile , Vivo X100 được kiểm tra vân tay trước và sau khi thay màn hình nhằm hạn chế lỗi phát sinh trong quá trình sửa chữa. Màn hình mới được gá thử để kiểm tra hiển thị, cảm ứng và khả năng nhận diện vân tay trước khi lắp hoàn thiện. Cửa hàng áp dụng chính sách nhận rủi ro, cam kết bao thành công trong quá trình thao tác; nếu phát sinh lỗi kỹ thuật do cửa hàng, sẽ đền bù thỏa đáng theo quy định.
+
+### 6.1. Kiểm tra cảm biến vân tay trước khi thay màn hình
+
+Trước khi tháo máy, kỹ thuật viên kiểm tra khả năng đăng ký và mở khóa bằng vân tay, đồng thời ghi nhận tình trạng hiển thị, cảm ứng và kiểm tra thêm bằng công cụ chuyên dụng khi cần. Bước này giúp xác định tình trạng ban đầu của máy trước khi sửa chữa.
+
+### 6.2. Tư vấn màn hình tương thích và báo chi phí trước khi sửa
+
+Kỹ thuật viên tư vấn loại màn hình phù hợp với Vivo X100, giải thích khả năng hỗ trợ vân tay và báo chi phí trước khi thực hiện. Màn hình được gá thử để kiểm tra hiển thị, cảm ứng, tần số quét và khả năng đăng ký, mở khóa bằng vân tay. Chỉ tiến hành lắp hoàn thiện khi khách hàng đồng ý.
+
+### 6.3. Kiểm tra lại vân tay và các chức năng sau khi lắp màn hình
+
+Sau khi thay màn hình, kỹ thuật viên thử đăng ký vân tay, khóa mở máy nhiều lần và kiểm tra lại nếu khả năng nhận diện chưa ổn định. Việc hiệu chỉnh chỉ thực hiện khi thiết bị yêu cầu và có công cụ phù hợp.
+
+Ngoài ra, máy được kiểm tra cảm ứng, hiển thị, loa, mic, sạc, cảm biến tiệm cận và độ hoàn thiện của viền màn hình trước khi bàn giao.
+
+Khách hàng được đồng kiểm tra máy trước khi thanh toán. Với kỹ thuật viên chuyên sâu và máy móc phù hợp, dịch vụ thay màn hình Vivo tại trung tâm nhanh chóng, lấy ngay trong ngày và chú trọng giữ nguyên các tính năng của máy.
+
+## 7. Câu hỏi thường gặp và địa chỉ kiểm tra vân tay Vivo X100 sau khi thay màn hình
+
+Dưới đây là những thắc mắc thường gặp khi thay màn hình Vivo X100 và thông tin hỗ trợ tại Gia Huệ Mobile . Nếu máy gặp tình trạng thay màn hình Vivo X100 xong vân tay không hoạt động , nên kiểm tra lại sớm để xác định vấn đề nằm ở màn hình, phụ kiện dán, cảm biến hay quá trình lắp ráp.
+
+### 7.1. Thay màn hình Vivo X100 có cần đăng ký lại vân tay không?
+
+Không nhất thiết. Nếu vân tay cũ vẫn nhận nhanh và ổn định, bạn có thể tiếp tục sử dụng. Nếu máy nhận chậm hoặc thường xuyên báo không khớp, hãy thử đăng ký lại trước khi kiểm tra sâu hơn.
+
+### 7.2. Vivo X100 thay màn hình xong vân tay nhận chậm phải làm sao?
+
+Hãy vệ sinh vùng quét, kiểm tra miếng dán và thử đăng ký lại vân tay. Nếu vẫn không cải thiện, nên mang máy đến cơ sở sửa chữa để kiểm tra màn hình, cảm biến và các kết nối liên quan.
+
+### 7.3. Dán kính cường lực có làm Vivo X100 khó nhận vân tay không?
+
+Có thể. Kính quá dày, kính chống nhìn trộm hoặc lớp keo không đều có thể ảnh hưởng đến khả năng nhận diện. Nếu lỗi xuất hiện sau khi dán kính, hãy tháo miếng dán và thử lại.
+
+### 7.4. Ép kính Vivo X100 có ảnh hưởng đến cảm biến vân tay không?
+
+Không nhất thiết. Nếu tấm nền và cảm biến vẫn hoạt động tốt, quá trình ép kính đúng kỹ thuật có thể giữ nguyên chức năng vân tay. Tuy nhiên, vẫn cần kiểm tra khả năng đăng ký và mở khóa sau khi sửa để phát hiện bất thường.
+
+### 7.5. Kiểm tra và thay màn hình Vivo X100 tại Gia Huệ Mobile
+
+Gia Huệ Mobile có hơn 22 năm kinh nghiệm sửa chữa điện thoại, tiếp nhận kiểm tra màn hình AMOLED và cảm biến vân tay. Cửa hàng kiểm tra máy trước khi sửa, báo giá trước khi thực hiện và kiểm tra lại chức năng sau khi hoàn tất. Với lỗi kỹ thuật do quá trình sửa chữa, cửa hàng áp dụng chính sách đền bù theo cam kết.
+
+Hệ thống cơ sở tiếp nhận sửa chữa:
+
+- Cơ sở 1: 177 Vũ Tông Phan, Thanh Xuân, Hà Nội – 08:00 đến 19:30. 
+
+- Cơ sở 2: 22 Thái Hà, Đống Đa, Hà Nội – 08:00 đến 20:00. 
+
+- Hotline/Zalo: 0962 528 528 – 0986 980 802. 
+
+- Website: giahuemobile.com . 
+
+Nếu Vivo X100 của bạn bị lỗi vân tay sau khi thay màn hình, hãy liên hệ Gia Huệ Mobile để được kiểm tra và tư vấn phương án phù hợp. Kiểm tra đúng nguyên nhân, báo giá rõ ràng trước khi sửa, giúp bạn yên tâm khôi phục chức năng vân tay mà không phải thay thêm linh kiện khi chưa cần thiết.

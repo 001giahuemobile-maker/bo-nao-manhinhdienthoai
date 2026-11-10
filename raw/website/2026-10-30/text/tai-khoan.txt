@@ -1,0 +1,30 @@
+﻿URL: https://giahuemobile.com/tai-khoan/
+TYPE: page
+TITLE: Tài Khoản – Gia Huệ Mobile
+META: 
+CANONICAL: 
+ROBOTS: noindex, follow
+PUBLISHED: 2025-08-15T09:04:49+07:00 | MODIFIED: 2025-08-15T09:04:49+07:00
+H1: 
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+  H3: Đăng nhập
+INTERNAL_LINKS (1): https://giahuemobile.com/tai-khoan/lost-password/
+WORDS: 23 | IMAGES: 0 | FAQ: no
+=== BODY ===
+### Đăng nhập
+
+Tên tài khoản hoặc địa chỉ email * 
+
+Mật khẩu * 
+
+Ghi nhớ mật khẩu 
+ 
+ Đăng nhập 
+
+Quên mật khẩu?

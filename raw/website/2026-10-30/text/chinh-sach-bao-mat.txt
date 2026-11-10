@@ -1,0 +1,133 @@
+﻿URL: https://giahuemobile.com/chinh-sach-bao-mat/
+TYPE: page
+TITLE: Chính Sách Bảo Mật – Gia Huệ Mobile
+META: Khi khách hàng sử dụng dịch vụ tại cửa hàng, chúng tôi có thể thu thập các thông tin sau:
+CANONICAL: https://giahuemobile.com/chinh-sach-bao-mat/
+ROBOTS: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+PUBLISHED: 2026-03-27T09:08:29+07:00 | MODIFIED: 2026-07-10T08:11:39+07:00
+H1: 
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+H2: 1. Mục đích và phạm vi thu thập thông tin
+H2: 2. Mục đích sử dụng thông tin
+H2: 3. Cam kết bảo mật dữ liệu trên thiết bị
+H2: 4. Thời gian lưu trữ và chia sẻ thông tin
+H2: 5. Biện pháp bảo mật thông tin
+H2: 6. Quyền của khách hàng
+H2: 7. Tiếp nhận khiếu nại
+H2: 8. Thay đổi chính sách
+INTERNAL_LINKS (0): 
+WORDS: 779 | IMAGES: 0 | FAQ: no
+=== BODY ===
+## 1. Mục đích và phạm vi thu thập thông tin
+
+Khi khách hàng sử dụng dịch vụ tại cửa hàng, chúng tôi có thể thu thập các thông tin sau:
+
+- Họ và tên. 
+
+- Số điện thoại. 
+
+- Email (nếu có). 
+
+- Địa chỉ (đối với dịch vụ nhận và giao thiết bị tận nơi). 
+
+- Thông tin thiết bị như: tên thiết bị, model, số IMEI/Serial, tình trạng lỗi, lịch sử sửa chữa và thông tin bảo hành. 
+
+Khách hàng tự nguyện cung cấp các thông tin trên để phục vụ quá trình tiếp nhận và thực hiện dịch vụ.
+
+## 2. Mục đích sử dụng thông tin
+
+Thông tin của khách hàng được sử dụng để:
+
+- Tiếp nhận và xác nhận yêu cầu sửa chữa. 
+
+- Liên hệ báo giá, tư vấn và thông báo tiến độ sửa chữa. 
+
+- Thực hiện giao nhận thiết bị (nếu có). 
+
+- Kích hoạt và tra cứu bảo hành điện tử. 
+
+- Giải quyết khiếu nại, bảo hành và chăm sóc khách hàng sau sửa chữa. 
+
+- Thực hiện các nghĩa vụ theo quy định của pháp luật (nếu có). 
+
+## 3. Cam kết bảo mật dữ liệu trên thiết bị
+
+Chúng tôi hiểu dữ liệu cá nhân trên thiết bị là tài sản quan trọng của khách hàng và cam kết:
+
+- Kỹ thuật viên chỉ truy cập dữ liệu trên thiết bị khi thực sự cần thiết để kiểm tra hoặc sửa chữa và có sự đồng ý của khách hàng. 
+
+- Không tự ý xem, sao chép, lưu trữ, chia sẻ hoặc sử dụng hình ảnh, video, tin nhắn, danh bạ, tài khoản mạng xã hội, tài khoản ngân hàng hoặc bất kỳ dữ liệu cá nhân nào của khách hàng. 
+
+- Quá trình sửa chữa được thực hiện theo quy trình nội bộ và có thể được giám sát bằng hệ thống camera nhằm đảm bảo tính minh bạch. 
+
+- Mọi nhân viên và kỹ thuật viên đều có trách nhiệm bảo mật thông tin của khách hàng. 
+
+Để tăng cường an toàn dữ liệu, chúng tôi khuyến nghị khách hàng:
+
+- Sao lưu dữ liệu quan trọng trước khi bàn giao thiết bị. 
+
+- Đăng xuất các tài khoản cá nhân nếu cần. 
+
+- Bật Chế độ bảo trì (Repair Mode/Maintenance Mode) trên thiết bị nếu có hỗ trợ. 
+
+## 4. Thời gian lưu trữ và chia sẻ thông tin
+
+Thông tin khách hàng được lưu trữ trong thời gian cần thiết để:
+
+- Thực hiện dịch vụ. 
+
+- Quản lý bảo hành. 
+
+- Hỗ trợ chăm sóc khách hàng. 
+
+- Giải quyết khiếu nại hoặc theo yêu cầu của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật. 
+
+Chúng tôi cam kết:
+
+- Không bán, trao đổi hoặc cho thuê thông tin khách hàng. 
+
+- Không chia sẻ thông tin cho bên thứ ba vì mục đích quảng cáo hoặc tiếp thị khi chưa có sự đồng ý của khách hàng, trừ trường hợp pháp luật yêu cầu. 
+
+## 5. Biện pháp bảo mật thông tin
+
+Chúng tôi áp dụng các biện pháp phù hợp để bảo vệ thông tin khách hàng, bao gồm:
+
+- Chỉ nhân viên được phân quyền mới được tiếp cận dữ liệu. 
+
+- Dữ liệu được lưu trữ trên hệ thống có kiểm soát truy cập. 
+
+- Thường xuyên rà soát và nâng cao các biện pháp bảo mật nhằm hạn chế nguy cơ truy cập trái phép. 
+
+## 6. Quyền của khách hàng
+
+Khách hàng có quyền:
+
+- Yêu cầu xem thông tin cá nhân đang được lưu trữ. 
+
+- Yêu cầu cập nhật hoặc chỉnh sửa thông tin nếu không chính xác. 
+
+- Yêu cầu xóa thông tin cá nhân khi không còn cần thiết, trừ trường hợp pháp luật quy định phải lưu giữ. 
+
+- Khiếu nại nếu phát hiện thông tin cá nhân bị sử dụng không đúng mục đích. 
+
+## 7. Tiếp nhận khiếu nại
+
+Nếu có bất kỳ thắc mắc hoặc khiếu nại liên quan đến việc bảo mật thông tin cá nhân, vui lòng liên hệ:
+
+Hotline: [0962.528.528]
+
+ Email: lienhe@giahuemobile.com
+
+Địa chỉ cửa hàng: 177 Vũ Tông Phan- Khương Đình – Hà Nội
+
+Chúng tôi sẽ tiếp nhận, xác minh và phản hồi trong thời gian sớm nhất để đảm bảo quyền lợi của khách hàng.
+
+## 8. Thay đổi chính sách
+
+Chính sách bảo mật này có thể được cập nhật theo từng thời điểm để phù hợp với quy định của pháp luật và hoạt động của cửa hàng. Phiên bản mới nhất sẽ được công bố trên website hoặc tại cửa hàng.

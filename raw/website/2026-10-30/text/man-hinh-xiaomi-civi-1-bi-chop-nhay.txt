@@ -1,0 +1,253 @@
+﻿URL: https://giahuemobile.com/man-hinh-xiaomi-civi-1-bi-chop-nhay/
+TYPE: post
+TITLE: Màn Hình Xiaomi Civi 1 Bị Chớp Nháy: Có Phải Thay Màn Hình Không?
+META: Màn hình Xiaomi Civi 1 bị chớp nháy, nhấp nháy liên tục phải làm sao? Tìm hiểu nguyên nhân, dấu hiệu lỗi màn hình và cách xử lý phù hợp.
+CANONICAL: https://giahuemobile.com/man-hinh-xiaomi-civi-1-bi-chop-nhay/
+ROBOTS: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+PUBLISHED: 2026-10-08T10:44:22+07:00 | MODIFIED: 2026-10-08T10:44:33+07:00
+H1: Màn Hình Xiaomi Civi 1 Bị Chớp Nháy: Có Phải Thay Màn Hình Không?
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+H2: 1. Vì sao màn hình Xiaomi Civi 1 bị chớp nháy?
+H2: 2. Màn hình Xiaomi Civi 1 bị chớp nháy có sửa được không?
+  H3: Chớp nháy nhẹ do cài đặt hiển thị (Khắc phục không tháo máy)
+  H3: Chớp nháy do lỏng socket hoặc đứt cáp màn hình (Sửa chữa giữ màn gốc)
+  H3: Chớp nháy kèm biến dạng tấm nền (Không thể sửa chữa riêng lẻ)
+H2: 3. Màn hình Xiaomi Civi 1 bị chớp nháy khi nào phải thay màn?
+  H3: Chớp nháy kèm sọc màn hình hoặc đốm đen
+  H3: Chớp nháy kèm chảy mực, loang màu hoặc mất hiển thị
+  H3: Chớp nháy kèm liệt hoặc loạn cảm ứng
+H2: 4. Màn hình Xiaomi Civi 1 bị chớp nháy phải làm sao?
+  H3: Khởi động lại máy và kiểm tra cài đặt màn hình
+  H3: Kiểm tra màn hình ở nhiều mức độ sáng
+  H3: Sao lưu dữ liệu nếu lỗi ngày càng nặng
+  H3: Nếu màn hình chớp mạnh hoặc không còn thao tác được
+H2: 5. Màn hình Xiaomi Civi 1 bị chớp nháy có nên dùng tiếp không?
+  H3: Có thể sử dụng tạm thời khi màn vẫn hiển thị và cảm ứng bình thường
+  H3: Không nên tiếp tục dùng khi màn hình nháy liên tục hoặc xuất hiện lỗi khác
+  H3: Nên kiểm tra sớm nếu máy từng bị rơi, va đập hoặc vào ẩm
+H2: 6. Câu hỏi thường gặp về màn hình Xiaomi Civi 1 bị chớp nháy
+  H3: Màn hình Xiaomi Civi 1 bị chớp nháy sửa cáp màn hình mất bao lâu?
+  H3: Ép cáp màn hình để sửa lỗi chớp nháy có bền bằng màn hình ban đầu không?
+  H3: Chi phí xử lý lỗi chớp nháy và thay màn hình Xiaomi Civi 1 chênh lệch thế nào?
+H2: 7. Kiểm tra màn hình Xiaomi Civi 1 bị chớp nháy tại Gia Huệ Mobile
+  H3: Kiểm tra hiển thị và cảm ứng trước khi sửa
+  H3: Xác định nguyên nhân để tư vấn sửa hoặc thay phù hợp
+  H3: Quy trình dịch vụ tại Gia Huệ Mobile
+  H3: Thông tin liên hệ
+INTERNAL_LINKS (4): https://giahuemobile.com/man-hinh-xiaomi-civi-1-bi-chop-nhay/ https://giahuemobile.com/san-pham/thay-man-hinh-xiaomi-civi-1/ https://giahuemobile.com/danh-muc-san-pham/sua-dien-thoai-xiaomi/thay-man-hinh-xiaomi/ https://giahuemobile.com
+WORDS: 3244 | IMAGES: 5 | FAQ: yes
+=== BODY ===
+Màn hình Xiaomi Civi 1 bị chớp nháy không phải trường hợp nào cũng cần thay cả cụm màn hình. Nếu nguyên nhân liên quan đến phần mềm, cài đặt hiển thị, lỏng chân socket hoặc đường cáp truyền tín hiệu bị lỗi, máy có thể khắc phục bằng cách vệ sinh, cắm lại chân kết nối hoặc xử lý cáp chuyên dụng để giữ lại màn hình gốc.
+
+Ngược lại, nếu hiện tượng chớp nháy đi kèm với các dấu hiệu tổn thương vật lý của tấm nền OLED như sọc chỉ (xanh/hồng), xuất hiện đốm đen mực loang tím, mất hiển thị từng mảng hoặc đơ liệt cảm ứng sau khi rơi rớt, ngấm nước, thì thay nguyên cụm màn hình mới là giải pháp cần thiết. Việc chẩn đoán chính xác nguồn gốc lỗi trước khi sửa sẽ giúp người dùng tiết kiệm chi phí, tránh bị báo thay màn hình khi máy chỉ hỏng kết nối ngoại vi.
+
+Mục lục
+
+ Toggle 
+
+- 1. Vì sao màn hình Xiaomi Civi 1 bị chớp nháy? 
+- 2. Màn hình Xiaomi Civi 1 bị chớp nháy có sửa được không? 
+- Chớp nháy nhẹ do cài đặt hiển thị (Khắc phục không tháo máy) 
+- Chớp nháy do lỏng socket hoặc đứt cáp màn hình (Sửa chữa giữ màn gốc) 
+- Chớp nháy kèm biến dạng tấm nền (Không thể sửa chữa riêng lẻ) 
+ 
+- 3. Màn hình Xiaomi Civi 1 bị chớp nháy khi nào phải thay màn? 
+- Chớp nháy kèm sọc màn hình hoặc đốm đen 
+- Chớp nháy kèm chảy mực, loang màu hoặc mất hiển thị 
+- Chớp nháy kèm liệt hoặc loạn cảm ứng 
+ 
+- 4. Màn hình Xiaomi Civi 1 bị chớp nháy phải làm sao? 
+- Khởi động lại máy và kiểm tra cài đặt màn hình 
+- Kiểm tra màn hình ở nhiều mức độ sáng 
+- Sao lưu dữ liệu nếu lỗi ngày càng nặng 
+- Nếu màn hình chớp mạnh hoặc không còn thao tác được 
+ 
+- 5. Màn hình Xiaomi Civi 1 bị chớp nháy có nên dùng tiếp không? 
+- Có thể sử dụng tạm thời khi màn vẫn hiển thị và cảm ứng bình thường 
+- Không nên tiếp tục dùng khi màn hình nháy liên tục hoặc xuất hiện lỗi khác 
+- Nên kiểm tra sớm nếu máy từng bị rơi, va đập hoặc vào ẩm 
+ 
+- 6. Câu hỏi thường gặp về màn hình Xiaomi Civi 1 bị chớp nháy 
+- Màn hình Xiaomi Civi 1 bị chớp nháy sửa cáp màn hình mất bao lâu? 
+- Ép cáp màn hình để sửa lỗi chớp nháy có bền bằng màn hình ban đầu không? 
+- Chi phí xử lý lỗi chớp nháy và thay màn hình Xiaomi Civi 1 chênh lệch thế nào? 
+ 
+- 7. Kiểm tra màn hình Xiaomi Civi 1 bị chớp nháy tại Gia Huệ Mobile 
+- Kiểm tra hiển thị và cảm ứng trước khi sửa 
+- Xác định nguyên nhân để tư vấn sửa hoặc thay phù hợp 
+- Quy trình dịch vụ tại Gia Huệ Mobile 
+- Thông tin liên hệ 
+
+## 1. Vì sao màn hình Xiaomi Civi 1 bị chớp nháy?
+
+ Xiaomi Civi 1 bị chớp nháy màn hình sau va đập dù kính ngoài vẫn còn nguyên 
+
+Màn hình Xiaomi Civi 1 sử dụng tấm nền OLED cong khá mỏng nên có thể bị ảnh hưởng khi máy chịu va đập, rơi rớt hoặc gặp vấn đề về nguồn điện.Tình trạng chớp nháy có thể xuất phát từ lỗi xung đột hệ thống bên ngoài, lỗi tiếp xúc đường truyền tín hiệu hoặc tổn thương mạch điện tử bên trong phôi màn hình.
+
+- Màn hình chớp nháy sau khi Xiaomi Civi 1 bị rơi hoặc va đập: Sau khi máy bị rơi, tì đè hoặc chịu lực mạnh, màn hình có thể bắt đầu chớp nháy dù mặt kính bên ngoài vẫn không nứt vỡ. Tác động vật lý có thể ảnh hưởng đến tấm nền OLED hoặc các điểm kết nối màn hình, khiến hình ảnh hiển thị không ổn định. 
+
+- Kết nối màn hình hoặc cáp hiển thị gặp vấn đề: Cáp màn hình và socket có nhiệm vụ truyền tín hiệu hiển thị giữa màn hình và bo mạch của máy. Nếu điểm tiếp xúc bị lỏng, bám bụi, bị oxy hóa do hơi ẩm hoặc cáp bị hư hỏng, tín hiệu truyền lên màn hình có thể chập chờn, khiến màn hình lúc sáng lúc tối hoặc nhấp nháy theo từng thời điểm. 
+
+- Chớp nháy do phần mềm, độ sáng hoặc cài đặt màn hình: Hiện tượng có thể xuất hiện khi thay đổi độ sáng, tần số quét hoặc sau khi cập nhật hệ điều hành. Trên màn OLED, hiện tượng nhấp nháy đôi khi dễ nhận thấy hơn khi để độ sáng thấp do cách màn hình điều chỉnh độ sáng. Nếu lỗi chỉ xuất hiện trong một số ứng dụng hoặc ở một mức sáng nhất định, nên thử điều chỉnh cài đặt và khởi động lại máy trước khi nghĩ đến lỗi màn hình. 
+
+- Màn hình chớp nháy do tổn thương vật lý phôi hiển thị: Nếu màn hình liên tục chớp giật và đi kèm sọc, đốm đen, loang màu, sai màu hoặc mất một phần hiển thị, nguyên nhân có thể nằm ở chính tấm nền. Trường hợp này cần kiểm tra để đánh giá mức độ hư hỏng và xác định có thể xử lý riêng hay cần thay cụm màn hình. 
+
+## 2. Màn hình Xiaomi Civi 1 bị chớp nháy có sửa được không?
+
+ Kỹ thuật viên kiểm tra cáp và socket màn hình Xiaomi Civi 1 bị chớp nháy để đánh giá khả năng giữ màn gốc 
+
+Khả năng sửa chữa và giữ lại màn hình gốc của Xiaomi Civi 1 phụ thuộc vào vị trí cũng như mức độ lỗi. Nếu nguyên nhân nằm ở phần mềm, cáp hoặc các điểm kết nối bên ngoài tấm nền, máy có thể được xử lý mà chưa cần thay màn hình. Ngược lại, nếu tấm nền OLED bên trong đã bị hư hỏng, việc sửa riêng để giữ lại màn gốc sẽ khó hơn và cần đánh giá cụ thể trước khi lựa chọn phương án.
+
+### Chớp nháy nhẹ do cài đặt hiển thị (Khắc phục không tháo máy)
+
+Trường hợp hiện tượng chớp nháy liên quan đến cài đặt hiển thị hoặc xung đột tạm thời giữa hệ điều hành và màn hình, người dùng có thể thử xử lý ngay tại nhà trước khi mang máy đi kiểm tra.
+
+Bạn có thể bật tính năng chống nhấp nháy nếu máy hỗ trợ, đồng thời đưa độ phân giải và tần số quét về mức tiêu chuẩn. Sau đó, khởi động lại máy và theo dõi xem hiện tượng chớp nháy có còn xuất hiện hay không.
+
+### Chớp nháy do lỏng socket hoặc đứt cáp màn hình (Sửa chữa giữ màn gốc)
+
+Khi tấm nền OLED vẫn nguyên vẹn nhưng tín hiệu hình ảnh bị gián đoạn do lỏng socket hoặc đứt mạch ngầm trên cáp, kỹ thuật viên có thể xử lý bằng cách:
+
+- Tháo máy, vệ sinh chân socket và gắn chặt lại điểm tiếp xúc. 
+
+- Sử dụng kỹ thuật ép lại cổ cáp (xử lý phần cáp bị đứt mạch và gắn lại đường truyền tín hiệu bằng thiết bị chuyên dụng). Giải pháp này giúp khôi phục khả năng hiển thị bình thường mà chỉ tốn khoảng 30% – 40% chi phí so với việc thay nguyên cụm màn. 
+
+### Chớp nháy kèm biến dạng tấm nền (Không thể sửa chữa riêng lẻ)
+
+Nếu tấm nền OLED bên trong đã bị hư hỏng nặng, các phương pháp kỹ thuật như ép cáp hay xử lý chân tiếp xúc đều không mang lại tác dụng. Việc can thiệp nhiệt vào phôi màn hình đã tổn thương nặng đều có nguy cơ làm hỏng hẳn màn hình.
+
+## 3. Màn hình Xiaomi Civi 1 bị chớp nháy khi nào phải thay màn?
+
+ Xiaomi Civi 1 chớp nháy kèm sọc và chảy mực, dấu hiệu có thể phải thay màn hình 
+
+Thay nguyên bộ màn hình thường tốn kém chi phí hơn và được áp dụng khi cụm linh kiện hiển thị đã mất khả năng phục hồi chức năng:
+
+### Chớp nháy kèm sọc màn hình hoặc đốm đen
+
+Các đường sọc dọc/ngang màu xanh, trắng, hồng hoặc những đốm đen xuất hiện trên màn hình thường là dấu hiệu cho thấy tấm nền OLED đã bị hư hỏng. Lỗi này ăn sâu vào kết cấu phôi màn, không thể xử lý bằng cách sửa cáp mà cần thay thế cụm màn hình mới.
+
+### Chớp nháy kèm chảy mực, loang màu hoặc mất hiển thị
+
+Vết loang màu tím/đen lan rộng dần theo thời gian, thường được gọi là chảy mực, là dấu hiệu cho thấy tấm nền OLED đã bị tổn thương. Trường hợp này thường không thể xử lý bằng cách sửa cáp mà cần thay màn hình. Hoặc trường hợp máy chớp sáng vài lần rồi tắt tối đen dù vẫn rung và đổ chuông khi có cuộc gọi đến, phôi màn đã hỏng và cần thay mới để sử dụng.
+
+### Chớp nháy kèm liệt hoặc loạn cảm ứng
+
+Lớp cảm ứng của Xiaomi Civi 1 được tích hợp liền khối với tấm nền hiển thị. Khi màn hình vừa chớp vừa phát sinh tình trạng cảm ứng bị liệt một vùng, tự nhảy điểm chạm hoặc thao tác không chính xác mà việc làm lại cáp không xử lý được, thay nguyên cụm màn hình mới là giải pháp phù hợp để bảo đảm thao tác vuốt chạm ổn định.
+
+Nếu máy rơi vào các trường hợp hư hỏng linh kiện kể trên, bạn nên chọn dịch vụ thay màn hình Xiaomi Civi 1 chính hãng lấy ngay tại Gia Huệ Mobile để khôi phục tấm nền OLED cong sắc nét và chuẩn tần số quét 120Hz ban đầu.
+
+## 4. Màn hình Xiaomi Civi 1 bị chớp nháy phải làm sao?
+
+ Kiểm tra độ sáng, tần số quét và sao lưu dữ liệu khi Xiaomi Civi 1 bị chớp nháy 
+
+Trước khi mang máy đến các trung tâm kỹ thuật, bạn có thể thực hiện theo các bước loại trừ dưới đây để kiểm tra mức độ ảnh hưởng:
+
+### Khởi động lại máy và kiểm tra cài đặt màn hình
+
+- Khởi động lại cưỡng bức: Nhấn giữ đồng thời phím Nguồn và phím Giảm âm lượng trong khoảng 10–15 giây cho đến khi logo Xiaomi xuất hiện để giải phóng xung đột bộ nhớ tạm thời. 
+
+- Tắt độ sáng tự động: Vào Cài đặt > Hiển thị > Mức độ sáng , tắt mục Độ sáng tự động , kéo thanh trượt sáng thủ công lên mức 50% – 70% để xem hiện tượng chớp có giảm bớt hay không. 
+
+- Cố định tần số quét: Vào mục Tốc độ làm mới , chuyển từ chế độ tự động hoặc 120Hz về mức cố định 60Hz để kiểm tra xem hiện tượng chớp nháy có giảm hay không. 
+
+- Kích hoạt Anti-flicker: Nếu ROM máy có tính năng Chế độ chống nhấp nháy (DC Dimming), hãy bật lên để hạn chế xung nhịp quét ở mức sáng yếu. 
+
+### Kiểm tra màn hình ở nhiều mức độ sáng
+
+Bạn có thể thử thay đổi độ sáng từ mức thấp lên cao trong cùng một môi trường, chẳng hạn phòng tối, để theo dõi thời điểm màn hình bắt đầu chớp nháy.
+
+- Nếu hiện tượng chỉ xuất hiện nhẹ ở mức sáng rất thấp nhưng giảm hoặc hết khi tăng độ sáng, có thể liên quan đến cách màn OLED điều chỉnh độ sáng hoặc thiết lập hiển thị. 
+
+- Nếu màn hình vẫn chớp nháy ở nhiều mức độ sáng, chớp mạnh khi thao tác hoặc đi kèm sọc, đốm, đổi màu, nên kiểm tra thêm cáp màn hình, socket và các bộ phận liên quan để xác định nguyên nhân. 
+
+### Sao lưu dữ liệu nếu lỗi ngày càng nặng
+
+Khi màn hình bắt đầu có dấu hiệu chập chờn lúc lên lúc ngắt, bạn nên kết nối máy với máy tính hoặc đồng bộ hình ảnh, danh bạ, tài liệu quan trọng lên tài khoản Mi Cloud/Google Drive trước khi màn hình có nguy cơ mất hiển thị.
+
+### Nếu màn hình chớp mạnh hoặc không còn thao tác được
+
+Trong trường hợp màn hình chớp liên tục không thể nhìn thấy nội dung hoặc máy có dấu hiệu ấm nóng bất thường ở khu vực màn hình sau va đập/ngấm ẩm, hãy:
+
+- Tắt nguồn máy để hạn chế nguy cơ phát sinh thêm lỗi nếu bên trong máy có vấn đề về nguồn hoặc bị ẩm. 
+
+- Hạn chế cắm sạc pin khi màn hình đang có biểu hiện chập chờn do ngấm nước. 
+
+- Mang máy đến cơ sở sửa chữa uy tín có dụng cụ đo đạc kỹ thuật để kiểm tra. 
+
+## 5. Màn hình Xiaomi Civi 1 bị chớp nháy có nên dùng tiếp không?
+
+Quyết định có nên tiếp tục sử dụng hay cần xử lý phụ thuộc vào mức độ ảnh hưởng của lỗi tới thị giác và tình trạng an toàn của linh kiện bên trong:
+
+### Có thể sử dụng tạm thời khi màn vẫn hiển thị và cảm ứng bình thường
+
+Nếu hiện tượng chớp nháy chỉ xuất hiện ngắt quãng, không thường xuyên và nội dung hiển thị vẫn đầy đủ màu sắc, bạn có thể sử dụng tạm thời để xử lý công việc. Tuy nhiên, việc nhìn lâu vào màn hình có tần số nhấp nháy không ổn định có thể gây mỏi mắt, khó chịu cho thị lực.
+
+### Không nên tiếp tục dùng khi màn hình nháy liên tục hoặc xuất hiện lỗi khác
+
+Nếu màn hình chớp giật với tần suất cao, hiện tượng xung điện bất thường có thể gây ảnh hưởng cho IC hiển thị trên bo mạch chủ. Tiếp tục sử dụng trong tình trạng này tiềm ẩn nguy cơ làm chập mạch nguồn màn hình, khiến lỗi nhẹ ở phần cáp chuyển biến phức tạp hơn.
+
+### Nên kiểm tra sớm nếu máy từng bị rơi, va đập hoặc vào ẩm
+
+Các tác động va đập hoặc hơi nước xâm nhập vào socket cần được xử lý làm khô, vệ sinh kịp thời. Việc tiếp tục sử dụng trong điều kiện chân mạch bị ẩm hoặc lỏng tiếp xúc có thể làm điểm tiếp xúc bị oxy hóa, ảnh hưởng đến khả năng ép lại cáp.
+
+## 6. Câu hỏi thường gặp về màn hình Xiaomi Civi 1 bị chớp nháy
+
+### Màn hình Xiaomi Civi 1 bị chớp nháy sửa cáp màn hình mất bao lâu?
+
+Thời gian kiểm tra và ép lại cáp màn hình OLED chuyên dụng mất khoảng 90 đến 120 phút. Kỹ thuật viên sẽ tách bóc màn hình ra khỏi khung viền, làm sạch lớp keo cũ và dùng máy dập nhiệt xung chuyên dụng để cố định chân cáp mới.
+
+### Ép cáp màn hình để sửa lỗi chớp nháy có bền bằng màn hình ban đầu không?
+
+Độ bền sau khi ép cáp có thể đạt tương đương màn hình ban đầu nếu phôi OLED chưa xuống cấp và quá trình dập cáp sử dụng keo dẫn điện đạt tiêu chuẩn kỹ thuật. Sau khi xử lý, màn hình hoạt động ổn định và giữ lại được tấm nền zin của máy.
+
+### Chi phí xử lý lỗi chớp nháy và thay màn hình Xiaomi Civi 1 chênh lệch thế nào?
+
+Chi phí ép cáp hoặc cắm lại chân socket thường chỉ từ vài trăm nghìn đồng (tiết kiệm khoảng 60% – 70% so với thay màn). Trong khi đó, việc thay nguyên cụm màn hình OLED cong sẽ có mức giá cao hơn do giá thành của phôi hiển thị mới.
+
+Để nắm rõ mức giá linh kiện cho từng model máy cũng như chính sách bảo hành minh bạch, bạn có thể tham khảo bảng giá dịch vụ thay màn hình Xiaomi trọn gói lấy ngay trong ngày tại trung tâm.
+
+## 7. Kiểm tra màn hình Xiaomi Civi 1 bị chớp nháy tại Gia Huệ Mobile
+
+ Địa chỉ kiểm tra màn hình Xiaomi Civi 1 chớp nháy Hà Nội 
+
+Tại Gia Huệ Mobile , kỹ thuật viên kiểm tra nguyên nhân thực tế để ưu tiên giữ lại màn hình gốc của máy, hạn chế việc thay cụm linh kiện khi chưa cần thiết.
+
+### Kiểm tra hiển thị và cảm ứng trước khi sửa
+
+Khách hàng cùng kỹ thuật viên kiểm tra trực tiếp tình trạng máy: kiểm tra mức độ chớp qua từng nấc sáng, dùng thao tác test cảm ứng trên toàn bộ mặt cong, đánh giá tình trạng phôi màn để phát hiện sớm các dấu hiệu rạn nứt hay ẩm socket.
+
+### Xác định nguyên nhân để tư vấn sửa hoặc thay phù hợp
+
+- Ưu tiên giữ lại màn hình gốc: Nếu phôi OLED còn sáng đều, không có điểm đen mực hay sọc màu, kỹ thuật viên tư vấn giải pháp xử lý socket hoặc ép lại cổ cáp tín hiệu để tối ưu chi phí cho khách hàng. 
+
+- Tư vấn thay màn minh bạch: Chỉ khi phôi hiển thị bị nứt rạn bên trong hoặc mất nguồn hiển thị, kỹ thuật viên mới thông báo lý do kỹ thuật và bảng giá thay cụm màn hình để khách hàng quyết định. 
+
+### Quy trình dịch vụ tại Gia Huệ Mobile
+
+- Kiểm tra miễn phí: Khách hàng mang máy đến kiểm tra không mất phí; chỉ tiến hành sửa chữa khi khách đồng ý với phương án và báo giá. 
+
+- Báo giá trọn gói: Báo giá rõ ràng trước khi thực hiện, không phát sinh chi phí tháo lắp hay keo dán ngoài dự kiến. 
+
+- Trực tiếp, minh bạch: Khách hàng có thể theo dõi trực tiếp thao tác của kỹ thuật viên tại khu vực kỹ thuật. 
+
+- Chính sách bảo hành rõ ràng: Bảo hành chu đáo đối với dịch vụ sửa cáp và thay màn hình, hỗ trợ kiểm tra sau sửa chữa. 
+
+Gia Huệ Mobile có hơn 22 năm kinh nghiệm trong lĩnh vực sửa chữa điện thoại và xử lý màn hình cong tại Hà Nội, mang đến giải pháp sửa chữa thực tế, minh bạch và an tâm cho khách hàng.
+
+### Thông tin liên hệ
+
+- Cơ sở 1: 177 Vũ Tông Phan, Phường Khương Trung, Quận Thanh Xuân, Hà Nội (mặt đường ven sông Tô Lịch, gần Ngã Tư Sở, có chỗ đỗ ô tô) . Hotline/Zalo: 0962.528.528 
+
+- Cơ sở 2: 22 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội. Hotline/Zalo: 0986.980.802 
+
+- Thời gian làm việc: 08:00 – 19:30 hàng ngày (phục vụ xuyên trưa cả Thứ Bảy và Chủ Nhật) . 
+
+- Website: giahuemobile.com 
+
+Hãy liên hệ qua Hotline/Zalo hoặc mang máy đến Gia Huệ Mobile để được kiểm tra tình trạng chớp nháy màn hình Xiaomi Civi 1 trước khi quyết định sửa chữa.

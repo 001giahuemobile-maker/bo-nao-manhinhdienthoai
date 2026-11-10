@@ -1,0 +1,274 @@
+﻿URL: https://giahuemobile.com/iphone-18-pro-max-thay-man-hinh-co-mat-face-id-khong/
+TYPE: post
+TITLE: IPhone 18 Pro Max Thay Màn Hình Có Mất Face ID Không?
+META: IPhone 18 Pro Max thay màn hình có mất Face ID không? Tìm hiểu những rủi ro có thể gặp, nguyên nhân gây lỗi nhận diện khuôn mặt và cách hạn chế rủi ro gặp phải.
+CANONICAL: https://giahuemobile.com/iphone-18-pro-max-thay-man-hinh-co-mat-face-id-khong/
+ROBOTS: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+PUBLISHED: 2026-10-16T13:35:12+07:00 | MODIFIED: 2026-10-16T13:52:52+07:00
+H1: iPhone 18 Pro Max Thay Màn Hình Có Mất Face ID Không?
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+H2: 1. Cụm Face ID trên iPhone 18 Pro Max có liên quan gì đến việc thay màn hình?
+  H3: Cụm cảm biến Face ID có được thay cùng màn hình không?
+  H3: Vì sao cần bảo vệ linh kiện Face ID theo máy khi tháo màn hình?
+H2: 2. Dấu hiệu iPhone 18 Pro Max bị lỗi Face ID sau khi thay màn hình
+  H3: iPhone báo Face ID không khả dụng hoặc không thể thiết lập
+  H3: Face ID không nhận diện được khuôn mặt khi mở khóa
+  H3: Camera trước hoặc một số tính năng liên quan hoạt động bất thường
+H2: 3. Nguyên nhân khiến iPhone 18 Pro Max mất Face ID sau khi thay màn
+  H3: Cáp hoặc linh kiện liên quan đến Face ID bị ảnh hưởng khi tháo lắp
+  H3: Socket chưa được lắp đúng hoặc khu vực camera trước bị che khuất
+  H3: Linh kiện hoặc cấu hình sau sửa chữa chưa được hoàn tất đúng cách
+H2: 4. Cách kiểm tra Face ID trước và sau khi thay màn hình iPhone 18 Pro Max
+  H3: Kiểm tra Face ID trước khi giao máy cho kỹ thuật viên
+  H3: Kiểm tra lại Face ID sau khi thay màn hình
+  H3: Cần làm gì nếu Face ID báo lỗi sau sửa chữa?
+H2: 5. Cách hạn chế nguy cơ mất Face ID khi thay màn hình iPhone 18 Pro Max
+  H3: Chọn nơi có kinh nghiệm tháo lắp iPhone
+  H3: Kiểm tra Face ID trước và sau khi sửa
+  H3: Không tự ý thay linh kiện Face ID khi chưa xác định đúng lỗi
+H2: 6. Câu hỏi thường gặp về Face ID khi thay màn hình iPhone 18 Pro Max
+  H3: Thay màn hình iPhone 18 Pro Max có cần cài đặt lại Face ID không?
+  H3: iPhone 18 Pro Max thay màn xong mất Face ID có sửa lại được không?
+  H3: Thay màn hình iPhone 18 Pro Max có ảnh hưởng camera trước không?
+H2: 7. Kiểm tra và thay màn hình iPhone 18 Pro Max tại Gia Huệ Mobile
+INTERNAL_LINKS (4): https://giahuemobile.com/iphone-18-pro-max-thay-man-hinh-co-mat-face-id-khong/ https://giahuemobile.com/san-pham/thay-man-hinh-iphone-18-pro-max/ https://giahuemobile.com/danh-muc-san-pham/sua-dien-thoai-iphone/thay-man-hinh-iphone/ https://giahuemobile.com
+WORDS: 3477 | IMAGES: 4 | FAQ: yes
+=== BODY ===
+Thông thường, thay màn hình iPhone 18 Pro Max không làm mất Face ID nếu cụm camera trước vẫn hoạt động tốt và quá trình tháo lắp được thực hiện đúng kỹ thuật . Vì vậy, với câu hỏi iPhone 18 Pro Max thay màn hình có mất Face ID không , người dùng không cần quá lo lắng chỉ vì phải thay cụm màn hình.
+
+Face ID hoạt động nhờ hệ thống camera TrueDepth ở phía trước máy và không phải là một phần của tấm nền hiển thị. Khi thay màn hình, kỹ thuật viên chủ yếu tháo màn hình cũ, lắp màn hình mới và giữ nguyên các linh kiện liên quan đến Face ID nếu chúng vẫn hoạt động bình thường.
+
+Face ID có thể phát sinh lỗi nếu cáp hoặc đầu nối bị ảnh hưởng trong lúc tháo lắp, cụm camera trước bị tác động hoặc linh kiện sau sửa chữa chưa được lắp và kiểm tra đúng cách. Vì vậy, nên test Face ID trước khi sửa và kiểm tra lại ngay sau khi hoàn tất thay màn hình.
+
+Mục lục
+
+ Toggle 
+
+- 1. Cụm Face ID trên iPhone 18 Pro Max có liên quan gì đến việc thay màn hình? 
+- Cụm cảm biến Face ID có được thay cùng màn hình không? 
+- Vì sao cần bảo vệ linh kiện Face ID theo máy khi tháo màn hình? 
+ 
+- 2. Dấu hiệu iPhone 18 Pro Max bị lỗi Face ID sau khi thay màn hình 
+- iPhone báo Face ID không khả dụng hoặc không thể thiết lập 
+- Face ID không nhận diện được khuôn mặt khi mở khóa 
+- Camera trước hoặc một số tính năng liên quan hoạt động bất thường 
+ 
+- 3. Nguyên nhân khiến iPhone 18 Pro Max mất Face ID sau khi thay màn 
+- Cáp hoặc linh kiện liên quan đến Face ID bị ảnh hưởng khi tháo lắp 
+- Socket chưa được lắp đúng hoặc khu vực camera trước bị che khuất 
+- Linh kiện hoặc cấu hình sau sửa chữa chưa được hoàn tất đúng cách 
+ 
+- 4. Cách kiểm tra Face ID trước và sau khi thay màn hình iPhone 18 Pro Max 
+- Kiểm tra Face ID trước khi giao máy cho kỹ thuật viên 
+- Kiểm tra lại Face ID sau khi thay màn hình 
+- Cần làm gì nếu Face ID báo lỗi sau sửa chữa? 
+ 
+- 5. Cách hạn chế nguy cơ mất Face ID khi thay màn hình iPhone 18 Pro Max 
+- Chọn nơi có kinh nghiệm tháo lắp iPhone 
+- Kiểm tra Face ID trước và sau khi sửa 
+- Không tự ý thay linh kiện Face ID khi chưa xác định đúng lỗi 
+ 
+- 6. Câu hỏi thường gặp về Face ID khi thay màn hình iPhone 18 Pro Max 
+- Thay màn hình iPhone 18 Pro Max có cần cài đặt lại Face ID không? 
+- iPhone 18 Pro Max thay màn xong mất Face ID có sửa lại được không? 
+- Thay màn hình iPhone 18 Pro Max có ảnh hưởng camera trước không? 
+ 
+- 7. Kiểm tra và thay màn hình iPhone 18 Pro Max tại Gia Huệ Mobile 
+
+## 1. Cụm Face ID trên iPhone 18 Pro Max có liên quan gì đến việc thay màn hình?
+
+ Kỹ thuật viên bảo vệ cụm Face ID iPhone 18 Pro Max khi thay màn hình 
+
+Face ID và màn hình là hai cụm có chức năng khác nhau, nhưng đều nằm ở khu vực mặt trước nên quá trình tháo màn vẫn cần thao tác cẩn thận . Đây cũng là lý do nhiều người quan tâm iPhone 18 Pro Max thay màn hình có ảnh hưởng Face ID không trước khi mang máy đi sửa.
+
+### Cụm cảm biến Face ID có được thay cùng màn hình không?
+
+Thông thường không. Khi thay màn hình, kỹ thuật viên không cần thay cụm camera trước và các linh kiện phục vụ Face ID nếu chúng vẫn hoạt động bình thường.
+
+Công việc chính là tháo màn hình bị hỏng và lắp cụm màn hình mới. Các linh kiện liên quan đến hệ thống TrueDepth được giữ lại, sau đó kiểm tra lại khả năng nhận diện khuôn mặt khi hoàn tất sửa chữa.
+
+Vì vậy, thay màn hình và thay cụm camera trước là hai hạng mục sửa chữa khác nhau, không nên hiểu rằng thay màn đồng nghĩa phải thay luôn Face ID.
+
+### Vì sao cần bảo vệ linh kiện Face ID theo máy khi tháo màn hình?
+
+Các linh kiện liên quan đến Face ID cần được bảo vệ cẩn thận vì đây là hệ thống sinh trắc học được Apple quản lý và hiệu chỉnh chặt chẽ. Nếu cụm camera trước, cáp hoặc đầu nối bị hư hỏng trong lúc tháo lắp, Face ID có thể báo lỗi hoặc không nhận diện được khuôn mặt.
+
+Do khu vực camera trước nằm gần màn hình, kỹ thuật viên cần tránh kéo căng cáp, làm lệch đầu nối hoặc tác động lực không cần thiết vào cụm cảm biến khi mở máy.
+
+Nếu Face ID phát sinh lỗi sau sửa chữa, cần kiểm tra đúng nguyên nhân trước khi thay hoặc can thiệp sâu vào cụm camera trước. Không nên tự ý đổi linh kiện khi chưa xác định phần nào thực sự bị hỏng.
+
+## 2. Dấu hiệu iPhone 18 Pro Max bị lỗi Face ID sau khi thay màn hình
+
+Face ID sau khi thay màn hình nếu có vấn đề thường biểu hiện khá rõ qua cảnh báo trên máy, không nhận khuôn mặt hoặc không thể thiết lập lại Face ID . Vì vậy, nếu đang thắc mắc iPhone 18 Pro Max thay màn hình có bị lỗi Face ID không , bạn có thể kiểm tra một số dấu hiệu dưới đây.
+
+### iPhone báo Face ID không khả dụng hoặc không thể thiết lập
+
+Dấu hiệu dễ nhận biết nhất là iPhone báo Face ID không khả dụng hoặc xuất hiện cảnh báo liên quan đến camera TrueDepth.
+
+Khi vào Cài đặt > Face ID & Mật mã , người dùng có thể không thiết lập được Face ID mới hoặc máy liên tục báo không thể sử dụng Face ID tại thời điểm đó.
+
+Nếu tình trạng này chỉ xuất hiện sau khi thay màn hình, nên mang máy quay lại cơ sở sửa chữa để kiểm tra trước khi tiếp tục sử dụng.
+
+### Face ID không nhận diện được khuôn mặt khi mở khóa
+
+Một dấu hiệu khác là Face ID vẫn được bật nhưng nhận diện khuôn mặt không ổn định hoặc không thể mở khóa máy.
+
+Người dùng có thể phải đưa khuôn mặt vào vị trí nhiều lần nhưng iPhone vẫn yêu cầu nhập mật mã. Khi thử thiết lập lại Face ID, quá trình quét khuôn mặt cũng có thể bị gián đoạn hoặc không hoàn tất.
+
+Trường hợp này nên được kiểm tra cùng với camera trước và cụm TrueDepth để xác định chính xác phần nào đang gặp vấn đề.
+
+### Camera trước hoặc một số tính năng liên quan hoạt động bất thường
+
+Nếu camera trước đồng thời có biểu hiện bất thường sau khi thay màn hình, người dùng cũng nên kiểm tra lại cụm camera và Face ID.
+
+Ảnh selfie có thể bị mờ, xuất hiện vùng che khuất hoặc camera trước hoạt động không ổn định. Một số tính năng sử dụng dữ liệu chiều sâu ở camera trước cũng có thể không hoạt động như bình thường.
+
+Tuy nhiên, camera selfie bị mờ không đồng nghĩa Face ID đã hỏng. Cần kiểm tra thực tế trước khi kết luận nguyên nhân.
+
+## 3. Nguyên nhân khiến iPhone 18 Pro Max mất Face ID sau khi thay màn
+
+ iPhone 18 Pro Max báo lỗi Face ID sau khi thay màn hình 
+
+Face ID bị lỗi sau khi thay màn hình thường liên quan đến quá trình tháo lắp, đầu nối linh kiện hoặc việc hoàn tất cấu hình sau sửa chữa. Với câu hỏi thay màn hình iPhone 18 Pro Max Face ID có hoạt động không , câu trả lời còn phụ thuộc vào việc các linh kiện liên quan đến camera trước và Face ID có được giữ nguyên, lắp đúng và kiểm tra đầy đủ hay không.
+
+### Cáp hoặc linh kiện liên quan đến Face ID bị ảnh hưởng khi tháo lắp
+
+Cáp, đầu nối hoặc cụm camera trước có thể bị ảnh hưởng nếu quá trình tháo màn hình thực hiện không đúng kỹ thuật.
+
+Màn hình được cố định khá chắc vào thân máy nên kỹ thuật viên cần thao tác đúng vị trí và kiểm soát lực khi mở máy. Nếu dụng cụ đi quá sâu, cáp bị kéo căng hoặc khu vực camera trước chịu tác động mạnh, Face ID có thể phát sinh lỗi sau khi lắp lại.
+
+Đây là lý do Face ID cần được kiểm tra trước khi sửa và test lại ngay sau khi hoàn tất thay màn hình.
+
+### Socket chưa được lắp đúng hoặc khu vực camera trước bị che khuất
+
+Face ID cũng có thể hoạt động không ổn định nếu đầu nối chưa tiếp xúc tốt hoặc khu vực camera trước bị bụi, keo hay vật cản che khuất.
+
+Sau khi lắp màn hình mới, socket cần được gắn đúng vị trí và khu vực camera trước phải sạch. Nếu đầu nối bị lệch, tiếp xúc không ổn định hoặc có bụi, keo che khu vực cảm biến, quá trình nhận diện khuôn mặt có thể bị ảnh hưởng.
+
+Trường hợp này cần mở máy kiểm tra lại phần lắp ráp trước khi kết luận cụm Face ID đã hỏng.
+
+### Linh kiện hoặc cấu hình sau sửa chữa chưa được hoàn tất đúng cách
+
+Một số trường hợp sau khi thay màn hình cần kiểm tra thêm tình trạng linh kiện và quá trình cấu hình của máy.
+
+Nếu màn hình hoặc linh kiện liên quan không tương thích, lắp chưa đúng hoặc hệ thống vẫn báo yêu cầu hoàn tất sửa chữa, kỹ thuật viên cần kiểm tra lại và thực hiện các bước chẩn đoán, hiệu chỉnh phù hợp.
+
+Không nên mặc định rằng cứ thay màn hình là iOS sẽ khóa Face ID. Nếu Face ID báo lỗi sau sửa chữa, cần xác định rõ nguyên nhân nằm ở phần cứng, kết nối hay quá trình cấu hình trước khi xử lý tiếp.
+
+Để đảm bảo màn hình mới đồng bộ hoàn hảo với hệ điều hành và không gây chập chờn cho cụm TrueDepth, bạn nên chủ động lựa chọn dịch vụ thay màn hình iPhone 18 Pro Max lấy ngay với quy trình bóc tách cẩn thận và chẩn đoán cấu hình bài bản từ đầu.
+
+## 4. Cách kiểm tra Face ID trước và sau khi thay màn hình iPhone 18 Pro Max
+
+ Kiểm tra Face ID iPhone 18 Pro Max trước khi bàn giao sau thay màn hình 
+
+Nên kiểm tra Face ID cả trước và sau khi thay màn hình để xác định rõ tình trạng máy và tránh nhầm lẫn nếu phát sinh lỗi. Đây cũng là cách thực tế nhất để biết iPhone 18 Pro Max thay màn hình có ảnh hưởng Face ID không trong từng trường hợp cụ thể.
+
+### Kiểm tra Face ID trước khi giao máy cho kỹ thuật viên
+
+Trước khi sửa, hãy thử mở khóa bằng Face ID và kiểm tra xem máy có báo lỗi liên quan đến camera TrueDepth hay không.
+
+Bạn có thể vào Cài đặt > Face ID & Mật mã để kiểm tra tình trạng hoạt động của Face ID. Nếu hệ thống nhận diện bình thường, cửa hàng nên ghi nhận rõ tình trạng này khi tiếp nhận máy.
+
+Nếu màn hình đã tối đen, liệt cảm ứng hoặc hư hỏng nặng đến mức không thể kiểm tra, nên ghi rõ trên phiếu tiếp nhận là chưa kiểm tra được Face ID do màn hình không hoạt động . Cách này rõ ràng hơn cho cả khách hàng và kỹ thuật viên.
+
+### Kiểm tra lại Face ID sau khi thay màn hình
+
+Sau khi lắp màn hình mới, nên test Face ID trực tiếp trước khi nhận máy. 
+
+Bạn có thể kiểm tra theo các bước sau:
+
+- Quan sát cảnh báo: Mở máy và kiểm tra xem có thông báo lỗi liên quan đến camera TrueDepth hoặc Face ID hay không. 
+
+- Thử mở khóa nhiều lần: Tắt và bật sáng màn hình, sau đó thử mở khóa ở khoảng cách sử dụng thông thường để xem Face ID có nhận diện ổn định không. 
+
+- Kiểm tra trong cài đặt: Vào Cài đặt > Face ID & Mật mã để chắc chắn các tùy chọn Face ID vẫn hoạt động bình thường. 
+
+- Thử trong điều kiện khác nhau: Có thể kiểm tra ở môi trường sáng và tối, đồng thời thử một tính năng yêu cầu xác thực Face ID như App Store. 
+
+Không nhất thiết phải xóa và thiết lập lại Face ID nếu hệ thống vẫn nhận diện tốt.
+
+### Cần làm gì nếu Face ID báo lỗi sau sửa chữa?
+
+Nếu Face ID phát sinh lỗi ngay sau khi thay màn hình, nên yêu cầu cửa hàng kiểm tra lại trước khi kết luận linh kiện đã hỏng.
+
+Kỹ thuật viên cần kiểm tra phần lắp ráp, đầu nối, khu vực camera trước và tình trạng cấu hình sau sửa chữa. Những lỗi do socket chưa tiếp xúc tốt, bụi hoặc keo che khu vực cảm biến cần được loại trừ trước khi can thiệp sâu hơn.
+
+Nếu Face ID hoạt động bình thường trước khi sửa nhưng phát sinh lỗi ngay sau đó, cửa hàng nên xác định rõ nguyên nhân và có phương án xử lý phù hợp theo chính sách dịch vụ đã cam kết.
+
+## 5. Cách hạn chế nguy cơ mất Face ID khi thay màn hình iPhone 18 Pro Max
+
+ Kỹ thuật viên bảo vệ cụm Face ID iPhone 18 Pro Max khi thay màn hình 
+
+Để hạn chế rủi ro ảnh hưởng Face ID khi thay màn hình, quan trọng nhất là chọn nơi sửa có kinh nghiệm, kiểm tra máy rõ ràng trước và sau khi làm, đồng thời không can thiệp sâu vào cụm camera trước khi chưa xác định đúng lỗi. Đây cũng là cách giúp người dùng yên tâm hơn khi tìm hiểu iPhone 18 Pro Max thay màn hình có mất Face ID không .
+
+### Chọn nơi có kinh nghiệm tháo lắp iPhone
+
+Nên chọn cơ sở có kỹ thuật viên quen xử lý các dòng iPhone đời mới và có dụng cụ mở máy phù hợp.
+
+Quá trình thay màn hình cần thao tác cẩn thận ở khu vực camera trước, cáp và đầu nối bên trong máy. Kỹ thuật viên có kinh nghiệm sẽ biết vị trí cần tránh tác động mạnh và cách tháo lắp màn hình an toàn hơn.
+
+Không nhất thiết cửa hàng phải quảng cáo quá nhiều máy móc phức tạp; điều quan trọng hơn là quy trình làm việc rõ ràng, kỹ thuật viên kiểm tra máy trước khi sửa và có trách nhiệm với linh kiện của khách.
+
+### Kiểm tra Face ID trước và sau khi sửa
+
+Face ID nên được test trực tiếp trước khi thay màn hình và kiểm tra lại ngay sau khi lắp xong.
+
+Trước khi sửa, cửa hàng nên ghi nhận tình trạng Face ID, camera trước, cảm ứng và các chức năng liên quan. Sau khi hoàn tất, khách hàng nên tự kiểm tra lại khả năng mở khóa bằng khuôn mặt trước khi nhận máy.
+
+Cách kiểm tra hai chiều này giúp xác định rõ tình trạng ban đầu của thiết bị và hạn chế tranh cãi nếu có lỗi phát sinh sau sửa chữa.
+
+### Không tự ý thay linh kiện Face ID khi chưa xác định đúng lỗi
+
+Nếu Face ID báo lỗi sau khi thay màn hình, không nên vội thay cụm camera trước hoặc các linh kiện liên quan khi chưa kiểm tra nguyên nhân.
+
+Kỹ thuật viên nên kiểm tra lại đầu nối, cáp, tình trạng lắp ráp và cấu hình sau sửa chữa trước. Chỉ khi đã xác định được linh kiện nào thực sự hỏng mới nên đưa ra phương án sửa hoặc thay phù hợp.
+
+Việc can thiệp không cần thiết vào hệ thống Face ID có thể làm quá trình sửa chữa phức tạp hơn và tăng chi phí cho khách hàng.
+
+Nhìn chung, việc lựa chọn trung tâm có tay nghề chuyên sâu và thiết bị chẩn đoán chuyên dụng cho hệ sinh thái Apple là yếu tố then chốt. Bạn có thể tham khảo quy trình thực tế tại các địa chỉ chuyên thay màn hình iPhone uy tín, nơi áp dụng bảng test 2 chiều minh bạch trước và sau khi lắp ráp để hoàn toàn yên tâm về các tính năng sinh trắc học.
+
+## 6. Câu hỏi thường gặp về Face ID khi thay màn hình iPhone 18 Pro Max
+
+Dưới đây là những câu hỏi thường gặp giúp người dùng hiểu rõ hơn iPhone 18 Pro Max thay màn hình có bị lỗi Face ID không và cần lưu ý gì sau khi sửa.
+
+### Thay màn hình iPhone 18 Pro Max có cần cài đặt lại Face ID không?
+
+Thông thường không cần cài đặt lại Face ID nếu hệ thống nhận diện khuôn mặt vẫn hoạt động bình thường trước và sau khi thay màn hình. 
+
+Sau khi máy khởi động lại, iPhone có thể yêu cầu nhập mật mã một lần trước khi cho phép sử dụng Face ID. Dữ liệu khuôn mặt đã thiết lập trước đó vẫn được giữ lại nếu quá trình sửa chữa không ảnh hưởng đến các linh kiện liên quan.
+
+Nếu Face ID báo lỗi hoặc không nhận diện sau khi thay màn, nên kiểm tra máy trước khi xóa và thiết lập lại dữ liệu khuôn mặt.
+
+### iPhone 18 Pro Max thay màn xong mất Face ID có sửa lại được không?
+
+Có thể sửa được trong một số trường hợp, nhưng cần kiểm tra nguyên nhân thực tế trước khi kết luận. 
+
+Nếu lỗi đến từ đầu nối tiếp xúc không tốt, cáp bị ảnh hưởng hoặc một số đường mạch liên quan bị hư hỏng, kỹ thuật viên có thể có phương án kiểm tra và xử lý phù hợp.
+
+Ngược lại, nếu cụm camera trước hoặc linh kiện quan trọng của hệ thống Face ID bị hư hỏng nặng, khả năng phục hồi sẽ phụ thuộc vào tình trạng cụ thể. Vì vậy, không nên khẳng định trước rằng mọi trường hợp mất Face ID đều sửa được.
+
+### Thay màn hình iPhone 18 Pro Max có ảnh hưởng camera trước không?
+
+Thông thường không. Thay màn hình đúng kỹ thuật không làm thay đổi chất lượng camera trước nếu cụm camera vẫn nguyên vẹn và được lắp đúng vị trí.
+
+Sau khi thay màn, kỹ thuật viên nên kiểm tra camera selfie, khả năng lấy nét, hình ảnh hiển thị và các tính năng sử dụng camera trước. Nếu ảnh bị mờ, có bụi hoặc xuất hiện bất thường sau sửa chữa, máy cần được kiểm tra lại phần lắp ráp trước khi kết luận camera bị hỏng.
+
+## 7. Kiểm tra và thay màn hình iPhone 18 Pro Max tại Gia Huệ Mobile
+
+Gia Huệ Mobile có hơn 22 năm kinh nghiệm sửa chữa smartphone chuyên sâu, thực hiện kiểm tra tình trạng máy trước khi sửa và test lại Face ID, camera trước, cảm ứng cùng các chức năng liên quan trước khi bàn giao.
+
+- Cơ sở 1: 177 Vũ Tông Phan, Phường Khương Trung, Quận Thanh Xuân, Hà Nội (mặt đường ven sông Tô Lịch, gần Ngã Tư Sở, có chỗ đỗ ô tô) . Hotline/Zalo: 0962.528.528 
+
+- Cơ sở 2: 22 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội. Hotline/Zalo: 0986.980.802 
+
+- Website: giahuemobile.com 
+
+- Thời gian làm việc: 08:00 – 19:30 hàng ngày, phục vụ xuyên trưa cả Thứ 7 và Chủ Nhật. 
+
+Khách hàng có thể theo dõi trực tiếp quá trình sửa chữa tại khu vực kỹ thuật. Thời gian thay màn phụ thuộc vào tình trạng máy và loại linh kiện sử dụng; sau khi kiểm tra thực tế, kỹ thuật viên sẽ báo rõ phương án, chi phí trọn gói và chính sách bảo hành trước khi tiến hành thực hiện.

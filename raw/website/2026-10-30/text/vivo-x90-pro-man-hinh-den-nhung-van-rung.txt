@@ -1,0 +1,349 @@
+﻿URL: https://giahuemobile.com/vivo-x90-pro-man-hinh-den-nhung-van-rung/
+TYPE: post
+TITLE: Vivo X90 Pro Màn Hình Đen Nhưng Vẫn Rung: Có Phải Thay Màn Hình Không?
+META: Vivo X90 Pro màn hình đen nhưng vẫn rung là bị gì? Tìm hiểu nguyên nhân thường gặp, cách kiểm tra và hướng khắc phục để xác định có cần thay màn hình hay không.
+CANONICAL: https://giahuemobile.com/vivo-x90-pro-man-hinh-den-nhung-van-rung/
+ROBOTS: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+PUBLISHED: 2026-10-24T16:26:27+07:00 | MODIFIED: 2026-10-24T16:26:47+07:00
+H1: Vivo X90 Pro Màn Hình Đen Nhưng Vẫn Rung: Có Phải Thay Màn Hình Không?
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+H2: 1. Vì sao Vivo X90 Pro vẫn rung nhưng không hiển thị hình ảnh?
+  H3: 1.1. Máy còn rung có nghĩa là điện thoại vẫn đang hoạt động không?
+  H3: 1.2. Màn hình đen hoàn toàn khác gì với màn hình tối, chớp tắt hoặc mất hiển thị từng phần?
+H2: 2. Những biểu hiện thường gặp khi Vivo X90 Pro bị đen màn hình
+  H3: 2.1. Màn hình đen nhưng máy vẫn đổ chuông, rung hoặc nhận thông báo
+  H3: 2.2. Máy vẫn nhận cuộc gọi nhưng không thể thao tác vì không nhìn thấy màn hình
+  H3: 2.3. Màn hình tắt đột ngột sau khi điện thoại bị rơi hoặc tiếp xúc với nước
+H2: 3. Nguyên nhân khiến Vivo X90 Pro mất hiển thị nhưng vẫn rung
+  H3: 3.1. Điện thoại bị treo hoặc gặp lỗi phần mềm
+  H3: 3.2. Cụm màn hình bị hỏng sau va đập hoặc do lỗi linh kiện
+  H3: 3.3. Kết nối màn hình hoặc socket gặp sự cố
+  H3: 3.4. Lỗi bo mạch hoặc ảnh hưởng do nước, độ ẩm
+H2: 4. Cách kiểm tra Vivo X90 Pro bị đen màn hình trước khi sửa
+  H3: 4.1. Thử buộc khởi động lại máy
+  H3: 4.2. Kiểm tra phản hồi qua cuộc gọi, âm thanh và sạc
+  H3: 4.3. Những trường hợp không nên tiếp tục tự xử lý tại nhà
+H2: 5. Khi nào có thể ép cáp màn hình Vivo X90 Pro?
+  H3: 5.1. Kỹ thuật viên cần kiểm tra gì trước khi cân nhắc ép cáp?
+  H3: 5.2. Trường hợp nào có thể sửa cáp thay vì thay cả màn hình?
+  H3: 5.3. Vì sao ép cáp không phù hợp với mọi trường hợp mất hiển thị?
+H2: 6. Dấu hiệu cho thấy Vivo X90 Pro có thể cần thay màn hình
+  H3: 6.1. Tấm nền hiển thị đã hư hỏng vật lý
+  H3: 6.2. Màn hình có sọc, đốm đen, chảy mực hoặc chớp nháy trước khi mất hình
+  H3: 6.3. Cần kiểm tra thực tế trước khi quyết định thay cụm màn hình
+H2: 7. Kiểm tra và tư vấn khắc phục lỗi Vivo X90 Pro màn hình đen tại Gia Huệ Mobile
+  H3: 7.1. Kiểm tra tình trạng máy và xác định nguyên nhân mất hiển thị
+  H3: 7.2. Tư vấn phương án xử lý và báo giá trước khi sửa
+  H3: 7.3. Cam kết dịch vụ và quyền lợi khách hàng tại Gia Huệ Mobile
+  H3: 7.4. Kiểm tra lại hiển thị và chức năng liên quan trước khi bàn giao
+  H3: Thông tin liên hệ
+H2: 8. Câu hỏi thường gặp khi sửa màn hình Vivo X90 Pro
+  H3: 8.1. Vivo X90 Pro màn hình đen nhưng vẫn rung có bị mất dữ liệu không?
+  H3: 8.2. Ép cáp màn hình Vivo X90 Pro có bị đen lại không?
+  H3: 8.3. Kiểm tra và sửa lỗi màn hình đen Vivo X90 Pro mất bao lâu?
+INTERNAL_LINKS (4): https://giahuemobile.com/vivo-x90-pro-man-hinh-den-nhung-van-rung/ https://giahuemobile.com/san-pham/thay-man-hinh-vivo-x90-pro/ https://giahuemobile.com https://giahuemobile.com/danh-muc-san-pham/sua-dien-thoai-vivo/thay-man-hinh-vivo/
+WORDS: 3696 | IMAGES: 5 | FAQ: yes
+=== BODY ===
+Vivo X90 Pro màn hình đen nhưng vẫn rung hoặc có chuông báo chưa chắc phải thay nguyên cụm màn hình. Tình trạng này có thể liên quan đến màn AMOLED, cáp kết nối hoặc socket màn hình.&#x20;
+
+Tuy nhiên, máy vẫn rung hay nhận sạc chưa đủ để khẳng định bo mạch và nguồn hoạt động bình thường. Kỹ thuật viên cần kiểm tra để xác định đúng nguyên nhân. Nếu lỗi nằm ở cáp hoặc socket và có thể sửa được, bạn sẽ tiết kiệm chi phí so với thay cả bộ màn hình.
+
+Mục lục
+
+ Toggle 
+
+- 1. Vì sao Vivo X90 Pro vẫn rung nhưng không hiển thị hình ảnh? 
+- 1.1. Máy còn rung có nghĩa là điện thoại vẫn đang hoạt động không? 
+- 1.2. Màn hình đen hoàn toàn khác gì với màn hình tối, chớp tắt hoặc mất hiển thị từng phần? 
+ 
+- 2. Những biểu hiện thường gặp khi Vivo X90 Pro bị đen màn hình 
+- 2.1. Màn hình đen nhưng máy vẫn đổ chuông, rung hoặc nhận thông báo 
+- 2.2. Máy vẫn nhận cuộc gọi nhưng không thể thao tác vì không nhìn thấy màn hình 
+- 2.3. Màn hình tắt đột ngột sau khi điện thoại bị rơi hoặc tiếp xúc với nước 
+ 
+- 3. Nguyên nhân khiến Vivo X90 Pro mất hiển thị nhưng vẫn rung 
+- 3.1. Điện thoại bị treo hoặc gặp lỗi phần mềm 
+- 3.2. Cụm màn hình bị hỏng sau va đập hoặc do lỗi linh kiện 
+- 3.3. Kết nối màn hình hoặc socket gặp sự cố 
+- 3.4. Lỗi bo mạch hoặc ảnh hưởng do nước, độ ẩm 
+ 
+- 4. Cách kiểm tra Vivo X90 Pro bị đen màn hình trước khi sửa 
+- 4.1. Thử buộc khởi động lại máy 
+- 4.2. Kiểm tra phản hồi qua cuộc gọi, âm thanh và sạc 
+- 4.3. Những trường hợp không nên tiếp tục tự xử lý tại nhà 
+ 
+- 5. Khi nào có thể ép cáp màn hình Vivo X90 Pro? 
+- 5.1. Kỹ thuật viên cần kiểm tra gì trước khi cân nhắc ép cáp? 
+- 5.2. Trường hợp nào có thể sửa cáp thay vì thay cả màn hình? 
+- 5.3. Vì sao ép cáp không phù hợp với mọi trường hợp mất hiển thị? 
+ 
+- 6. Dấu hiệu cho thấy Vivo X90 Pro có thể cần thay màn hình 
+- 6.1. Tấm nền hiển thị đã hư hỏng vật lý 
+- 6.2. Màn hình có sọc, đốm đen, chảy mực hoặc chớp nháy trước khi mất hình 
+- 6.3. Cần kiểm tra thực tế trước khi quyết định thay cụm màn hình 
+ 
+- 7. Kiểm tra và tư vấn khắc phục lỗi Vivo X90 Pro màn hình đen tại Gia Huệ Mobile 
+- 7.1. Kiểm tra tình trạng máy và xác định nguyên nhân mất hiển thị 
+- 7.2. Tư vấn phương án xử lý và báo giá trước khi sửa 
+- 7.3. Cam kết dịch vụ và quyền lợi khách hàng tại Gia Huệ Mobile 
+- 7.4. Kiểm tra lại hiển thị và chức năng liên quan trước khi bàn giao 
+- Thông tin liên hệ 
+ 
+- 8. Câu hỏi thường gặp khi sửa màn hình Vivo X90 Pro 
+- 8.1. Vivo X90 Pro màn hình đen nhưng vẫn rung có bị mất dữ liệu không? 
+- 8.2. Ép cáp màn hình Vivo X90 Pro có bị đen lại không? 
+- 8.3. Kiểm tra và sửa lỗi màn hình đen Vivo X90 Pro mất bao lâu? 
+
+## 1. Vì sao Vivo X90 Pro vẫn rung nhưng không hiển thị hình ảnh?
+
+ Vivo X90 Pro vẫn rung nhưng màn hình đen và chớp sáng nhẹ khi kiểm tra 
+
+Tình trạng này có thể xuất phát từ màn hình, cáp kết nối hoặc các bộ phận liên quan đến tín hiệu hiển thị. Cần kiểm tra thực tế để xác định đúng nguyên nhân.
+
+### 1.1. Máy còn rung có nghĩa là điện thoại vẫn đang hoạt động không?
+
+Máy vẫn rung hoặc đổ chuông cho thấy điện thoại có thể vẫn đang hoạt động dù màn hình không hiển thị. Tuy nhiên, dấu hiệu này chưa đủ để khẳng định bo mạch và nguồn đều bình thường. Kỹ thuật viên cần kiểm tra thêm để xác định lỗi nằm ở màn hình hay bộ phận khác.
+
+### 1.2. Màn hình đen hoàn toàn khác gì với màn hình tối, chớp tắt hoặc mất hiển thị từng phần?
+
+Các mức độ mất tín hiệu hiển thị cảnh báo tình trạng hư hỏng phần cứng khác nhau:
+
+- Màn hình đen hoàn toàn: Màn hình không hiển thị hình ảnh dù máy vẫn có phản hồi như rung hoặc đổ chuông. 
+
+- Màn hình tối hoặc chớp tắt: Màn hình lúc sáng lúc tối, lóe sáng rồi tắt, có thể liên quan đến tấm nền hoặc kết nối màn hình. 
+
+- Mất hiển thị từng phần: Màn hình xuất hiện sọc ngang, sọc dọc, đốm đen hoặc vùng loang màu, có thể do tấm nền bị hư hỏng. 
+
+Các dấu hiệu trên chỉ giúp nhận biết tình trạng ban đầu, chưa đủ để kết luận chính xác linh kiện bị lỗi. Cần kiểm tra màn hình và các kết nối liên quan trước khi chọn phương án sửa chữa.
+
+## 2. Những biểu hiện thường gặp khi Vivo X90 Pro bị đen màn hình
+
+ Vivo X90 Pro màn hình đen nhưng máy vẫn rung và phản hồi khi kết nối 
+
+Vivo X90 Pro bị đen màn hình có thể xuất hiện trong nhiều tình huống khác nhau. Quan sát biểu hiện của máy giúp bạn cung cấp thông tin hữu ích để kỹ thuật viên kiểm tra nguyên nhân.
+
+### 2.1. Màn hình đen nhưng máy vẫn đổ chuông, rung hoặc nhận thông báo
+
+Điện thoại vẫn rung khi có cuộc gọi đến, phát âm báo tin nhắn hoặc phản hồi khi cắm sạc nhưng màn hình không hiển thị. Đây là dấu hiệu máy vẫn có thể đang hoạt động, trong khi màn hình hoặc đường kết nối hiển thị gặp sự cố.
+
+### 2.2. Máy vẫn nhận cuộc gọi nhưng không thể thao tác vì không nhìn thấy màn hình
+
+Khi màn hình tối đen, bạn không thể nhìn thấy giao diện để vuốt nhận cuộc gọi hoặc thao tác trên điện thoại. Cảm ứng có thể vẫn hoạt động hoặc đã bị lỗi, tùy nguyên nhân. Bạn nên tránh chạm liên tục khi không nhìn thấy màn hình để hạn chế thao tác nhầm.
+
+### 2.3. Màn hình tắt đột ngột sau khi điện thoại bị rơi hoặc tiếp xúc với nước
+
+- Sau khi va đập: Dù mặt kính bên ngoài không nứt, lực tác động vẫn có thể làm lỏng kết nối màn hình hoặc gây hư hỏng tấm nền bên trong. 
+
+- Sau khi tiếp xúc với nước : Hơi ẩm hoặc nước lọt vào máy có thể gây oxy hóa đầu nối, ảnh hưởng đến màn hình và các linh kiện liên quan. 
+
+Nếu máy bị vào nước, bạn nên tắt nguồn nếu có thể, không tiếp tục cắm sạc và mang đi kiểm tra sớm để hạn chế hư hỏng lan rộng.
+
+## 3. Nguyên nhân khiến Vivo X90 Pro mất hiển thị nhưng vẫn rung
+
+Vivo X90 Pro vẫn rung nhưng màn hình đen có thể do lỗi phần mềm, màn hình, cáp kết nối hoặc các bộ phận liên quan đến hiển thị. Cần kiểm tra thực tế để xác định đúng nguyên nhân trước khi sửa chữa.
+
+### 3.1. Điện thoại bị treo hoặc gặp lỗi phần mềm
+
+Xung đột phần mềm hoặc lỗi trong quá trình cập nhật có thể khiến màn hình không hiển thị dù máy vẫn rung hoặc nhận cuộc gọi. Bạn có thể thử khởi động lại điện thoại theo hướng dẫn phù hợp với thiết bị. Nếu màn hình vẫn đen, nên kiểm tra thêm để loại trừ nguyên nhân khác.
+
+### 3.2. Cụm màn hình bị hỏng sau va đập hoặc do lỗi linh kiện
+
+Sau khi rơi hoặc chịu lực ép mạnh, màn hình AMOLED có thể bị hỏng bên trong dù mặt kính bên ngoài không nứt. Khi đó, điện thoại vẫn có thể hoạt động nhưng không hiển thị hình ảnh. Nếu màn hình xuất hiện thêm sọc, đốm đen hoặc nhấp nháy trước khi tắt hẳn, khả năng hư hỏng màn hình cần được kiểm tra.
+
+### 3.3. Kết nối màn hình hoặc socket gặp sự cố
+
+Cáp màn hình kết nối với bo mạch có thể bị lỏng, hư hỏng hoặc tiếp xúc kém sau va đập hay quá trình sử dụng. Lỗi này có thể làm gián đoạn tín hiệu hiển thị, khiến màn hình tối đen trong khi máy vẫn rung hoặc phát âm báo.
+
+### 3.4. Lỗi bo mạch hoặc ảnh hưởng do nước, độ ẩm
+
+Nếu điện thoại từng tiếp xúc với nước hoặc bị ẩm, các điểm kết nối và linh kiện bên trong có thể bị oxy hóa, gây ảnh hưởng đến khả năng hiển thị. Ngoài ra, lỗi ở mạch cấp nguồn hoặc điều khiển màn hình cũng có thể khiến máy không lên hình. Những trường hợp này cần được kiểm tra kỹ trước khi quyết định sửa chữa hoặc thay linh kiện.
+
+## 4. Cách kiểm tra Vivo X90 Pro bị đen màn hình trước khi sửa
+
+ Buộc khởi động lại Vivo X90 Pro khi màn hình đen trước khi mang đi sửa 
+
+Trước khi mang máy đi sửa, bạn có thể thử một số bước kiểm tra đơn giản để xem điện thoại có bị treo tạm thời hay gặp sự cố khác.
+
+### 4.1. Thử buộc khởi động lại máy
+
+Nếu Vivo X90 Pro bị treo, bạn có thể thử khởi động lại bằng phím cứng:
+
+- Nhấn và giữ đồng thời Phím Nguồn và Phím Tăng âm lượng . 
+
+- Giữ liên tục trong khoảng 10 đến 15 giây không buông tay. 
+
+- Quan sát xem máy có rung nhẹ và logo vivo có xuất hiện trở lại hay không. Nếu logo hiển thị và vào màn hình chính bình thường, máy chỉ bị treo phần mềm tạm thời. 
+
+### 4.2. Kiểm tra phản hồi qua cuộc gọi, âm thanh và sạc
+
+Dùng điện thoại khác gọi vào Vivo X90 Pro, đồng thời chú ý các dấu hiệu sau:
+
+- Máy vẫn đổ chuông hoặc rung: Điện thoại có thể vẫn đang hoạt động, nhưng chưa thể kết luận các bộ phận bên trong đều bình thường. 
+
+- Máy có phản hồi khi cắm sạc : Đây là dấu hiệu cho thấy điện thoại có nhận phản hồi, nhưng chưa đủ để xác định pin và mạch sạc hoạt động ổn định. 
+
+### 4.3. Những trường hợp không nên tiếp tục tự xử lý tại nhà
+
+Bạn nên dừng thao tác và mang máy đi kiểm tra nếu gặp các tình huống sau:
+
+- Máy vừa tiếp xúc với nước : Không cắm sạc hoặc cố bật nguồn nhiều lần. Nếu có thể tắt máy an toàn, hãy tắt nguồn và đưa máy đi kiểm tra sớm. 
+
+- Máy bị cong vênh hoặc móp khung : Không ấn mạnh, bóp nắn hay cố ép màn hình vì có thể làm hư hỏng nặng hơn. 
+
+- Máy nóng bất thường hoặc có mùi khét : Ngừng sử dụng, ngắt sạc nếu đang cắm và không tiếp tục thử khởi động. 
+
+## 5. Khi nào có thể ép cáp màn hình Vivo X90 Pro?
+
+Ép cổ cáp là phương pháp thay đoạn cáp kết nối bị hỏng bằng thiết bị chuyên dụng, nhằm khôi phục đường truyền tín hiệu màn hình. Phương án này có thể giúp giữ lại màn hình zin nếu tấm nền vẫn còn hoạt động tốt và lỗi nằm ở phần cáp có thể xử lý.
+
+### 5.1. Kỹ thuật viên cần kiểm tra gì trước khi cân nhắc ép cáp?
+
+Trước khi lựa chọn phương án sửa chữa, kỹ thuật viên cần kiểm tra một số bộ phận:
+
+- Tấm nền AMOLED: Kiểm tra xem màn hình có nứt vỡ bên trong, chảy mực, sọc hoặc đốm đen hay không. 
+
+- Cổ cáp màn hình: Kiểm tra vị trí kết nối và đường truyền tín hiệu để xác định có dấu hiệu hư hỏng hay không. 
+
+- Socket trên bo mạch: Kiểm tra đầu nối có bị lỏng, oxy hóa, cong chân hoặc hư hỏng do va đập hay không. 
+
+### 5.2. Trường hợp nào có thể sửa cáp thay vì thay cả màn hình?
+
+Tình trạng thực tế của màn hình | 
+ Khả năng ép cáp | 
+ Phương án xử lý tối ưu | 
+
+Tấm nền còn hiển thị tốt, không nứt vỡ hoặc chảy mực | 
+ Có thể cân nhắc | 
+ Kiểm tra cổ cáp và ép cáp nếu xác định đúng lỗi tại đây. | 
+
+Màn hình chập chờn, lúc lên lúc mất sau va chạm | 
+ Cần kiểm tra thêm | 
+ Xác định lỗi do cáp, socket hay tấm nền trước khi sửa. | 
+
+Socket bị lỏng hoặc tiếp xúc kém | 
+ Thường không cần ép cáp | 
+ Kiểm tra và xử lý đầu kết nối nếu có thể. | 
+
+Màn hình có đốm đen, loang tím hoặc chảy mực | 
+ Thường không phù hợp | 
+ Kiểm tra tấm nền; có thể cần thay cụm màn hình. | 
+
+Tấm nền nứt vỡ hoặc hư hỏng nghiêm trọng | 
+ Không phù hợp | 
+ Thay nguyên cụm màn hình để đảm bảo độ bền sử dụng. | 
+
+Khả năng ép cáp còn phụ thuộc vào vị trí và mức độ hư hỏng thực tế. Không thể chỉ dựa vào biểu hiện màn hình chớp tắt hoặc đen hoàn toàn để kết luận có thể sửa cáp.
+
+### 5.3. Vì sao ép cáp không phù hợp với mọi trường hợp mất hiển thị?
+
+Ép cổ cáp chỉ phù hợp khi lỗi nằm ở phần cáp kết nối và tấm nền vẫn đủ điều kiện hoạt động. Nếu màn hình AMOLED đã bị nứt bên trong, chảy mực hoặc hỏng tấm nền, việc thay cáp thường không khắc phục được tình trạng mất hiển thị.
+
+## 6. Dấu hiệu cho thấy Vivo X90 Pro có thể cần thay màn hình
+
+ Vivo X90 Pro mất hiển thị kèm sọc và chảy mực có thể cần thay màn hình 
+
+Không phải trường hợp Vivo X90 Pro bị đen màn hình nhưng vẫn rung nào cũng cần thay màn. Tuy nhiên, nếu tấm nền đã hư hỏng hoặc không thể khôi phục bằng cách sửa cáp, bạn có thể cần thay nguyên cụm màn hình.
+
+### 6.1. Tấm nền hiển thị đã hư hỏng vật lý
+
+Sau khi điện thoại bị rơi hoặc chịu lực ép mạnh, tấm nền AMOLED bên trong có thể bị nứt vỡ dù mặt kính ngoài chưa vỡ rõ ràng. Khi đó, màn hình có thể tối đen hoàn toàn hoặc không hiển thị một phần nội dung. Nếu tấm nền đã hư hỏng nghiêm trọng, sửa cáp thường không giải quyết được vấn đề.
+
+### 6.2. Màn hình có sọc, đốm đen, chảy mực hoặc chớp nháy trước khi mất hình
+
+Một số dấu hiệu thường gặp trước khi màn hình mất hiển thị hoàn toàn gồm:
+
+- Đốm đen hoặc loang tím: Vết đen có thể lan rộng, che khuất nội dung trên màn hình. 
+
+- Xuất hiện sọc xanh, hồng hoặc trắng: Các đường sọc có thể chạy dọc hoặc ngang màn hình. 
+
+- Màn hình nhấp nháy, đổi màu bất thường: Hình ảnh chập chờn, lúc sáng lúc tối rồi không hiển thị nữa. 
+
+Những biểu hiện này có thể liên quan đến hư hỏng tấm nền hoặc đường kết nối màn hình. Cần kiểm tra thực tế để xác định liệu có phải thay màn hình hay không.
+
+### 6.3. Cần kiểm tra thực tế trước khi quyết định thay cụm màn hình
+
+Để tránh thay nhầm linh kiện, kỹ thuật viên nên kiểm tra theo từng bước:
+
+- Kiểm tra cáp và socket: Xem đầu kết nối có bị lỏng, bẩn hoặc hư hỏng hay không. 
+
+- Thử màn hình tương thích đang hoạt động tốt: Đối chiếu khả năng hiển thị và cảm ứng để xác định nguyên nhân. 
+
+- Đánh giá kết quả kiểm tra : Nếu màn hình thử hoạt động bình thường, lỗi có thể nằm ở cụm màn hình cũ. Nếu vẫn không hiển thị, cần kiểm tra thêm bo mạch và các bộ phận liên quan 
+
+Nếu tấm nền bên trong bị nứt hoặc chảy mực, ép cáp sẽ không khắc phục được. Lúc này, bạn nên chọn dịch vụ thay màn hình Vivo X90 Pro tại Gia Huệ Mobile để khôi phục khả năng hiển thị 120Hz và kiểm tra lại cảm biến vân tay sau khi thay.
+
+## 7. Kiểm tra và tư vấn khắc phục lỗi Vivo X90 Pro màn hình đen tại Gia Huệ Mobile
+
+ Kiểm tra và tư vấn lỗi Vivo X90 Pro màn hình đen tại Gia Huệ Mobile 
+
+Tại Gia Huệ Mobile , Vivo X90 Pro bị đen màn hình nhưng vẫn rung sẽ được kiểm tra để xác định nguyên nhân trước khi lựa chọn cách sửa chữa. Nếu lỗi nằm ở cổ cáp và tấm nền còn tốt, kỹ thuật viên có thể cân nhắc ép cáp để giữ lại màn hình zin, thay vì thay cả cụm khi chưa cần thiết.
+
+### 7.1. Kiểm tra tình trạng máy và xác định nguyên nhân mất hiển thị
+
+- Tiếp nhận máy, kiểm tra tình trạng bên ngoài và các dấu hiệu như rung, chuông, phản hồi khi cắm sạc. 
+
+- Kiểm tra màn hình, cáp kết nối và socket để xác định dấu hiệu hư hỏng. 
+
+- Khi cần thiết, thử màn hình tương thích đang hoạt động tốt để phân biệt lỗi màn hình với lỗi trên bo mạch. 
+
+### 7.2. Tư vấn phương án xử lý và báo giá trước khi sửa
+
+Sau khi kiểm tra, kỹ thuật viên sẽ giải thích tình trạng máy và đề xuất phương án phù hợp:
+
+- Tấm nền còn tốt, lỗi nằm ở cổ cáp: Cân nhắc ép cáp để giữ lại màn hình zin nếu đáp ứng điều kiện kỹ thuật. 
+
+- Tấm nền bị nứt vỡ hoặc chảy mực : Tư vấn thay cụm màn hình phù hợp với nhu cầu và ngân sách của khách hàng. 
+
+- Lỗi nằm ở bộ phận khác: Kiểm tra thêm và trao đổi phương án xử lý trước khi tiến hành sửa chữa. 
+
+### 7.3. Cam kết dịch vụ và quyền lợi khách hàng tại Gia Huệ Mobile
+
+- Trao đổi rõ về rủi ro sửa chữa: Kỹ thuật viên giải thích phương án thực hiện và những rủi ro có thể phát sinh trước khi sửa. 
+
+- Quy trình minh bạch: Khách hàng được trao đổi về tình trạng máy, phương án xử lý và kết quả kiểm tra trong quá trình sửa chữa. 
+
+- Tôn trọng quyền riêng tư: Việc sửa màn hình tập trung vào bộ phận cần xử lý. Khách hàng nên sao lưu dữ liệu nếu có thể; không nên xem việc sửa màn hình là bảo đảm dữ liệu trong mọi tình huống. 
+
+### 7.4. Kiểm tra lại hiển thị và chức năng liên quan trước khi bàn giao
+
+Sau khi hoàn tất quá trình ép cáp hoặc thay màn hình, thiết bị sẽ trải qua quy trình kiểm chuẩn:
+
+- Kiểm tra khả năng hiển thị, độ sáng và màu sắc. 
+
+- Thử cảm ứng trên toàn màn hình, chú ý khu vực cạnh cong. 
+
+- Kiểm tra tần số quét và cảm biến vân tay dưới màn hình nếu các chức năng này được hỗ trợ sau sửa chữa. 
+
+- Để khách hàng kiểm tra lại thiết bị, đối chiếu kết quả và xác nhận trước khi thanh toán. 
+
+### Thông tin liên hệ
+
+- Cơ sở 1: 177 Vũ Tông Phan, Phường Khương Trung, Quận Thanh Xuân, Hà Nội (mặt đường ven sông Tô Lịch, gần Ngã Tư Sở, có chỗ đỗ ô tô) . Hotline/Zalo: 0962.528.528 
+
+- Cơ sở 2: 22 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội. Hotline/Zalo: 0986.980.802 
+
+- Website: giahuemobile.com 
+
+- Thời gian làm việc: 08:00 – 19:30 hàng ngày, phục vụ xuyên trưa cả Thứ 7 và Chủ Nhật. 
+
+Với thiết bị sửa chữa chuyên dụng và nguồn linh kiện rõ ràng, Gia Huệ Mobile cung cấp dịch vụ thay màn hình Vivo trọn gói cho nhiều dòng máy, từ phổ thông đến flagship màn hình cong. Thời gian sửa chữa tùy tình trạng máy, khách hàng có thể được lấy máy trong ngày.
+
+## 8. Câu hỏi thường gặp khi sửa màn hình Vivo X90 Pro
+
+### 8.1. Vivo X90 Pro màn hình đen nhưng vẫn rung có bị mất dữ liệu không?
+
+Không. Sự cố đen màn hình đơn thuần là lỗi ở bộ phận xuất hình ảnh hoặc cáp tín hiệu, không can thiệp vào chip nhớ (UFS) trên bo mạch chủ. Toàn bộ hình ảnh, tin nhắn, danh bạ và tài liệu cá nhân của bạn vẫn được bảo toàn nguyên vẹn.
+
+### 8.2. Ép cáp màn hình Vivo X90 Pro có bị đen lại không?
+
+Độ bền sau khi ép cáp tương đương màn hình ban đầu nếu tấm nền còn tốt và quá trình dán mạch dẫn ACF đạt chuẩn nhiệt độ, áp suất. Màn hình chỉ bị đen lại nếu máy tiếp tục chịu va đập mạnh làm đứt chân đồng hoặc bị nước xâm nhập gây oxy hóa cổ cáp mới.
+
+### 8.3. Kiểm tra và sửa lỗi màn hình đen Vivo X90 Pro mất bao lâu?
+
+Thời gian kiểm tra và sửa chữa Vivo X90 Pro bị đen màn hình thường khoảng 60–90 phút, tùy nguyên nhân và phương án xử lý. Kỹ thuật viên sẽ thông báo thời gian cụ thể sau khi kiểm tra tình trạng máy.

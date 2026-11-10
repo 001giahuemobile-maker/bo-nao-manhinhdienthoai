@@ -1,0 +1,51 @@
+# --- BI MAT: chan tuyet doi ---
+.env
+.env.*
+*.pem
+*.key
+*.ppk
+*.pfx
+*.p12
+*.crt
+id_rsa*
+credentials*
+client_secret*
+service-account*
+cookies*.json
+*.token
+token.json
+auth.json
+
+# --- CO SO DU LIEU ---
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# --- RAC / FILE TAM ---
+node_modules/
+__pycache__/
+*.pyc
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+
+# --- Nhat ky dong bo: BAT BUOC chan, khong se lap commit vo tan ---
+dong-bo.log
+
+# --- Them o day thu muc chua du lieu khach hang tho, file xuat... ---
+# outputs/
+
+# --- VIDEO: ban hien chon khong dua len kho (2026-11-03) ---
+*.mp4
+*.mov
+*.m4v
+*.mkv
+*.avi
+
+# --- Tai lieu ban giao noi bo: khong dua len kho manhinhdienthoai (ban hien yeu cau 2026-11-10) ---
+raw/tai-lieu-ban-giao/
+wiki/toan-van-ban-giao/

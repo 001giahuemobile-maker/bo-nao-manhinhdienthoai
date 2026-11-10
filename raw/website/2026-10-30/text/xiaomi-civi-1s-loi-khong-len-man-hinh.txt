@@ -1,0 +1,273 @@
+﻿URL: https://giahuemobile.com/xiaomi-civi-1s-loi-khong-len-man-hinh/
+TYPE: post
+TITLE: Xiaomi Civi 1S Lỗi Không Lên Màn Hình Có Phải Thay Màn Không?
+META: Xiaomi Civi 1S lỗi không lên màn hình do đâu? Tìm hiểu nguyên nhân, dấu hiệu nhận biết lỗi màn hình và khi nào cần kiểm tra, thay màn hình để xử lý đúng cách.
+CANONICAL: https://giahuemobile.com/xiaomi-civi-1s-loi-khong-len-man-hinh/
+ROBOTS: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+PUBLISHED: 2026-10-07T12:37:03+07:00 | MODIFIED: 2026-10-07T15:03:02+07:00
+H1: Xiaomi Civi 1S Lỗi Không Lên Màn Hình Có Phải Thay Màn Không?
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+H2: 1. Xiaomi Civi 1S Không Lên Màn Nhưng Máy Vẫn Hoạt Động
+  H3: Máy vẫn rung, đổ chuông, nhận thông báo nhưng màn hình tối đen
+  H3: Cắm sạc máy có phản hồi nhưng màn hình không hiển thị
+H2: 2. Nguyên nhân khiến Xiaomi Civi 1S không lên màn hình
+  H3: Socket hoặc kết nối màn hình bị lỏng sau va đập
+  H3: Tấm nền OLED bị hỏng do rơi hoặc chịu lực mạnh
+  H3: Máy bị ẩm hoặc vào nước làm ảnh hưởng đến kết nối màn hình
+  H3: Lỗi phần mềm hoặc đường hiển thị trên main
+H2: 3. Xiaomi Civi 1S không lên màn do màn hay main? Cách phân biệt
+  H3: Dấu hiệu nghiêng về lỗi màn hình
+  H3: Dấu hiệu nghiêng về lỗi kết nối hoặc bo mạch
+  H3: Vì sao máy còn rung, có chuông nhưng chưa thể kết luận do màn?
+H2: 4. Xiaomi Civi 1S không lên màn hình phải làm sao?
+  H3: Khởi động lại máy để loại trừ lỗi tạm thời
+  H3: Cắm sạc và theo dõi phản hồi của máy
+  H3: Gọi vào máy để kiểm tra điện thoại còn hoạt động không
+H2: 5. Khi nào Xiaomi Civi 1S không lên màn phải thay màn?
+  H3: Tấm nền OLED bị hỏng sau khi rơi hoặc va đập
+  H3: Màn hình có sọc, đốm đen, chảy mực rồi mất hiển thị
+  H3: Đã kiểm tra và xác định lỗi nằm ở cụm màn hình
+H2: 6. Kiểm tra Xiaomi Civi 1S không lên màn hình tại Gia Huệ Mobile
+  H3: Kiểm tra màn hình và kết nối trước khi tư vấn sửa chữa
+  H3: Xác định lỗi do màn hình, kết nối hay bo mạch
+  H3: Tư vấn đúng tình trạng, chỉ thay màn khi thật sự cần
+INTERNAL_LINKS (4): https://giahuemobile.com/xiaomi-civi-1s-loi-khong-len-man-hinh/ https://giahuemobile.com/danh-muc-san-pham/sua-dien-thoai-xiaomi/thay-man-hinh-xiaomi/ https://giahuemobile.com/san-pham/thay-man-hinh-xiaomi-civi-1s/ https://giahuemobile.com
+WORDS: 3383 | IMAGES: 5 | FAQ: no
+=== BODY ===
+Xiaomi Civi 1S lỗi không lên màn hình chưa đồng nghĩa với việc phải thay ngay cả cụm màn hình mới. Nếu máy vẫn rung, có chuông khi có cuộc gọi đến hoặc vẫn phản hồi khi cắm sạc, điện thoại có thể vẫn đang hoạt động nhưng phần hiển thị đang gặp vấn đề.
+
+Với trường hợp Xiaomi Civi 1S bị đen màn hình , nguyên nhân có thể liên quan đến socket kết nối, cáp màn hình, đường truyền tín hiệu hiển thị hoặc tình trạng máy bị treo tạm thời. Vì vậy, thay màn ngay từ đầu chưa chắc là phương án phù hợp.
+
+Cách xử lý nên bắt đầu từ việc kiểm tra kết nối, cáp và đường hiển thị để xác định vị trí lỗi. Chỉ khi kiểm tra cho thấy tấm nền OLED đã bị tổn thương nhiều, chảy mực, mất hiển thị hoặc không còn phương án xử lý phù hợp thì mới nên cân nhắc thay cụm màn hình.
+
+Mục lục
+
+ Toggle 
+
+- 1. Xiaomi Civi 1S Không Lên Màn Nhưng Máy Vẫn Hoạt Động 
+- Máy vẫn rung, đổ chuông, nhận thông báo nhưng màn hình tối đen 
+- Cắm sạc máy có phản hồi nhưng màn hình không hiển thị 
+ 
+- 2. Nguyên nhân khiến Xiaomi Civi 1S không lên màn hình 
+- Socket hoặc kết nối màn hình bị lỏng sau va đập 
+- Tấm nền OLED bị hỏng do rơi hoặc chịu lực mạnh 
+- Máy bị ẩm hoặc vào nước làm ảnh hưởng đến kết nối màn hình 
+- Lỗi phần mềm hoặc đường hiển thị trên main 
+ 
+- 3. Xiaomi Civi 1S không lên màn do màn hay main? Cách phân biệt 
+- Dấu hiệu nghiêng về lỗi màn hình 
+- Dấu hiệu nghiêng về lỗi kết nối hoặc bo mạch 
+- Vì sao máy còn rung, có chuông nhưng chưa thể kết luận do màn? 
+ 
+- 4. Xiaomi Civi 1S không lên màn hình phải làm sao? 
+- Khởi động lại máy để loại trừ lỗi tạm thời 
+- Cắm sạc và theo dõi phản hồi của máy 
+- Gọi vào máy để kiểm tra điện thoại còn hoạt động không 
+ 
+- 5. Khi nào Xiaomi Civi 1S không lên màn phải thay màn? 
+- Tấm nền OLED bị hỏng sau khi rơi hoặc va đập 
+- Màn hình có sọc, đốm đen, chảy mực rồi mất hiển thị 
+- Đã kiểm tra và xác định lỗi nằm ở cụm màn hình 
+ 
+- 6. Kiểm tra Xiaomi Civi 1S không lên màn hình tại Gia Huệ Mobile 
+- Kiểm tra màn hình và kết nối trước khi tư vấn sửa chữa 
+- Xác định lỗi do màn hình, kết nối hay bo mạch 
+- Tư vấn đúng tình trạng, chỉ thay màn khi thật sự cần 
+
+## 1. Xiaomi Civi 1S Không Lên Màn Nhưng Máy Vẫn Hoạt Động
+
+ Xiaomi Civi 1S màn hình đen nhưng hệ thống vẫn hoạt động và hiển thị trên máy tính 
+
+Nếu Xiaomi Civi 1S không lên màn nhưng máy vẫn rung, có chuông hoặc vẫn phản hồi khi cắm sạc, điều này cho thấy điện thoại vẫn có phản hồi ở một số chức năng. Tuy nhiên, chỉ dựa vào các dấu hiệu này chưa thể kết luận chính xác lỗi nằm ở màn hình, đường kết nối hay bo mạch.
+
+### Máy vẫn rung, đổ chuông, nhận thông báo nhưng màn hình tối đen
+
+Khi Xiaomi Civi 1S bị đen màn hình nhưng vẫn có chuông khi gọi đến, vẫn rung hoặc phát âm thanh thông báo, máy có thể vẫn đang hoạt động dù phần hiển thị không lên hình.
+
+Lúc này, cần kiểm tra cụm màn hình, cáp kết nối, socket và đường tín hiệu hiển thị để xác định nguyên nhân. Một số trường hợp cảm ứng vẫn còn phản hồi dù màn hình không hiển thị, nhưng cũng không nên dựa vào dấu hiệu này để tự kết luận màn hình đã hỏng hoàn toàn.
+
+### Cắm sạc máy có phản hồi nhưng màn hình không hiển thị
+
+Nếu cắm sạc và máy vẫn rung, phát âm báo hoặc có dấu hiệu nhận nguồn nhưng màn hình vẫn tối đen, đây là một dấu hiệu hữu ích để kỹ thuật viên thu hẹp phạm vi kiểm tra.
+
+Với trường hợp Xiaomi Civi 1S không hiển thị màn hình như vậy, cần kiểm tra thêm màn hình, cáp, socket và đường nguồn hoặc tín hiệu hiển thị liên quan. Việc máy có phản hồi khi cắm sạc chưa đủ để khẳng định pin, mạch sạc hay bo mạch đều đang hoạt động bình thường.
+
+## 2. Nguyên nhân khiến Xiaomi Civi 1S không lên màn hình
+
+ Kiểm tra cáp và socket Xiaomi Civi 1S khi máy không lên màn hình 
+
+ Xiaomi Civi 1S không lên màn hình có thể liên quan đến cụm màn hình, cáp kết nối, tình trạng ẩm nước hoặc lỗi ở bo mạch. Vì vậy, với tình trạng lỗi không lên màn hình, cần kiểm tra từng bộ phận liên quan trước khi kết luận có phải thay màn hình hay không.
+
+### Socket hoặc kết nối màn hình bị lỏng sau va đập
+
+Sau khi máy bị rơi hoặc va đập mạnh, cáp và socket màn hình có thể bị ảnh hưởng khiến điểm tiếp xúc không ổn định. Khi đó, màn hình có thể tối đen, chập chờn hoặc mất hiển thị dù điện thoại vẫn còn hoạt động.
+
+Trường hợp này cần kiểm tra đầu cáp và socket trước. Nếu nguyên nhân chỉ nằm ở điểm tiếp xúc, có thể xử lý lại kết nối mà chưa cần thay cả cụm màn hình.
+
+### Tấm nền OLED bị hỏng do rơi hoặc chịu lực mạnh
+
+Xiaomi Civi 1S sử dụng màn hình OLED mỏng nên tấm nền bên trong vẫn có thể bị ảnh hưởng dù mặt kính bên ngoài chưa vỡ rõ ràng.
+
+Nếu máy từng bị rơi, cấn góc hoặc chịu lực mạnh, tấm nền có thể xuất hiện sọc, chảy mực, vùng mất hiển thị hoặc mất hình hoàn toàn. Với những trường hợp nghi ngờ tấm nền bị tổn thương, cần kiểm tra kỹ để đánh giá còn khả năng xử lý hay nên thay màn hình.
+
+### Máy bị ẩm hoặc vào nước làm ảnh hưởng đến kết nối màn hình
+
+Nước và hơi ẩm có thể lọt vào bên trong máy, làm ảnh hưởng đến socket, cáp màn hình hoặc các điểm tiếp xúc liên quan đến hiển thị.
+
+Ban đầu, màn hình có thể chập chờn, lúc lên lúc không; sau đó tình trạng có thể trở nên nghiêm trọng hơn và dẫn đến mất hiển thị. Nếu phát hiện sớm và màn hình chưa bị ảnh hưởng nhiều, một số trường hợp có thể xử lý ở khu vực kết nối mà chưa cần thay màn hình.
+
+### Lỗi phần mềm hoặc đường hiển thị trên main
+
+Không phải mọi trường hợp màn hình tối đen đều do màn hình bị hỏng. Máy bị treo hệ thống hoặc gặp lỗi phần mềm tạm thời cũng có thể khiến hình ảnh không hiển thị bình thường.
+
+Nếu khởi động lại nhưng màn hình vẫn không lên, cần kiểm tra nguồn và đường tín hiệu hiển thị trên bo mạch. Trường hợp lỗi nằm ở bo mạch, thay màn hình mới sẽ không khắc phục được. Vì vậy, nên kiểm tra kỹ nguyên nhân trước khi sử dụng dịch vụ thay màn hình Xiaomi để tránh phát sinh chi phí không cần thiết.
+
+## 3. Xiaomi Civi 1S không lên màn do màn hay main? Cách phân biệt
+
+Muốn biết Xiaomi Civi 1S không lên màn do màn hình hay bo mạch, cần dựa vào nhiều dấu hiệu kết hợp chứ không thể chỉ nhìn vào việc máy còn rung hoặc còn nhận sạc. Người dùng có thể kiểm tra sơ bộ tại nhà, nhưng để xác định chính xác vẫn cần thử màn hình và đo kiểm khi cần.
+
+Dấu hiệu kiểm tra | 
+ Có thể liên quan đến màn hình / kết nối màn | 
+ Cần kiểm tra thêm nguồn / bo mạch | 
+
+Máy vẫn rung, có chuông | 
+ Có thể liên quan đến màn hình, cáp hoặc socket | 
+ Vẫn cần loại trừ lỗi đường hiển thị trên bo mạch | 
+
+Trước khi mất hình từng có sọc, chớp hoặc chảy mực | 
+ Khả năng tấm nền OLED bị tổn thương cao hơn | 
+ Vẫn cần kiểm tra nếu có thêm dấu hiệu bất thường khác | 
+
+Cắm sạc vẫn có phản hồi | 
+ Cho thấy máy vẫn có phản hồi khi cấp nguồn | 
+ Chưa đủ để loại trừ lỗi nguồn hoặc bo mạch | 
+
+Máy không rung, không chuông, không phản hồi | 
+ Chưa đủ cơ sở để kết luận lỗi do màn hình | 
+ Cần kiểm tra pin, nguồn, cổng sạc và bo mạch | 
+
+Thử bằng màn hình tốt và máy lên hình | 
+ Có cơ sở khoanh vùng lỗi ở cụm màn hình cũ hoặc kết nối của màn | 
+ Nếu màn thử vẫn không lên, cần kiểm tra tiếp đường hiển thị và bo mạch | 
+
+Lưu ý: Những dấu hiệu trên chỉ giúp khoanh vùng nguyên nhân ban đầu. Để xác định Xiaomi Civi 1S không lên màn hình do màn, cáp, socket hay bo mạch, cần kiểm tra thực tế và thử bằng linh kiện phù hợp trước khi quyết định thay màn hình.
+
+### Dấu hiệu nghiêng về lỗi màn hình
+
+Nếu Xiaomi Civi 1S bật không lên màn hình nhưng máy vẫn rung, vẫn có chuông khi gọi đến hoặc trước đó màn hình từng xuất hiện sọc, chớp, đốm đen hay chảy mực, khả năng lỗi liên quan đến cụm màn hình hoặc phần kết nối sẽ cao hơn.
+
+Tuy nhiên, những dấu hiệu này chỉ giúp định hướng kiểm tra ban đầu. Để xác định màn hình có thực sự gặp lỗi hay không, kỹ thuật viên nên kiểm tra cáp, socket và thử bằng một cụm màn hình phù hợp khi cần.
+
+### Dấu hiệu nghiêng về lỗi kết nối hoặc bo mạch
+
+Nếu máy không có phản hồi khi cắm sạc, không rung, không có chuông hoặc từng bị vào nước, va đập mạnh, cần kiểm tra thêm phần nguồn và bo mạch thay vì chỉ tập trung vào màn hình.
+
+Ngoài ra, vẫn có trường hợp máy còn hoạt động nhưng đường nguồn hoặc tín hiệu hiển thị trên bo mạch gặp vấn đề. Khi đó, thay màn hình mới chưa chắc khắc phục được tình trạng không hiển thị nếu nguyên nhân thực sự nằm ở bo mạch.
+
+### Vì sao máy còn rung, có chuông nhưng chưa thể kết luận do màn?
+
+Máy còn rung hoặc có chuông cho thấy điện thoại vẫn có hoạt động, nhưng chưa đồng nghĩa lỗi nằm ở màn hình.
+
+Nguyên nhân có thể liên quan đến cáp hoặc socket màn hình tiếp xúc kém, đường tín hiệu hiển thị trên bo mạch gặp vấn đề, hoặc cụm màn hình bị ảnh hưởng sau va đập, ẩm nước. Vì vậy, dấu hiệu rung và có chuông chỉ giúp khoanh vùng nguyên nhân, chưa đủ để quyết định thay màn hình.
+
+Để xác định chuẩn xác hơn, cần kiểm tra các điểm kết nối, thử bằng một cụm màn hình phù hợp và đo kiểm đường hiển thị trên bo mạch khi cần trước khi lựa chọn phương án sửa chữa.
+
+## 4. Xiaomi Civi 1S không lên màn hình phải làm sao?
+
+ Người dùng thử nhấn giữ nút nguồn để khởi động lại Xiaomi Civi 1S khi màn hình tối đen 
+
+Khi Xiaomi Civi 1S không lên màn hình, bạn nên thử những bước kiểm tra đơn giản trước để loại trừ tình trạng máy bị treo hoặc hết pin. Nếu màn hình vẫn không hiển thị sau đó, nên mang máy đi kiểm tra để xác định nguyên nhân trước khi sửa chữa.
+
+### Khởi động lại máy để loại trừ lỗi tạm thời
+
+Nếu Xiaomi Civi 1S bật không lên màn hình sau khi đang sử dụng bình thường, trước tiên hãy thử khởi động lại máy. Một số trường hợp hệ thống bị treo có thể khiến màn hình tối đen dù các bộ phận bên trong chưa gặp vấn đề.
+
+Bạn có thể nhấn giữ phím nguồn khoảng 10–15 giây để thử buộc máy khởi động lại. Nếu máy rung hoặc xuất hiện logo Xiaomi, hãy chờ máy khởi động hoàn tất rồi kiểm tra lại màn hình.
+
+Nếu máy vẫn tối đen sau khi khởi động lại, không nên thao tác lặp lại quá nhiều lần mà nên chuyển sang bước kiểm tra tiếp theo.
+
+### Cắm sạc và theo dõi phản hồi của máy
+
+Pin cạn cũng có thể khiến điện thoại chưa thể bật màn hình ngay. Hãy sử dụng bộ sạc và cáp phù hợp, cắm sạc khoảng 20–30 phút rồi thử khởi động lại máy.
+
+Trong lúc sạc, bạn có thể để ý xem máy có rung, phát âm báo hoặc có dấu hiệu nhận nguồn hay không. Nếu máy vẫn có phản hồi nhưng màn hình không sáng, cần kiểm tra thêm phần hiển thị thay vì chỉ cho rằng máy đang hết pin.
+
+Không nên dựa vào việc thân máy nóng lên để tự kết luận điện thoại đang sạc bình thường, vì nhiệt độ tăng bất thường cũng có thể liên quan đến vấn đề khác bên trong máy.
+
+### Gọi vào máy để kiểm tra điện thoại còn hoạt động không
+
+Bạn có thể dùng một điện thoại khác gọi vào số đang lắp trên Xiaomi Civi 1S để kiểm tra nhanh tình trạng máy.
+
+Nếu máy vẫn rung hoặc phát chuông nhưng màn hình tối đen, đây là dấu hiệu cho thấy điện thoại vẫn có phản hồi và cần ưu tiên kiểm tra màn hình, cáp kết nối hoặc đường tín hiệu hiển thị.
+
+Nếu không có chuông hay phản hồi, vẫn chưa thể kết luận nguyên nhân nằm ở màn hình hay bo mạch. Máy có thể hết pin, mất sóng hoặc gặp vấn đề về nguồn, vì vậy cần kiểm tra thêm trước khi quyết định sửa chữa.
+
+## 5. Khi nào Xiaomi Civi 1S không lên màn phải thay màn?
+
+ Thử màn hình Xiaomi Civi 1S để xác định có phải thay màn không 
+
+Xiaomi Civi 1S không lên màn hình chỉ nên thay cả cụm màn khi đã kiểm tra và xác định lỗi nằm ở tấm nền hoặc cụm màn hình cũ không còn phương án xử lý phù hợp. Nếu nguyên nhân chỉ liên quan đến kết nối, cáp hoặc đường hiển thị trên bo mạch thì chưa cần thay màn hình.
+
+### Tấm nền OLED bị hỏng sau khi rơi hoặc va đập
+
+Nếu máy từng bị rơi, cấn góc hoặc chịu lực mạnh, tấm nền OLED bên trong có thể bị ảnh hưởng dù mặt kính bên ngoài vẫn còn nguyên.
+
+Khi kiểm tra thấy tấm nền đã nứt, chảy mực hoặc có dấu hiệu tổn thương rõ ràng, khả năng xử lý để khôi phục hiển thị sẽ thấp hơn. Với trường hợp này, nếu không còn phương án phù hợp để xử lý riêng, có thể cân nhắc thay cụm màn hình.
+
+### Màn hình có sọc, đốm đen, chảy mực rồi mất hiển thị
+
+Nếu trước khi tối đen, màn hình từng xuất hiện sọc, đốm đen, chảy mực hoặc vùng hiển thị bất thường, khả năng tấm nền đã bị ảnh hưởng sẽ cao hơn.
+
+Với tình trạng Xiaomi Civi 1S không hiển thị màn hình kèm các dấu hiệu này, kỹ thuật viên cần kiểm tra cụm màn hình để xác định nguyên nhân. Nếu tấm nền đã tổn thương nhiều và không còn phương án xử lý phù hợp, thay màn hình có thể là lựa chọn hợp lý hơn.
+
+### Đã kiểm tra và xác định lỗi nằm ở cụm màn hình
+
+Một cách để khoanh vùng nguyên nhân là thử bằng một cụm màn hình phù hợp. Nếu màn thử hiển thị bình thường trong khi màn cũ vẫn không lên hình, có cơ sở xác định lỗi liên quan đến cụm màn hình cũ.
+
+Kỹ thuật viên cần kiểm tra cáp, socket và đường tín hiệu để loại trừ các lỗi có thể xử lý riêng. Chỉ khi xác định cụm màn hình hỏng hoàn toàn mới nên thay màn hình Xiaomi Civi 1S để khôi phục hiển thị OLED 120Hz và cảm ứng mượt mà.
+
+## 6. Kiểm tra Xiaomi Civi 1S không lên màn hình tại Gia Huệ Mobile
+
+ Kỹ thuật viên Gia Huệ Mobile kiểm tra Xiaomi Civi 1S không lên màn trước khi tư vấn sửa 
+
+Với Xiaomi Civi 1S không lên màn hình, Gia Huệ Mobile ưu tiên kiểm tra đúng nguyên nhân trước khi tư vấn sửa chữa. Mục tiêu là xác định lỗi nằm ở màn hình, cáp kết nối hay bo mạch để tránh thay linh kiện khi chưa cần thiết.
+
+### Kiểm tra màn hình và kết nối trước khi tư vấn sửa chữa
+
+Khi tiếp nhận máy, kỹ thuật viên sẽ kiểm tra tình trạng nguồn, phản hồi khi cắm sạc và các dấu hiệu hoạt động thực tế của điện thoại.
+
+Sau đó, nếu cần mở máy, kỹ thuật viên sẽ kiểm tra cáp và socket màn hình, vệ sinh lại vị trí tiếp xúc và thử kết nối lại để xem màn hình có hoạt động trở lại hay không.
+
+Nếu nguyên nhân chỉ do tiếp xúc kém hoặc kết nối chưa ổn định, máy có thể xử lý ngay mà chưa cần thay cả cụm màn hình.
+
+### Xác định lỗi do màn hình, kết nối hay bo mạch
+
+Nếu đã kiểm tra kết nối nhưng màn hình vẫn không lên, kỹ thuật viên sẽ tiếp tục khoanh vùng bằng cách thử với một cụm màn hình tốt và kiểm tra đường nguồn, tín hiệu hiển thị trên main.
+
+Với trường hợp Xiaomi Civi 1S bị đen màn hình do lỗi ở cáp hoặc khu vực kết nối, kỹ thuật viên sẽ tư vấn phương án xử lý phù hợp nếu còn khả năng sửa. Nếu màn hình thử vẫn không hiển thị, phần bo mạch sẽ được kiểm tra tiếp để tránh thay màn hình không đúng nguyên nhân.
+
+### Tư vấn đúng tình trạng, chỉ thay màn khi thật sự cần
+
+Gia Huệ Mobile thực hiện theo nguyên tắc kiểm tra trước, báo phương án sau. Máy hỏng phần nào sẽ ưu tiên xử lý đúng phần đó, không mặc định cứ không lên màn là phải thay cả bộ màn hình.
+
+Khách hàng có thể theo dõi trực tiếp quá trình kiểm tra tại bàn kỹ thuật. Trước khi sửa, kỹ thuật viên sẽ thông báo tình trạng máy, phương án xử lý và chi phí trọn gói để khách quyết định.
+
+Nếu cần thay màn hình, cửa hàng sẽ tư vấn rõ loại màn, chất lượng hiển thị và chính sách bảo hành tương ứng. Trường hợp lỗi có thể xử lý ngay, Gia Huệ Mobile ưu tiên hoàn thiện trong ngày lấy ngay và hạn chế giữ máy qua đêm.
+
+Gia Huệ Mobile có hơn 22 năm kinh nghiệm sửa chữa điện thoại tại Hà Nội, hỗ trợ kiểm tra và tư vấn tình trạng máy trước khi sửa.
+
+- Cơ sở 1: 177 Vũ Tông Phan, Phường Khương Trung, Quận Thanh Xuân, Hà Nội (mặt đường ven sông Tô Lịch, gần Ngã Tư Sở, có chỗ đỗ ô tô) . Hotline/Zalo: 0962.528.528 
+
+- Cơ sở 2: 22 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội. Hotline/Zalo: 0986.980.802 
+
+- Website: giahuemobile.com 
+
+- Thời gian làm việc: 08:00 – 19:30 hàng ngày, phục vụ xuyên trưa cả Thứ 7 và Chủ Nhật. 
+
+Nếu Xiaomi Civi 1S của bạn đang không lên màn hình, hãy liên hệ Gia Huệ Mobile để được kiểm tra và tư vấn đúng tình trạng trước khi quyết định sửa hoặc thay màn.

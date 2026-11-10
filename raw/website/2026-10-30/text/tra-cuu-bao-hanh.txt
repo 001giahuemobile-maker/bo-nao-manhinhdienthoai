@@ -1,0 +1,28 @@
+﻿URL: https://giahuemobile.com/tra-cuu-bao-hanh/
+TYPE: page
+TITLE: Tra Cứu Bảo Hành – Gia Huệ Mobile
+META: 
+CANONICAL: https://giahuemobile.com/tra-cuu-bao-hanh/
+ROBOTS: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+PUBLISHED: 2026-03-26T10:49:33+07:00 | MODIFIED: 2026-09-19T14:03:26+07:00
+H1: Tra Cứu Tiến Độ Sửa Chữa
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+
+INTERNAL_LINKS (0): 
+WORDS: 34 | IMAGES: 0 | FAQ: no
+=== BODY ===
+# Tra Cứu Tiến Độ Sửa Chữa
+
+Nhập số điện thoại để kiểm tra tình trạng máy đang sửa chữa tại Gia Huệ Mobile
+
+= 48 && event.charCode 
+
+Tra cứu ngay 
+ 
+ Đang kiểm tra...

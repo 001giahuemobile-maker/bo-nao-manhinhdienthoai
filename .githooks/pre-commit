@@ -1,0 +1,45 @@
+#!/bin/sh
+# ============================================================
+# Chot chan bi mat - chay TRUOC moi lan commit.
+# Phat hien khoa/token/mat khau trong noi dung sap commit -> CHAN.
+# Bat bang: git config core.hooksPath .githooks
+#
+# Da sua so voi ban goc: doc tung dong de khong bo sot ten file
+# co dau cach / dau tieng Viet; bo cac chuoi base64 dai (anh nhung
+# trong HTML) de khong chan nham.
+# ============================================================
+
+PATTERNS='(sk-[A-Za-z0-9]{20,}|sk-ant-[A-Za-z0-9-]{20,}|gh[pousr]_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{50,}|AIza[A-Za-z0-9_-]{30,}|xox[baprs]-[A-Za-z0-9-]{10,}|ya29\.[A-Za-z0-9_-]{20,}|eyJ[A-Za-z0-9_-]{30,}\.[A-Za-z0-9_-]{20,}\.|-----BEGIN [A-Z ]*PRIVATE KEY-----|AKIA[0-9A-Z]{16})'
+
+DS=$(mktemp) || exit 1
+KQ=$(mktemp) || exit 1
+git -c core.quotepath=off diff --cached --name-only --diff-filter=ACM > "$DS"
+
+while IFS= read -r f; do
+  [ -f "$f" ] || continue
+
+  # Chan file nhay cam lot qua .gitignore
+  case "$f" in
+    *.env|*.env.*|*.pem|*.key|*.pfx|*.p12|*cookies*.json|*.db|*.sqlite*|*credentials*)
+      echo "CHAN COMMIT - file thuoc loai cam: $f"
+      echo x >> "$KQ"
+      continue ;;
+  esac
+
+  if git show ":$f" 2>/dev/null | sed -E 's#[A-Za-z0-9+/=]{200,}##g' | grep -qaE "$PATTERNS"; then
+    echo "CHAN COMMIT - phat hien bi mat trong: $f"
+    echo x >> "$KQ"
+  fi
+done < "$DS"
+
+FOUND=0
+[ -s "$KQ" ] && FOUND=1
+rm -f "$DS" "$KQ"
+
+if [ "$FOUND" = "1" ]; then
+  echo ""
+  echo " COMMIT DA BI CHAN DE BAO VE BI MAT."
+  echo " Go gia tri that ra khoi file (chi ghi 'co ton tai') roi commit lai."
+  exit 1
+fi
+exit 0

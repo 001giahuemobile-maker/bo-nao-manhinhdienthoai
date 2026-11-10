@@ -1,0 +1,19 @@
+﻿URL: https://giahuemobile.com/blocks/block-footer/
+TYPE: block
+TITLE: 
+META: 
+CANONICAL: 
+ROBOTS: 
+PUBLISHED:  | MODIFIED: 
+H1: 
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+
+INTERNAL_LINKS (0): 
+WORDS: 0 | IMAGES: 0 | FAQ: no
+=== BODY ===

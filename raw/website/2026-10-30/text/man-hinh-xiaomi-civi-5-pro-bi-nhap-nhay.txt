@@ -1,0 +1,266 @@
+﻿URL: https://giahuemobile.com/man-hinh-xiaomi-civi-5-pro-bi-nhap-nhay/
+TYPE: post
+TITLE: Màn Hình Xiaomi Civi 5 Pro Bị Nhấp Nháy Có Phải Thay Không?
+META: Màn hình Xiaomi Civi 5 Pro bị nhấp nháy, chớp tắt liên tục có thể do lỗi màn hình hoặc kết nối. Tìm hiểu nguyên nhân và cách xử lý đúng cách.
+CANONICAL: https://giahuemobile.com/man-hinh-xiaomi-civi-5-pro-bi-nhap-nhay/
+ROBOTS: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+PUBLISHED: 2026-10-05T15:45:13+07:00 | MODIFIED: 2026-10-05T15:59:26+07:00
+H1: Màn Hình Xiaomi Civi 5 Pro Bị Nhấp Nháy Có Phải Thay Không?
+BREADCRUMB: 
+CATEGORIES: 
+PRICE: 
+RATING:  | 
+SHORT:
+
+OUTLINE:
+H2: 1. Màn hình Xiaomi Civi 5 Pro bị nhấp nháy có phải hỏng màn không?
+  H3: Khi nào có thể sửa chữa giữ lại màn hình gốc?
+  H3: Hiện tượng nhấp nháy có tự hết không? Có nên tiếp tục sử dụng?
+H2: 2. Nguyên nhân màn hình Xiaomi Civi 5 Pro bị nhấp nháy thường gặp
+  H3: Rơi rớt, va đập hoặc tì đè làm ảnh hưởng kết nối màn hình
+  H3: Hơi ẩm và nước xâm nhập làm oxy hóa phần tiếp xúc
+  H3: Lỗi linh kiện phần cứng hoặc mạch điều khiển hiển thị
+  H3: Xung đột phần mềm hoặc lỗi sau khi cập nhật hệ thống
+H2: 3. Phân biệt các trường hợp nhấp nháy thường gặp
+  H3: Nhấp nháy ở độ sáng thấp: Cơ chế điều chỉnh PWM
+  H3: Màn hình chập chờn khi máy quá nóng hoặc chạy tác vụ nặng
+  H3: Màn hình chớp tắt khi lắc máy hoặc chạm nhẹ vào thân máy
+H2: 4. Các bước tự kiểm tra tại nhà trước khi đi sửa
+  H3: Khởi động lại máy và kiểm tra lỗi phần mềm
+  H3: Thử chuyển đổi tần số quét màn hình
+  H3: Chủ động sao lưu dữ liệu quan trọng
+H2: 5. Bảng chẩn đoán thực tế: Khi nào có thể sửa cáp, khi nào phải thay màn?
+H2: 6. Quy trình kiểm tra màn hình Xiaomi Civi 5 Pro tại Gia Huệ Mobile
+H2: 7. Địa chỉ kiểm tra màn hình Xiaomi Civi 5 Pro tại Hà Nội – Gia Huệ Mobile
+  H3: Thông tin liên hệ
+INTERNAL_LINKS (4): https://giahuemobile.com/man-hinh-xiaomi-civi-5-pro-bi-nhap-nhay/ https://giahuemobile.com/san-pham/thay-man-hinh-xiaomi-civi-5-pro/ https://giahuemobile.com/danh-muc-san-pham/sua-dien-thoai-xiaomi/thay-man-hinh-xiaomi/ https://giahuemobile.com
+WORDS: 3228 | IMAGES: 5 | FAQ: yes
+=== BODY ===
+Màn hình Xiaomi Civi 5 Pro bị nhấp nháy , chớp giật hoặc hiển thị chập chờn chưa chắc đã phải thay cả cụm màn hình. Trước tiên, cần kiểm tra để xác định nguyên nhân có phải do phần mềm, cài đặt hiển thị, kết nối màn hình hay tấm nền AMOLED bên trong hay không.
+
+Nếu màn hình vẫn hiển thị đầy đủ, không bị sọc, chảy mực và cảm ứng hoạt động bình thường, máy vẫn có thể xử lý phần kết nối hoặc cáp màn hình để giữ lại màn hình gốc. Trường hợp màn hình chỉ nhấp nháy nhẹ khi thay đổi độ sáng cũng có thể liên quan đến cơ chế điều chỉnh độ sáng PWM trên màn AMOLED.
+
+Chỉ nên thay cả cụm màn hình khi kiểm tra xác định tấm nền hiển thị đã bị hư hỏng hoặc xuất hiện thêm các lỗi như sọc màn hình, đốm đen, chảy mực hay hỏng cảm ứng.
+
+Mục lục
+
+ Toggle 
+
+- 1. Màn hình Xiaomi Civi 5 Pro bị nhấp nháy có phải hỏng màn không? 
+- Khi nào có thể sửa chữa giữ lại màn hình gốc? 
+- Hiện tượng nhấp nháy có tự hết không? Có nên tiếp tục sử dụng? 
+ 
+- 2. Nguyên nhân màn hình Xiaomi Civi 5 Pro bị nhấp nháy thường gặp 
+- Rơi rớt, va đập hoặc tì đè làm ảnh hưởng kết nối màn hình 
+- Hơi ẩm và nước xâm nhập làm oxy hóa phần tiếp xúc 
+- Lỗi linh kiện phần cứng hoặc mạch điều khiển hiển thị 
+- Xung đột phần mềm hoặc lỗi sau khi cập nhật hệ thống 
+ 
+- 3. Phân biệt các trường hợp nhấp nháy thường gặp 
+- Nhấp nháy ở độ sáng thấp: Cơ chế điều chỉnh PWM 
+- Màn hình chập chờn khi máy quá nóng hoặc chạy tác vụ nặng 
+- Màn hình chớp tắt khi lắc máy hoặc chạm nhẹ vào thân máy 
+ 
+- 4. Các bước tự kiểm tra tại nhà trước khi đi sửa 
+- Khởi động lại máy và kiểm tra lỗi phần mềm 
+- Thử chuyển đổi tần số quét màn hình 
+- Chủ động sao lưu dữ liệu quan trọng 
+ 
+- 5. Bảng chẩn đoán thực tế: Khi nào có thể sửa cáp, khi nào phải thay màn? 
+- 6. Quy trình kiểm tra màn hình Xiaomi Civi 5 Pro tại Gia Huệ Mobile 
+- 7. Địa chỉ kiểm tra màn hình Xiaomi Civi 5 Pro tại Hà Nội – Gia Huệ Mobile 
+- Thông tin liên hệ 
+
+## 1. Màn hình Xiaomi Civi 5 Pro bị nhấp nháy có phải hỏng màn không?
+
+ Kiểm tra socket và cáp màn Xiaomi Civi 5 Pro bị nhấp nháy 
+
+### Khi nào có thể sửa chữa giữ lại màn hình gốc?
+
+Không thể chỉ dựa vào hiện tượng chớp nháy để kết luận màn hình đã hỏng hoàn toàn. Cụm màn hình AMOLED của Xiaomi Civi 5 Pro gồm kính bên ngoài, tấm nền AMOLED và cáp mềm (FPC) kết nối với bo mạch chủ.
+
+Máy vẫn có khả năng giữ lại màn hình zin nếu đáp ứng các điều kiện sau:
+
+- Toàn bộ màn hình vẫn hiển thị đầy đủ, không có khu vực bị mất hình hoặc điểm mù. 
+
+- Tấm nền bên trong không bị nứt, không xuất hiện sọc dọc, sọc ngang hoặc vết chảy mực. 
+
+- Cảm ứng vẫn hoạt động ổn định, phản hồi chính xác trên toàn bộ màn hình. 
+
+Trong trường hợp này, hiện tượng chớp nháy có thể liên quan đến chân tiếp xúc của socket bị lỏng, đường mạch bị oxy hóa hoặc cáp màn hình bị ảnh hưởng sau va đập. Kỹ thuật viên có thể kiểm tra, vệ sinh chân tiếp xúc hoặc xử lý lại phần cáp màn hình bằng thiết bị chuyên dụng. Cách này có thể giúp giữ lại màn hình zin và tiết kiệm chi phí so với thay cả cụm màn hình.
+
+### Hiện tượng nhấp nháy có tự hết không? Có nên tiếp tục sử dụng?
+
+Nếu nguyên nhân xuất phát từ phần cứng như socket bị lỏng hoặc cáp màn hình bị ảnh hưởng, tình trạng nhấp nháy thường không tự hết. Tiếp tục sử dụng trong thời gian dài có thể khiến lỗi trở nên nghiêm trọng hơn, thậm chí dẫn đến mất hiển thị hoặc màn hình bị tối đen.
+
+Nếu màn hình chớp tắt liên tục, kèm theo tình trạng máy nóng bất thường, cảm ứng bị loạn hoặc máy từng bị rơi, vào nước hay tiếp xúc với hơi ẩm, bạn nên sao lưu dữ liệu quan trọng và mang máy đi kiểm tra sớm. Ngoài nguy cơ khiến lỗi màn hình nặng hơn, việc sử dụng màn hình chớp nháy trong thời gian dài cũng có thể gây mỏi mắt và khó chịu khi nhìn.
+
+## 2. Nguyên nhân màn hình Xiaomi Civi 5 Pro bị nhấp nháy thường gặp
+
+ Xiaomi Civi 5 Pro bị nhấp nháy màn hình sau khi rơi va đập 
+
+Để xác định đúng nguyên nhân, cần dựa vào thời điểm lỗi xuất hiện, tình trạng sử dụng trước đó và kết quả kiểm tra thực tế:
+
+### Rơi rớt, va đập hoặc tì đè làm ảnh hưởng kết nối màn hình
+
+Khi máy bị rơi, va đập hoặc chịu lực tì đè, phần kết nối giữa màn hình và bo mạch chủ có thể bị xê dịch, lỏng hoặc ảnh hưởng đến các mối hàn trên cáp màn hình. Tình trạng này có thể xảy ra ngay cả khi kính bên ngoài không bị nứt vỡ.
+
+Khi kết nối không ổn định, tín hiệu hình ảnh và nguồn điện truyền đến màn hình có thể bị gián đoạn, khiến màn hình chớp sáng, tối đen hoặc nhấp nháy chập chờn.
+
+### Hơi ẩm và nước xâm nhập làm oxy hóa phần tiếp xúc
+
+Nước mưa, mồ hôi hoặc việc thường xuyên sử dụng điện thoại trong môi trường ẩm ướt như phòng tắm có thể khiến chân socket và các đường mạch bên trong bị oxy hóa. Khi các điểm tiếp xúc bị ảnh hưởng, kết nối và nguồn điện cấp cho màn hình có thể không ổn định, dẫn đến hiện tượng màn hình chớp tắt, nhấp nháy từng lúc hoặc nháy màn khi thay đổi độ sáng.
+
+### Lỗi linh kiện phần cứng hoặc mạch điều khiển hiển thị
+
+Nếu màn hình liên tục nhấp nháy ở mọi mức sáng, nguyên nhân có thể liên quan đến mạch điều khiển hiển thị trên bo mạch chủ hoặc mạch cấp nguồn cho tấm nền AMOLED gặp vấn đề. Khi nguồn điện cấp cho màn hình không ổn định, tấm nền khó duy trì độ sáng đều, khiến màn hình chớp tắt hoặc nhấp nháy liên tục.
+
+### Xung đột phần mềm hoặc lỗi sau khi cập nhật hệ thống
+
+Không phải trường hợp màn hình chập chờn nào cũng xuất phát từ phần cứng. Nếu tình trạng này xuất hiện ngay sau khi cập nhật HyperOS, cài đặt ứng dụng can thiệp sâu vào giao diện, bộ lọc màu hoặc ứng dụng bên thứ ba có chức năng điều chỉnh độ sáng, nguyên nhân có thể liên quan đến xung đột phần mềm và hệ thống điều khiển hiển thị.
+
+## 3. Phân biệt các trường hợp nhấp nháy thường gặp
+
+ Xiaomi Civi 5 Pro xuất hiện nhấp nháy nhẹ khi để độ sáng thấp 
+
+### Nhấp nháy ở độ sáng thấp: Cơ chế điều chỉnh PWM
+
+Nếu màn hình chỉ hơi gợn hoặc có cảm giác nhấp nháy nhẹ khi giảm độ sáng xuống mức rất thấp, đặc biệt trong phòng tối, thì chưa chắc đây là dấu hiệu màn hình bị hỏng.
+
+Màn hình AMOLED thường sử dụng cơ chế PWM để điều chỉnh độ sáng. Khi độ sáng ở mức thấp, màn hình sẽ bật và tắt ánh sáng rất nhanh để giảm độ sáng. Một số người có mắt nhạy cảm có thể nhận thấy hiện tượng nhấp nháy này.
+
+Để giảm cảm giác khó chịu, bạn có thể kiểm tra trong phần cài đặt màn hình xem máy có hỗ trợ chế độ chống nhấp nháy hoặc tính năng làm mờ DC (DC Dimming) hay không.
+
+### Màn hình chập chờn khi máy quá nóng hoặc chạy tác vụ nặng
+
+Khi máy phải hoạt động với cường độ cao như chơi game đồ họa nặng, quay video 4K ngoài trời hoặc vừa sạc vừa sử dụng, nhiệt độ máy có thể tăng cao. Lúc này, hệ thống sẽ tự điều chỉnh hiệu suất để bảo vệ phần cứng, đồng thời có thể giảm hiệu năng và độ sáng màn hình.
+
+Điều này đôi khi khiến hình ảnh có cảm giác giật hoặc độ sáng thay đổi đột ngột. Nếu sau khi máy nguội, màn hình trở lại bình thường và hiển thị ổn định thì chưa chắc màn hình đã bị hỏng.
+
+### Màn hình chớp tắt khi lắc máy hoặc chạm nhẹ vào thân máy
+
+Nếu chỉ cần chạm nhẹ vào mặt lưng, viền máy hoặc di chuyển điện thoại mà màn hình lập tức chớp tắt, tối sầm rồi sáng trở lại, nguyên nhân có thể liên quan đến socket kết nối bị lỏng hoặc cáp màn hình bị ảnh hưởng.
+
+Trong trường hợp này, không nên dùng lực ấn mạnh vào màn hình hoặc bóp viền máy vì có thể khiến phần hiển thị bên trong bị hư hỏng nặng hơn. Bạn nên mang máy đi kiểm tra để xác định chính xác nguyên nhân và có hướng xử lý phù hợp.
+
+## 4. Các bước tự kiểm tra tại nhà trước khi đi sửa
+
+ Sao lưu dữ liệu Xiaomi Civi 5 Pro khi màn hình bắt đầu nhấp nháy 
+
+### Khởi động lại máy và kiểm tra lỗi phần mềm
+
+- Khởi động lại điện thoại để làm mới hệ thống và kiểm tra xem tình trạng nhấp nháy có còn xuất hiện hay không. 
+
+- Nếu lỗi bắt đầu sau khi cài một ứng dụng mới, bạn có thể thử gỡ ứng dụng đó, đặc biệt là các ứng dụng chỉnh độ sáng, giao diện, launcher hoặc theme. 
+
+- Vào Cài đặt > Hiển thị và độ sáng , thử tắt các tính năng tự động điều chỉnh độ sáng hoặc tông màu thích ứng rồi theo dõi xem màn hình có hoạt động ổn định hơn không. 
+
+### Thử chuyển đổi tần số quét màn hình
+
+Bạn có thể vào phần cài đặt tần số quét và thử chuyển đổi giữa các chế độ 60Hz, 120Hz hoặc tần số quét tự động.
+
+Nếu màn hình hoạt động ổn định ở 60Hz nhưng lại chớp giật khi chuyển sang 120Hz, hoặc ngược lại, thông tin này có thể giúp kỹ thuật viên khoanh vùng nguyên nhân nhanh hơn. Lỗi có thể liên quan đến phần mềm, cài đặt hiển thị hoặc kết nối và mạch điều khiển màn hình.
+
+Bạn nên ghi nhớ hoặc ghi lại tình trạng này để thông báo cho kỹ thuật viên khi mang máy đi kiểm tra.
+
+### Chủ động sao lưu dữ liệu quan trọng
+
+Khi màn hình đã có dấu hiệu chập chờn, máy có thể bị mất hiển thị. Vì vậy, bạn nên tranh thủ lúc màn hình và cảm ứng vẫn còn hoạt động để sao lưu những dữ liệu quan trọng:
+
+- Đồng bộ danh bạ, tin nhắn, hình ảnh và các dữ liệu cần thiết lên tài khoản đám mây như Google Drive hoặc Xiaomi Cloud. 
+
+- Kết nối điện thoại với máy tính bằng cáp để sao chép các tài liệu, hình ảnh và dữ liệu quan trọng. 
+
+## 5. Bảng chẩn đoán thực tế: Khi nào có thể sửa cáp, khi nào phải thay màn?
+
+Không phải trường hợp màn hình nhấp nháy nào cũng phải thay cả màn hình. Bảng dưới đây giúp bạn tham khảo và hình dung hướng xử lý phù hợp:
+
+Biểu hiện thực tế trên màn hình | 
+ Khả năng nguyên nhân | 
+ Hướng xử lý kỹ thuật | 
+ Khả năng giữ màn hình gốc | 
+
+Chỉ cảm thấy gợn nhẹ khi để độ sáng ở mức rất thấp, hình ảnh và cảm ứng vẫn bình thường | 
+ Có thể liên quan đến cơ chế làm mờ PWM của màn hình AMOLED | 
+ Kiểm tra cài đặt hiển thị, thử chế độ chống nhấp nháy hoặc DC Dimming nếu máy hỗ trợ | 
+ Cao, thường không cần can thiệp phần cứng | 
+
+Màn hình chập chờn, chớp tắt sau khi rơi hoặc va đập nhưng hình ảnh vẫn đầy đủ, cảm ứng hoạt động bình thường | 
+ Có thể do socket kết nối bị lỏng hoặc cáp màn hình bị ảnh hưởng | 
+ Kiểm tra socket, vệ sinh điểm tiếp xúc, kết nối lại hoặc xử lý cáp nếu cần | 
+ Khá cao nếu tấm nền vẫn còn tốt | 
+
+Máy từng tiếp xúc với nước hoặc hơi ẩm, màn hình chớp tắt từng lúc nhưng chưa xuất hiện đốm đen, chảy mực | 
+ Có thể do các điểm tiếp xúc hoặc đường mạch bị oxy hóa | 
+ Kiểm tra và làm sạch phần tiếp xúc, xử lý phần mạch bị ảnh hưởng | 
+ Tùy vào mức độ oxy hóa và tình trạng thực tế | 
+
+Màn hình chớp tắt kèm sọc xanh, hồng, đốm đen hoặc chảy mực | 
+ Tấm nền hiển thị bên trong có thể đã bị hư hỏng | 
+ Kiểm tra cụm màn hình; nếu tấm nền hỏng thì thường phải thay cả cụm | 
+ Thấp | 
+
+Màn hình chớp tắt kèm liệt hoặc loạn cảm ứng, khung máy bị móp hoặc cong nặng | 
+ Có thể liên quan đến phần cảm ứng, màn hình hoặc khung máy bị ảnh hưởng | 
+ Kiểm tra tổng thể máy và xác định tình trạng cụm màn hình trước khi quyết định sửa chữa | 
+ Thấp, tùy mức độ hư hỏng | 
+
+Nhìn chung, khả năng giữ lại màn hình gốc phụ thuộc vào tình trạng thực tế của màn hình. Nếu chỉ lỏng socket hoặc lỗi cáp, kỹ thuật viên có thể xử lý lại để tiết kiệm chi phí. Nếu tấm nền AMOLED đã bị sọc, chảy mực hoặc hư hỏng vật lý, phương án phù hợp là thay màn hình Xiaomi Civi 5 Pro để khôi phục hiển thị và tần số quét 120Hz.
+
+## 6. Quy trình kiểm tra màn hình Xiaomi Civi 5 Pro tại Gia Huệ Mobile
+
+ Kỹ thuật viên Gia Huệ Mobile đo kiểm socket và đường màn Xiaomi Civi 5 Pro 
+
+Để tránh trường hợp phải thay cả màn hình khi máy chỉ gặp lỗi ở phần kết nối hoặc cáp, Gia Huệ Mobile kiểm tra trực tiếp tình trạng máy trước khi đưa ra phương án sửa chữa. Quy trình gồm các bước chính:
+
+- Bước 1: Kiểm tra ngoại quan và các chức năng 
+
+Kỹ thuật viên cùng khách hàng kiểm tra khả năng hiển thị, cảm ứng và vân tay dưới màn hình. Màn hình cũng được kiểm tra ở nhiều màu nền khác nhau để phát hiện sọc, đốm, vùng hiển thị bất thường hoặc điểm cảm ứng không nhận. 
+
+- Bước 2: Kiểm tra socket và kết nối màn hình 
+
+Kỹ thuật viên tháo máy cẩn thận và kiểm tra phần socket kết nối giữa màn hình với bo mạch chủ. Các điểm tiếp xúc được kiểm tra để phát hiện tình trạng lỏng, oxy hóa hoặc hư hỏng. 
+
+- Bước 3: Đo kiểm các đường kết nối liên quan 
+
+Kỹ thuật viên sử dụng thiết bị đo chuyên dụng để kiểm tra các đường nguồn và tín hiệu liên quan đến màn hình. Qua đó có thể xác định nguyên nhân nằm ở phần màn hình, cáp kết nối hay bo mạch của máy. 
+
+- Bước 4: Tư vấn phương án và báo chi phí trước khi sửa 
+
+- Nếu lỗi do socket, kết nối hoặc phần mềm, kỹ thuật viên sẽ tư vấn cách xử lý phù hợp và thông báo chi phí trước khi thực hiện. 
+
+- Nếu cáp màn hình bị ảnh hưởng nhưng tấm nền vẫn còn tốt, có thể tư vấn phương án xử lý cáp để giữ lại màn hình gốc nếu điều kiện thực tế cho phép. 
+
+- Nếu tấm nền AMOLED đã bị hư hỏng, xuất hiện sọc, đốm đen, chảy mực hoặc lỗi hiển thị nghiêm trọng, kỹ thuật viên sẽ tư vấn phương án thay màn hình phù hợp và báo giá trọn gói trước khi sửa. 
+
+Mọi phương án sửa chữa đều được trao đổi với khách hàng trước khi thực hiện, giúp dễ lựa chọn và hạn chế chi phí phát sinh. Không chỉ dòng Civi, các dịch vụ kiểm tra bo mạch, ép kính và thay màn hình Xiaomi tại cửa hàng đều được thực hiện công khai, sử dụng linh kiện phù hợp với từng model và đi kèm chính sách bảo hành rõ ràng.
+
+## 7. Địa chỉ kiểm tra màn hình Xiaomi Civi 5 Pro tại Hà Nội – Gia Huệ Mobile
+
+Với hơn 22 năm kinh nghiệm trong lĩnh vực sửa chữa điện thoại và xử lý các lỗi màn hình, Gia Huệ Mobile ưu tiên kiểm tra đúng nguyên nhân trước khi đưa ra phương án sửa chữa. Mục tiêu là giúp khách hàng có lựa chọn phù hợp, hạn chế thay màn hình khi chưa thực sự cần thiết.
+
+- Kiểm tra minh bạch: Khách hàng có thể theo dõi trực tiếp quá trình tháo lắp và kiểm tra máy tại khu vực kỹ thuật. 
+
+- Ưu tiên giữ màn hình gốc: Nếu màn hình vẫn còn khả năng sửa chữa, kỹ thuật viên sẽ kiểm tra các phương án như vệ sinh điểm tiếp xúc, xử lý kết nối hoặc cáp màn hình trước khi tư vấn thay mới. 
+
+- Thiết bị hỗ trợ chuyên dụng: Sử dụng các thiết bị phục vụ việc kiểm tra, xử lý cáp và kiểm tra các linh kiện liên quan đến màn hình. 
+
+- Báo giá rõ ràng: Sau khi kiểm tra, khách hàng được tư vấn tình trạng máy và báo giá trọn gói trước khi sửa. Không tự ý thực hiện thêm hạng mục khi chưa có sự đồng ý. 
+
+- Chính sách bảo hành: Thời gian và điều kiện bảo hành được thông báo rõ theo từng loại linh kiện và dịch vụ. 
+
+### Thông tin liên hệ
+
+- Cơ sở 1: 177 Vũ Tông Phan, Phường Khương Trung, Quận Thanh Xuân, Hà Nội (mặt đường ven sông Tô Lịch, gần Ngã Tư Sở, có chỗ đỗ ô tô) . 
+
+- Hotline/Zalo: 0962.528.528 
+
+- Cơ sở 2: 22 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội. 
+
+- Hotline/Zalo: 0986.980.802 
+
+- Website: giahuemobile.com 
+
+- Thời gian làm việc: 08:00 – 19:30 hàng ngày, phục vụ xuyên trưa cả Thứ 7 và Chủ Nhật. 
+
+Nếu màn hình Xiaomi Civi 5 Pro xuất hiện tình trạng nhấp nháy, chớp tắt hoặc hiển thị chập chờn, hãy liên hệ Gia Huệ Mobile để được tư vấn và kiểm tra tình trạng máy trước khi quyết định sửa chữa.
